@@ -4,6 +4,7 @@ var signner_id = [];//得獎人id
 var signner_picture = [];//得獎人頭像網址
 var Signner_js = null
 var Signer_items = []
+var WhitchBlock = null
 
 //要在自己的腳本導出變量才能讓別人繼承  
 module.exports = {    
@@ -12,6 +13,7 @@ module.exports = {
     signner_id,
     Signner_js,
     Signer_items,
+    WhitchBlock,
     WebSocket_NumberOfSign_Host,
 };
 

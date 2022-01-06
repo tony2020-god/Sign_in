@@ -31,25 +31,15 @@ cc.Class({
         //         gameModel.Signner_js.itemlist[i].playerAvatar.spriteFrame = picture;
         //     }
         //  });
-        console.log("我的名子"+ this.playerName.string);
-        
     },
 
     onLoad () {
         this.items_parent = cc.find("畫布/已簽到欄/view/content");
-        console.log("欄位座標: " + this.items_parent.getPosition())
-        this.WhitchBlock = this.items_parent.getChildrenCount() % 3
-        console.log("第幾格" + this.WhitchBlock)
-        
+        this.WhitchBlock = this.items_parent.getChildrenCount() % 3 //判斷每行第幾格
+        console.log("第幾格" + this.WhitchBlock)        
     },
     
     start () {
-        this.Move();
-    },
-
-    Move()
-    {
-        
         if( this.WhitchBlock == 1)        //在每行的第一格
         {
           this.MoveObject.setPosition(-610,1150)
@@ -64,7 +54,7 @@ cc.Class({
         else if( this.WhitchBlock == 2)  //在每行的第二格 
         {
             this.MoveObject.setPosition(-610,571)
-            this.node.getComponent(sp.Skeleton).setAnimation(0,"middle",false); //setAnimation(trackIndex, "anim_name", loop)
+            this.node.getComponent(sp.Skeleton).setAnimation(0,"middle",false); //setAnimation(trackIndex, "動畫名稱", 使否重複)
             cc.tween(this.MoveObject)
             .to(0.23, { position: cc.v2(0,571)})
             .to(0.3, { scale: 1.2})
@@ -83,7 +73,6 @@ cc.Class({
             .start()
         }
     },
-
      update (dt) {
      },
 });

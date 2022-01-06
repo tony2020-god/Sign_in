@@ -14,43 +14,54 @@ cc.Class({
             default: null,
             type: cc.Node
         },
+        items_parent: {
+            default: null,
+            type: cc.Node
+        },
     },
 
     onLoad () {
         this.itemlist=[];
-        this.winlist=[];
-        this.index = [];
-        this.indexcount = 0;
         gameModel.Signner_js = this;
-        this.items_parent = cc.find("畫布/已簽到欄/view/content");
-        this.SignBlock = cc.find("畫布/已簽到欄");
     },
 
     start () {
-         this.SpawnWinner();
+        //隔一秒刪除vConsole按鈕
+        setTimeout(function() {
+            if (window.vConsole) 
+            {
+              window.vConsole.destroy();
+              window.vConsole = null;
+            }
+        }, 1000); 
+        gameModel.signner_id.push("花花")
+        gameModel.signner_id.push("毛毛")
+        gameModel.signner_id.push("泡泡")
+        gameModel.signner_id.push("小女警")
+        this.SpawnWinner();
     },
 
     //列出得獎人和得到的獎品清單
     SpawnWinner(){
         for(var i = 0; i < gameModel.signner_id.length; i++)
         {
-            gameModel.signner_name[i] = gameModel.signner_id[i]
-            var node = cc.instantiate(this.items);
-            node.parent = this.items_parent;
-            if(this.items_parent.getChildrenCount() >= 25)
+            if(gameModel.signner_name.includes(gameModel.signner_id[i]) == false)
             {
-                this.SignBlock.getComponent(cc.ScrollView).enabled = true ;
-                this.bar.active = true; 
-            } 
-            gameModel.Signer_items[i] = node;
-            var obj = node.getComponent(SignnerItem);//抓取預置物的Signner腳本
-            this.itemlist.push(obj);
+                gameModel.signner_name[i] = gameModel.signner_id[i]
+                var node = cc.instantiate(this.items);
+                node.parent = this.items_parent;
+                var obj = node.getComponent(SignnerItem);//抓取預置物的Signner腳本
+                this.itemlist.push(obj);
+                this.itemlist[i].updateInfo(i);
+            }
         }
     },
 
     AddNew()
     {
-        gameModel.signner_id.push("葳葳");
+        var name = Math.floor(Math.random() * (20 - 1+1)) + 1
+        console.log(name)
+        if(gameModel.signner_id.includes(name) == false) gameModel.signner_id.push(name);
         this.SpawnWinner();
     },
 
