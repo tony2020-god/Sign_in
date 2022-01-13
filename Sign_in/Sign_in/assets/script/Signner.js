@@ -21,16 +21,16 @@ cc.Class({
 
     updateInfo(i){ 
         this.playerName.string = gameModel.signner_name[i];
-        // this.playerAvatar.spriteFrames = gameModel.signner_picture[i];
-        // cc.assetManager.loadRemote(gameModel.signner_picture[i],{ext :'.jpg'||'.png'},function(err,texture)
-        // { 
-        //     if(err) console.log("錯誤")
-        //     else
-        //     {
-        //         var picture = new cc.SpriteFrame(texture); //texture 轉 SpriteFrame
-        //         gameModel.Signner_js.itemlist[i].playerAvatar.spriteFrame = picture;
-        //     }
-        //  });
+        this.playerAvatar.spriteFrames = gameModel.signner_picture[i];
+        cc.assetManager.loadRemote(gameModel.signner_picture[i],{ext :'.jpg'||'.png'},function(err,texture)
+        { 
+            if(err) console.log("錯誤")
+            else
+            {
+                var picture = new cc.SpriteFrame(texture); //texture 轉 SpriteFrame
+                gameModel.Signner_js.itemlist[i].playerAvatar.spriteFrame = picture;
+            }
+         });
     },
 
     onLoad () {

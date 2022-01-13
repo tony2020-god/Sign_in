@@ -2,9 +2,9 @@
 var signner_name = [];//得獎人名字
 var signner_id = [];//得獎人id
 var signner_picture = [];//得獎人頭像網址
-var Signner_js = null
-var Signer_items = []
-var WhitchBlock = null
+var Signner_js = null;
+var Signer_items = [];
+var WhitchBlock = null;
 
 //要在自己的腳本導出變量才能讓別人繼承  
 module.exports = {    
@@ -20,7 +20,7 @@ module.exports = {
 //主持人從Websocket取得已簽到的玩家資料
 function WebSocket_NumberOfSign_Host(){
     //取得Websocket通訊網址
-    let ws = new WebSocket("wss://api.hilives.net/ws/v1/interact/game/redpack?activity_id=" + gameModel.activity_id + "&game_id="+ gameModel.game_id);
+    let ws = new WebSocket("wss://api.hilives.net/ws/v1/activity/sign/staff?activity_id=" + gameModel.activity_id);
     //連線開啟時觸發 
     ws.onopen = function (event) {
         console.log(" WebSocket_NumberOfSign_Host 通道開啟");
@@ -31,16 +31,16 @@ function WebSocket_NumberOfSign_Host(){
         var gameModel = require("Model");
         var object = JSON.parse(event.data)
         console.log('已簽到玩家: ',object.message);
-        for(var i = 0;i < object.PrizeStaffs.length; i++)
+        for(var i = 0;i < object.SignStaffs.length; i++)
         {
-            if(gameModel.signner_id.includes(object.PrizeStaffs[i].id) == false)
+            if(gameModel.signner_id.includes(object.SignStaffs[i].id) == false)
             {
-                gameModel.signner_id[i] = object.PrizeStaffs[i].id; //得獎者id
-                gameModel.signner_name[i] = object.PrizeStaffs[i].name //得獎人名稱
-                gameModel.signner_picture[i] = object.PrizeStaffs[i].avatar //得獎人照片
-                gameModel.Signner_js.SpawnNewWinner();
-                console.log("已簽到玩家姓名[] : " + gameModel.winner_name[i]);
-                console.log("已簽到玩家頭像[] : " + gameModel.winner_picture[i]);
+                gameModel.signner_id[i] = object.SignStaffs[i].id; //得獎者id
+                gameModel.signner_name[i] = object.SignStaffs[i].name //得獎人名稱
+                gameModel.signner_picture[i] = object.SignStaffs[i].avatar //得獎人照片
+                gameModel.Signner_js.SpawnWinner();
+                console.log("已簽到玩家姓名[] : " + gameModel.signner_name[i]);
+                console.log("已簽到玩家頭像[] : " + gameModel.signner_picture[i]);
             }  
         }
     };

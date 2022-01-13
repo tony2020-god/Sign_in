@@ -21,8 +21,10 @@ cc.Class({
     },
 
     onLoad () {
-        this.itemlist=[];
         gameModel.Signner_js = this;
+        gameModel.WebSocket_NumberOfSign_Host();
+        this.itemlist=[];
+        this.indexcount = 0;  
     },
 
     start () {
@@ -33,28 +35,17 @@ cc.Class({
               window.vConsole.destroy();
               window.vConsole = null;
             }
-        }, 1000); 
-        gameModel.signner_id.push("花花")
-        gameModel.signner_id.push("毛毛")
-        gameModel.signner_id.push("泡泡")
-        gameModel.signner_id.push("小女警")
-        this.SpawnWinner();
+        }, 500); 
     },
 
     //列出得獎人和得到的獎品清單
     SpawnWinner(){
-        for(var i = 0; i < gameModel.signner_id.length; i++)
-        {
-            if(gameModel.signner_name.includes(gameModel.signner_id[i]) == false)
-            {
-                gameModel.signner_name[i] = gameModel.signner_id[i]
-                var node = cc.instantiate(this.items);
-                node.parent = this.items_parent;
-                var obj = node.getComponent(SignnerItem);//抓取預置物的Signner腳本
-                this.itemlist.push(obj);
-                this.itemlist[i].updateInfo(i);
-            }
-        }
+        this.indexcount++;
+        var node = cc.instantiate(this.items);
+        node.parent = this.items_parent;
+        var obj = node.getComponent(SignnerItem);//抓取SignnerItem
+        this.itemlist.push(obj);
+        this.itemlist[this.indexcount - 1].updateInfo(this.indexcount - 1);
     },
 
     AddNew()
