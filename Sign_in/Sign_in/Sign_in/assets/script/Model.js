@@ -20,7 +20,7 @@ module.exports = {
 //主持人從Websocket取得已簽到的玩家資料
 function WebSocket_NumberOfSign_Host(){
     //取得Websocket通訊網址
-    let ws = new WebSocket("wss://api.hilives.net/ws/v1/activity/sign/staff?activity_id=" + gameModel.activity_id);
+    let ws = new WebSocket("wss://api.hilives.net/ws/v1/host/signwall?activity_id=" + gameModel.activity_id);
     //連線開啟時觸發 
     ws.onopen = function (event) {
         console.log(" WebSocket_NumberOfSign_Host 通道開啟");
@@ -51,6 +51,7 @@ function WebSocket_NumberOfSign_Host(){
     //連線關閉時觸發  
     ws.onclose = function (event) {
         console.log(" WebSocket_NumberOfSign 通道關閉");
+        gameModel.WebSocket_NumberOfSign_Host()
     };
 } 
 
