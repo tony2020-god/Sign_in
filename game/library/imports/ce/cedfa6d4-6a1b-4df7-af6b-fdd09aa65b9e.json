@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PC問題公布hover",
+    "texture": "91fa2f94-5a4d-41d5-9a24-390174943f96",
+    "atlas": "",
+    "rect": [
+      28,
+      20,
+      961,
+      239
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      1019,
+      280
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

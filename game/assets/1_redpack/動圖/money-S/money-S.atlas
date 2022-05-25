@@ -1,0 +1,48 @@
+
+money-S.png
+size: 720,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gift
+  rotate: false
+  xy: 2, 2
+  size: 421, 410
+  orig: 480, 471
+  offset: 18, 15
+  index: -1
+money
+  rotate: false
+  xy: 425, 3
+  size: 253, 122
+  orig: 300, 300
+  offset: 19, 90
+  index: -1
+money2
+  rotate: false
+  xy: 425, 127
+  size: 238, 213
+  orig: 300, 300
+  offset: 25, 54
+  index: -1
+money3
+  rotate: false
+  xy: 470, 564
+  size: 248, 222
+  orig: 300, 300
+  offset: 25, 41
+  index: -1
+money4
+  rotate: false
+  xy: 470, 342
+  size: 247, 220
+  orig: 300, 300
+  offset: 21, 48
+  index: -1
+s-redbag
+  rotate: true
+  xy: 2, 414
+  size: 372, 466
+  orig: 480, 471
+  offset: 64, 2
+  index: -1

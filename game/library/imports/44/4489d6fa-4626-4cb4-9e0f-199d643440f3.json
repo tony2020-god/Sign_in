@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "背景結算",
+    "texture": "fe8aa5ab-5c6c-4423-9184-d882a9062f7e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4096,
+      2300
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4096,
+      2300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

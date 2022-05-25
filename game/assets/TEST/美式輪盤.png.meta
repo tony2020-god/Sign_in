@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d771c414-f53d-4787-b849-ff45b4200c4e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 637,
+  "height": 637,
+  "platformSettings": {},
+  "subMetas": {
+    "美式輪盤": {
+      "ver": "1.0.4",
+      "uuid": "5d7a31f2-d129-463b-a0bf-06a539743369",
+      "rawTextureUuid": "d771c414-f53d-4787-b849-ff45b4200c4e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 637,
+      "height": 637,
+      "rawWidth": 637,
+      "rawHeight": 637,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

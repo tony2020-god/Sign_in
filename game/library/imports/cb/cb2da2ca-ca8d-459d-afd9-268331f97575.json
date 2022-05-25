@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "鼠2",
+    "texture": "b70d46eb-76ef-4e14-b42f-a1b1a6233dbd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      555,
+      722
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      555,
+      722
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

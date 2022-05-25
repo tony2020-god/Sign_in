@@ -1,0 +1,3735 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Main",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "drGEX9QYu58qNs0V+j9PNxbsYe8",
+      "spine": "3.8.99",
+      "x": -785.04,
+      "y": -1651.96,
+      "width": 1570.08,
+      "height": 2762.99
+    },
+    "bones": [
+      {
+        "name": "root",
+        "scaleX": 1.0829,
+        "scaleY": 1.0829
+      },
+      {
+        "name": "Main",
+        "parent": "root"
+      },
+      {
+        "name": "Eight",
+        "parent": "Main"
+      },
+      {
+        "name": "Light",
+        "parent": "Main"
+      },
+      {
+        "name": "LightR",
+        "parent": "Light"
+      },
+      {
+        "name": "Light01",
+        "parent": "LightR",
+        "x": 586.8,
+        "y": 16.8
+      },
+      {
+        "name": "Light1",
+        "parent": "LightR",
+        "x": 586.8,
+        "y": -99.97
+      },
+      {
+        "name": "Light2",
+        "parent": "LightR",
+        "x": 586.8,
+        "y": -275.42
+      },
+      {
+        "name": "Light3",
+        "parent": "LightR",
+        "x": 586.8,
+        "y": -367.15
+      },
+      {
+        "name": "Light4",
+        "parent": "LightR",
+        "x": 586.8,
+        "y": -460.58
+      },
+      {
+        "name": "LightL",
+        "parent": "Light"
+      },
+      {
+        "name": "Light5",
+        "parent": "LightL",
+        "x": -586.52,
+        "y": 16.8
+      },
+      {
+        "name": "Light6",
+        "parent": "LightL",
+        "x": -586.52,
+        "y": -99.97
+      },
+      {
+        "name": "Light7",
+        "parent": "LightL",
+        "x": -586.52,
+        "y": -275.42
+      },
+      {
+        "name": "Light8",
+        "parent": "LightL",
+        "x": -586.52,
+        "y": -367.15
+      },
+      {
+        "name": "Light9",
+        "parent": "LightL",
+        "x": -586.52,
+        "y": -460.58
+      },
+      {
+        "name": "LightDown",
+        "parent": "Light"
+      },
+      {
+        "name": "Light10",
+        "parent": "LightDown",
+        "y": -605.25
+      },
+      {
+        "name": "Light11",
+        "parent": "LightDown",
+        "x": 100.15,
+        "y": -620.66
+      },
+      {
+        "name": "Light12",
+        "parent": "LightDown",
+        "x": 221.44,
+        "y": -620.66
+      },
+      {
+        "name": "Light13",
+        "parent": "LightDown",
+        "x": -221.77,
+        "y": -620.66
+      },
+      {
+        "name": "Light14",
+        "parent": "LightDown",
+        "x": -101.1,
+        "y": -620.66
+      },
+      {
+        "name": "LightIO",
+        "parent": "Main"
+      },
+      {
+        "name": "LightDot",
+        "parent": "LightIO"
+      },
+      {
+        "name": "LightDot_1",
+        "parent": "LightIO"
+      },
+      {
+        "name": "LightDot_0",
+        "parent": "LightIO"
+      },
+      {
+        "name": "LightOut",
+        "parent": "LightIO"
+      },
+      {
+        "name": "LightIn",
+        "parent": "LightIO"
+      },
+      {
+        "name": "PCMask",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "PhoneMask2",
+        "bone": "PCMask"
+      },
+      {
+        "name": "PCMask",
+        "bone": "PCMask"
+      },
+      {
+        "name": "主持人",
+        "bone": "root"
+      },
+      {
+        "name": "參加者",
+        "bone": "root"
+      },
+      {
+        "name": "Out",
+        "bone": "Main",
+        "attachment": "Out"
+      },
+      {
+        "name": "Eight",
+        "bone": "Eight"
+      },
+      {
+        "name": "Light01",
+        "bone": "Light01",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light10",
+        "bone": "Light10",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light11",
+        "bone": "Light11",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light12",
+        "bone": "Light12",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light13",
+        "bone": "Light13",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light14",
+        "bone": "Light14",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light5",
+        "bone": "Light5",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light6",
+        "bone": "Light6",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light7",
+        "bone": "Light7",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light8",
+        "bone": "Light8",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light9",
+        "bone": "Light9",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light1",
+        "bone": "Light1",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light2",
+        "bone": "Light2",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light3",
+        "bone": "Light3",
+        "attachment": "Light01"
+      },
+      {
+        "name": "Light4",
+        "bone": "Light4",
+        "attachment": "Light01"
+      },
+      {
+        "name": "LightDot",
+        "bone": "LightDot",
+        "color": "ffffff00",
+        "attachment": "LightDot"
+      },
+      {
+        "name": "LightDot_0",
+        "bone": "LightDot_0",
+        "color": "ffffff00",
+        "attachment": "LightDot_0"
+      },
+      {
+        "name": "LightDot_1",
+        "bone": "LightDot_1",
+        "color": "ffffff00",
+        "attachment": "LightDot_1"
+      },
+      {
+        "name": "LightEX",
+        "bone": "LightOut",
+        "color": "ffffff00",
+        "attachment": "LightEX"
+      },
+      {
+        "name": "LightIn",
+        "bone": "LightIn",
+        "color": "ffffff00",
+        "attachment": "LightIn",
+        "blend": "screen"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "Light01": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light1": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light2": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light3": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light4": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light5": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light6": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light7": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light8": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light9": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light10": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light11": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light12": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light13": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "Light14": {
+            "Light01": {
+              "scaleX": 0.73,
+              "scaleY": 0.73,
+              "width": 260,
+              "height": 260
+            }
+          },
+          "LightDot": {
+            "LightDot": {
+              "scaleX": 0.6,
+              "scaleY": 0.6,
+              "width": 2300,
+              "height": 2300
+            }
+          },
+          "LightDot_0": {
+            "LightDot_0": {
+              "scaleX": 0.6,
+              "scaleY": 0.6,
+              "width": 2300,
+              "height": 2300
+            }
+          },
+          "LightDot_1": {
+            "LightDot_1": {
+              "scaleX": 0.6,
+              "scaleY": 0.6,
+              "width": 2300,
+              "height": 2300
+            }
+          },
+          "LightEX": {
+            "LightEX": {
+              "y": 3.65,
+              "width": 1440,
+              "height": 1535
+            }
+          },
+          "LightIn": {
+            "LightIn": {
+              "y": 4.4,
+              "width": 1440,
+              "height": 1535
+            }
+          },
+          "Out": {
+            "Out": {
+              "width": 1409,
+              "height": 1472
+            }
+          },
+          "PCMask": {
+            "PCMask": {
+              "type": "clipping",
+              "end": "PCMask",
+              "vertexCount": 4,
+              "vertices": [
+                -1435.02,
+                781.88,
+                1444.55,
+                785.69,
+                1446.45,
+                -839.07,
+                -1435.02,
+                -840.98
+              ]
+            }
+          },
+          "PhoneMask2": {
+            "PhoneMask": {
+              "type": "clipping",
+              "end": "PCMask",
+              "vertexCount": 4,
+              "vertices": [
+                -724.66,
+                1026.07,
+                725.91,
+                1025.31,
+                726.57,
+                -1524.94,
+                -724.66,
+                -1524.21
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "1_PC": {
+        "slots": {
+          "Light01": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light3": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light4": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light5": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light6": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light7": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light8": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light9": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light10": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light11": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light12": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light13": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light14": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "LightDot": {
+            "color": [
+              {
+                "time": 1.0333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.2667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "LightDot_0": {
+            "color": [
+              {
+                "time": 0.9333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.0667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "LightDot_1": {
+            "color": [
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "LightEX": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "LightIn": {
+            "color": [
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "PCMask": {
+            "attachment": [
+              {
+                "name": "PCMask"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "Main": {
+            "translate": [
+              {
+                "y": -41.16
+              },
+              {
+                "time": 0.1667,
+                "y": 43.58
+              },
+              {
+                "time": 0.2667,
+                "y": -41.16
+              },
+              {
+                "time": 0.3667,
+                "y": 43.58
+              },
+              {
+                "time": 0.4333,
+                "y": -41.16
+              },
+              {
+                "time": 0.5,
+                "y": 43.58
+              },
+              {
+                "time": 0.5333,
+                "y": -41.16
+              },
+              {
+                "time": 0.5667,
+                "y": 43.58
+              },
+              {
+                "time": 0.6,
+                "y": -41.16
+              },
+              {
+                "time": 0.6333,
+                "y": 43.58
+              },
+              {
+                "time": 0.6667
+              }
+            ]
+          },
+          "LightIn": {
+            "scale": [
+              {
+                "time": 0.8333,
+                "curve": 1,
+                "c3": 0
+              },
+              {
+                "time": 1.1667,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "LightDot": {
+            "scale": [
+              {
+                "time": 1.0333,
+                "curve": 1,
+                "c3": 0
+              },
+              {
+                "time": 1.2667,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "LightDot_0": {
+            "scale": [
+              {
+                "time": 0.9333,
+                "curve": 1,
+                "c3": 0
+              },
+              {
+                "time": 1.1667,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "LightDot_1": {
+            "translate": [
+              {
+                "time": 0.8333,
+                "y": 2.65
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.8333,
+                "curve": 1,
+                "c3": 0
+              },
+              {
+                "time": 0.9667,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          }
+        }
+      },
+      "1_Phone": {
+        "slots": {
+          "Light01": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light3": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light4": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light5": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light6": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light7": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light8": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light9": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light10": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light11": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light12": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light13": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light14": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "LightDot": {
+            "color": [
+              {
+                "time": 1.0333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.2667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "LightDot_0": {
+            "color": [
+              {
+                "time": 0.9333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.0667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "LightDot_1": {
+            "color": [
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "LightEX": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "LightIn": {
+            "color": [
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "PhoneMask2": {
+            "attachment": [
+              {
+                "name": "PhoneMask"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "Main": {
+            "translate": [
+              {
+                "y": -41.16
+              },
+              {
+                "time": 0.1667,
+                "y": 43.58
+              },
+              {
+                "time": 0.2667,
+                "y": -41.16
+              },
+              {
+                "time": 0.3667,
+                "y": 43.58
+              },
+              {
+                "time": 0.4333,
+                "y": -41.16
+              },
+              {
+                "time": 0.5,
+                "y": 43.58
+              },
+              {
+                "time": 0.5333,
+                "y": -41.16
+              },
+              {
+                "time": 0.5667,
+                "y": 43.58
+              },
+              {
+                "time": 0.6,
+                "y": -41.16
+              },
+              {
+                "time": 0.6333,
+                "y": 43.58
+              },
+              {
+                "time": 0.6667
+              }
+            ]
+          },
+          "LightIn": {
+            "scale": [
+              {
+                "time": 0.8333,
+                "curve": 1,
+                "c3": 0
+              },
+              {
+                "time": 1.1667,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "LightDot": {
+            "scale": [
+              {
+                "time": 1.0333,
+                "curve": 1,
+                "c3": 0
+              },
+              {
+                "time": 1.2667,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "LightDot_0": {
+            "scale": [
+              {
+                "time": 0.9333,
+                "curve": 1,
+                "c3": 0
+              },
+              {
+                "time": 1.1667,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "LightDot_1": {
+            "translate": [
+              {
+                "time": 0.8333,
+                "y": 2.65
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.8333,
+                "curve": 1,
+                "c3": 0
+              },
+              {
+                "time": 0.9667,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "offsets": [
+              {
+                "slot": "PhoneMask2",
+                "offset": 1
+              }
+            ]
+          }
+        ]
+      },
+      "A2": {
+        "slots": {
+          "Light01": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light3": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light4": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light5": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light6": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light7": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light8": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light9": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light10": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light11": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light12": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light13": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light14": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "LightEX": {
+            "color": [
+              {
+                "time": 0.8667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffffff"
+              }
+            ]
+          }
+        }
+      },
+      "A3": {
+        "slots": {
+          "Light01": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.3,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.4,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.2,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light4": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light5": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.2,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.3,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.4,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light6": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.2,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light7": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light8": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light9": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light10": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light11": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light12": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light13": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light14": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        }
+      },
+      "A4": {
+        "slots": {
+          "Light01": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light4": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light5": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light6": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light7": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light8": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.7,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light9": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light10": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light11": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light12": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light13": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light14": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          }
+        }
+      },
+      "A5": {
+        "slots": {
+          "Light01": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light3": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light4": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light5": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light6": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light7": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light8": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light9": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light10": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light11": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light12": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light13": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light14": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          }
+        }
+      },
+      "Broken": {
+        "slots": {
+          "Light01": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light3": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light4": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light5": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light6": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light7": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light8": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light9": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light10": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light11": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light12": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light13": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light14": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "Main": {
+            "translate": [
+              {
+                "x": -23.09
+              },
+              {
+                "time": 0.0667,
+                "x": 23.09
+              },
+              {
+                "time": 0.1333,
+                "x": -23.09
+              },
+              {
+                "time": 0.2
+              }
+            ]
+          }
+        }
+      },
+      "Rotate": {
+        "slots": {
+          "Light01": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 3,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 4,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 4,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5.3333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light4": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 5.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 5.6667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 6.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 6.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light5": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 18.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 19,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 19.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 20,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light6": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 17.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 17.6667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 18.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 18.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light7": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 16,
+                "color": "ffffff00"
+              },
+              {
+                "time": 16.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 17,
+                "color": "ffffffff"
+              },
+              {
+                "time": 17.3333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light8": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 14.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 15,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 15.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 16,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light9": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 13.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 13.6667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 14.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 14.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light10": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 9.3333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 9.6667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 10.3333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 10.6667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light11": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 8,
+                "color": "ffffff00"
+              },
+              {
+                "time": 8.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 9,
+                "color": "ffffffff"
+              },
+              {
+                "time": 9.3333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light12": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 6.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 7,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 7.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 8,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light13": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 12,
+                "color": "ffffff00"
+              },
+              {
+                "time": 12.3333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 13,
+                "color": "ffffffff"
+              },
+              {
+                "time": 13.3333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light14": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 10.6667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 11,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 11.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 12,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        }
+      },
+      "usual": {
+        "slots": {
+          "Light01": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.7333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.9333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.7333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.9333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light4": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.9333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.1,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.7,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.8667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light5": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light6": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light7": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.7333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.9333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light8": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.9667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.7333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.9333,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light9": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.9333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.1,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.7,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.8667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light10": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 3.0667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light11": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 3.0667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light12": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.9333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.1,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.7,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.8667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light13": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.9333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 2.1,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.7,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.8667,
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Light14": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 2.8667,
+                "color": "ffffff00"
+              },
+              {
+                "time": 3.0667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 3.6667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 3.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 4.0333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 4.8,
+                "color": "ffffffff"
+              },
+              {
+                "time": 5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "PhoneMask2": {
+            "attachment": [
+              {
+                "name": "PhoneMask"
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "offsets": [
+              {
+                "slot": "PhoneMask2",
+                "offset": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nMain.png\nsize: 1304,3496\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nLight01\n  rotate: true\n  xy: 1120, 3379\n  size: 113, 114\n  orig: 130, 130\n  offset: 8, 8\n  index: -1\nLightDot\n  rotate: true\n  xy: 2, 2408\n  size: 1084, 1116\n  orig: 1150, 1150\n  offset: 66, 0\n  index: -1\nLightDot_0\n  rotate: true\n  xy: 2, 1441\n  size: 965, 1005\n  orig: 1150, 1150\n  offset: 185, 42\n  index: -1\nLightDot_1\n  rotate: true\n  xy: 733, 819\n  size: 620, 567\n  orig: 1150, 1150\n  offset: 269, 245\n  index: -1\nLightEX\n  rotate: true\n  xy: 2, 720\n  size: 719, 729\n  orig: 720, 768\n  offset: 0, 27\n  index: -1\nLightIn\n  rotate: false\n  xy: 2, 2\n  size: 686, 716\n  orig: 720, 768\n  offset: 16, 34\n  index: -1\nOut\n  rotate: true\n  xy: 690, 27\n  size: 691, 607\n  orig: 705, 736\n  offset: 7, 21\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "46929e0b-a6f5-4dd2-a0b1-a7808318b649"
+    }
+  ],
+  "textureNames": [
+    "Main.png"
+  ],
+  "scale": 1
+}

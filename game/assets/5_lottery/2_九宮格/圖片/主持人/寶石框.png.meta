@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2eac442e-e813-4a74-bd92-3c22ed9f68fa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 770,
+  "height": 1192,
+  "platformSettings": {},
+  "subMetas": {
+    "寶石框": {
+      "ver": "1.0.4",
+      "uuid": "8aea7f62-3fd1-4d25-95f1-dfd9cb98c27d",
+      "rawTextureUuid": "2eac442e-e813-4a74-bd92-3c22ed9f68fa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 875,
+      "height": 1418,
+      "rawWidth": 875,
+      "rawHeight": 1418,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

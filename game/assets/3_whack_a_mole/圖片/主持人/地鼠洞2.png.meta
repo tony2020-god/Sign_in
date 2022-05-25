@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b6587dfe-6e3a-4bcd-9e04-dc0f67fd13ba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 696,
+  "height": 174,
+  "platformSettings": {},
+  "subMetas": {
+    "地鼠洞2": {
+      "ver": "1.0.4",
+      "uuid": "d214e831-97a7-48e6-b012-af3d8891f94e",
+      "rawTextureUuid": "b6587dfe-6e3a-4bcd-9e04-dc0f67fd13ba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 693,
+      "height": 171,
+      "rawWidth": 696,
+      "rawHeight": 174,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lantern4",
+    "texture": "8ed465ef-d59c-4c73-9a70-ad5093495ee2",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      672,
+      668
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      677,
+      670
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

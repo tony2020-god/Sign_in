@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "中獎列表",
+    "texture": "e8e6674c-1143-4d96-8d5f-9be7976dc3f3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      670,
+      2201
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      670,
+      2201
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

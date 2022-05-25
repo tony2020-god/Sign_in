@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "輪盤_內",
+    "texture": "5c5eb318-b2ee-45c3-94ab-1d1fbb105d90",
+    "atlas": "",
+    "rect": [
+      458,
+      459,
+      1507,
+      1507
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      2424,
+      2424
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

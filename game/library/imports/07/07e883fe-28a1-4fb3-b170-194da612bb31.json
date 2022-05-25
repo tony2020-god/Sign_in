@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "框-紅",
+    "texture": "13205879-fbe7-49bd-a3ab-7dbc767a3c49",
+    "atlas": "",
+    "rect": [
+      5,
+      5,
+      569,
+      216
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      579,
+      226
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

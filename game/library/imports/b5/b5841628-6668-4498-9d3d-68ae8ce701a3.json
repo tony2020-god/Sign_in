@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PC問題公布",
+    "texture": "a50acc2b-a034-49a9-aeda-e035c16c365c",
+    "atlas": "",
+    "rect": [
+      29,
+      22,
+      960,
+      236
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      1019,
+      280
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

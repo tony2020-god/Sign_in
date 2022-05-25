@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "輪盤外圈",
+    "texture": "94fcda6b-9c6a-45d7-b98c-a656d7809f5d",
+    "atlas": "",
+    "rect": [
+      15,
+      233,
+      1415,
+      1287
+    ],
+    "offset": [
+      2.5,
+      -53.5
+    ],
+    "originalSize": [
+      1440,
+      1646
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

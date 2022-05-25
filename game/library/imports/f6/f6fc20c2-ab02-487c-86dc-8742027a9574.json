@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "small_redpack",
+    "texture": "01054e69-5524-45d6-92e7-bf2a47892e2a",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      333,
+      338
+    ],
+    "offset": [
+      -0.5,
+      1.5
+    ],
+    "originalSize": [
+      340,
+      341
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

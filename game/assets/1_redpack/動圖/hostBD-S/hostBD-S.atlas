@@ -1,0 +1,41 @@
+
+hostBD-S.png
+size: 1320,1864
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantern
+  rotate: false
+  xy: 787, 136
+  size: 528, 719
+  orig: 533, 723
+  offset: 1, 3
+  index: -1
+lantern2
+  rotate: true
+  xy: 933, 1233
+  size: 629, 332
+  orig: 632, 334
+  offset: 1, 1
+  index: -1
+lantern3
+  rotate: true
+  xy: 933, 857
+  size: 374, 380
+  orig: 380, 386
+  offset: 5, 5
+  index: -1
+light
+  rotate: true
+  xy: 2, 2
+  size: 1002, 783
+  orig: 1044, 812
+  offset: 17, 28
+  index: -1
+light2
+  rotate: true
+  xy: 2, 1006
+  size: 856, 929
+  orig: 857, 929
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "主持人",
+    "texture": "1e138b1d-99f4-44aa-a6a1-7f6593601a32",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4096,
+      2300
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4096,
+      2300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

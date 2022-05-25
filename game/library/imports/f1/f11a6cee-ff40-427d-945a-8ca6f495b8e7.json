@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "規則區",
+    "texture": "ed257a59-55b6-4666-8255-3739f1a1ebf4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      875,
+      1554
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      875,
+      1554
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "炸彈",
+    "texture": "16e930d1-f84c-4642-a86f-2ce88e09039e",
+    "atlas": "",
+    "rect": [
+      6,
+      1,
+      378,
+      418
+    ],
+    "offset": [
+      0.5,
+      2
+    ],
+    "originalSize": [
+      389,
+      424
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

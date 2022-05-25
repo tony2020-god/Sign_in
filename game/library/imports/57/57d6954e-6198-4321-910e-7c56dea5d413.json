@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "red packet2",
+    "texture": "10652c69-92e8-4532-8017-a45459e6216f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      628,
+      765
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      628,
+      765
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

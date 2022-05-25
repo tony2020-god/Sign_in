@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "新兌獎_03",
+    "texture": "60e42fdf-06c0-4a56-8831-20b4e1351f0c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1160,
+      1403
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1160,
+      1403
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

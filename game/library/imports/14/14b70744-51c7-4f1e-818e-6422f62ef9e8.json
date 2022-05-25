@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "藍光條PC",
+    "texture": "95b87bc4-8af4-4f41-98d1-586ea23ba302",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      3791,
+      111
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      3791,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "上方框",
+    "texture": "e7450684-c6bd-4dec-9c1b-e841abd16b86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1440,
+      180
+    ],
+    "offset": [
+      0,
+      9
+    ],
+    "originalSize": [
+      1440,
+      198
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

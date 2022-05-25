@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "小窗底",
+    "texture": "daee29ea-2fe2-4ebc-823e-d982d932aeca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      876,
+      1123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      876,
+      1123
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

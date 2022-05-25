@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mallet",
+    "texture": "2b795d72-7872-4ac2-8226-50183eb37542",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      505,
+      446
+    ],
+    "offset": [
+      -1.5,
+      1
+    ],
+    "originalSize": [
+      512,
+      452
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

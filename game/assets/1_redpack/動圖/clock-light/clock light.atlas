@@ -1,0 +1,188 @@
+
+clock light.png
+size: 5880,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+1
+  rotate: false
+  xy: 2, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+10
+  rotate: false
+  xy: 2262, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+11
+  rotate: false
+  xy: 2262, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 2714, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+13
+  rotate: false
+  xy: 2714, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+14
+  rotate: false
+  xy: 3166, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+15
+  rotate: false
+  xy: 3166, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+16
+  rotate: false
+  xy: 3618, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+17
+  rotate: false
+  xy: 3618, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+18
+  rotate: false
+  xy: 4070, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+19
+  rotate: false
+  xy: 4070, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 454, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+20
+  rotate: false
+  xy: 4522, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+21
+  rotate: false
+  xy: 4522, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+22
+  rotate: false
+  xy: 4974, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+23
+  rotate: false
+  xy: 4974, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+24
+  rotate: false
+  xy: 5426, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+25
+  rotate: false
+  xy: 5426, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 454, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 906, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 906, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 1358, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 1358, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 1810, 454
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 1810, 2
+  size: 450, 450
+  orig: 452, 452
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+BackSmall.png
+size: 1844,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaclSmall
+  rotate: false
+  xy: 2, 2
+  size: 1838, 636
+  orig: 1904, 636
+  offset: 29, 0
+  index: -1

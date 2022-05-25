@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "名次背景",
+    "texture": "a8b6b886-74ec-449e-92e0-30c41ce429ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1398,
+      166
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1398,
+      166
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

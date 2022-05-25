@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "兌換說明",
+    "texture": "056dea85-3871-48b7-a80d-7dc81bb628c9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      575,
+      126
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      575,
+      127
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DRed",
+    "texture": "217e0a75-24cf-41fe-bc12-453aa2a428c6",
+    "atlas": "",
+    "rect": [
+      21,
+      11,
+      1288,
+      203
+    ],
+    "offset": [
+      10.5,
+      -1
+    ],
+    "originalSize": [
+      1309,
+      223
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

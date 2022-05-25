@@ -1,0 +1,306 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Title",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "TsSIwG24h7U6Na2dSUUF7mRS5DA",
+      "spine": "3.8.99",
+      "x": -762.9,
+      "y": 506.56,
+      "width": 1525.79,
+      "height": 289.13
+    },
+    "bones": [
+      {
+        "name": "root",
+        "scaleX": 1.0829,
+        "scaleY": 1.0829
+      },
+      {
+        "name": "Main",
+        "parent": "root"
+      },
+      {
+        "name": "Title",
+        "parent": "Main",
+        "y": 613.54
+      },
+      {
+        "name": "PCMask",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "PhoneMask2",
+        "bone": "PCMask"
+      },
+      {
+        "name": "PCMask",
+        "bone": "PCMask"
+      },
+      {
+        "name": "主持人",
+        "bone": "root"
+      },
+      {
+        "name": "參加者",
+        "bone": "root"
+      },
+      {
+        "name": "Title",
+        "bone": "Title",
+        "attachment": "Title"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "PCMask": {
+            "PCMask": {
+              "type": "clipping",
+              "end": "PCMask",
+              "vertexCount": 4,
+              "vertices": [
+                -1435.02,
+                781.88,
+                1444.55,
+                785.69,
+                1446.45,
+                -839.07,
+                -1435.02,
+                -840.98
+              ]
+            }
+          },
+          "PhoneMask2": {
+            "PhoneMask": {
+              "type": "clipping",
+              "end": "PCMask",
+              "vertexCount": 4,
+              "vertices": [
+                -724.66,
+                1026.07,
+                725.91,
+                1025.31,
+                726.57,
+                -1524.94,
+                -724.66,
+                -1524.21
+              ]
+            }
+          },
+          "Title": {
+            "Title": {
+              "y": -12.25,
+              "width": 1409,
+              "height": 267
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "A1": {
+        "slots": {
+          "PhoneMask2": {
+            "attachment": [
+              {
+                "name": "PhoneMask"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "Main": {
+            "translate": [
+              {
+                "y": -41.16
+              },
+              {
+                "time": 0.1667,
+                "y": 43.58
+              },
+              {
+                "time": 0.2667,
+                "y": -41.16
+              },
+              {
+                "time": 0.3667,
+                "y": 43.58
+              },
+              {
+                "time": 0.4333,
+                "y": -41.16
+              },
+              {
+                "time": 0.5,
+                "y": 43.58
+              },
+              {
+                "time": 0.5333,
+                "y": -41.16
+              },
+              {
+                "time": 0.5667,
+                "y": 43.58
+              },
+              {
+                "time": 0.6,
+                "y": -41.16
+              },
+              {
+                "time": 0.6333,
+                "y": 43.58
+              },
+              {
+                "time": 0.6667
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "offsets": [
+              {
+                "slot": "PhoneMask2",
+                "offset": 1
+              }
+            ]
+          }
+        ]
+      },
+      "Broken": {
+        "slots": {
+          "PhoneMask2": {
+            "attachment": [
+              {
+                "name": "PhoneMask"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "Title": {
+            "rotate": [
+              {
+                "time": 0.3333
+              },
+              {
+                "time": 0.5,
+                "angle": -5.14
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.3333
+              },
+              {
+                "time": 0.5,
+                "y": -40.9
+              }
+            ]
+          }
+        }
+      },
+      "usual_PC": {
+        "bones": {
+          "Title": {
+            "scale": [
+              {},
+              {
+                "time": 0.8333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.6667
+              },
+              {
+                "time": 2.5,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 3.3333
+              },
+              {
+                "time": 4.1667,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 5
+              }
+            ]
+          }
+        }
+      },
+      "usual_Phone": {
+        "slots": {
+          "PhoneMask2": {
+            "attachment": [
+              {
+                "name": "PhoneMask"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "Title": {
+            "scale": [
+              {},
+              {
+                "time": 0.8333,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 1.6667
+              },
+              {
+                "time": 2.5,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 3.3333
+              },
+              {
+                "time": 4.1667,
+                "x": 1.1,
+                "y": 1.1
+              },
+              {
+                "time": 5
+              }
+            ]
+          }
+        },
+        "drawOrder": [
+          {
+            "offsets": [
+              {
+                "slot": "PhoneMask2",
+                "offset": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "_atlasText": "\nTitle.png\nsize: 712,140\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nTitle\n  rotate: false\n  xy: 2, 2\n  size: 705, 134\n  orig: 705, 134\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "18b1418f-adb3-42fa-ae07-515bdc30d950"
+    }
+  ],
+  "textureNames": [
+    "Title.png"
+  ],
+  "scale": 1
+}

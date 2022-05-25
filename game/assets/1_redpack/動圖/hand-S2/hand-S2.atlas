@@ -1,0 +1,13 @@
+
+hand-S2.png
+size: 1068,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand
+  rotate: false
+  xy: 2, 2
+  size: 1064, 1005
+  orig: 1081, 1015
+  offset: 8, 1
+  index: -1

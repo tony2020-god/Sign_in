@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "下拉選單_拉開後",
+    "texture": "56a92ad7-8b9a-437b-bc46-e4384182fc6d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      770,
+      360
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      770,
+      360
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

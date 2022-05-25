@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "button hand",
+    "texture": "bc5d9522-0b60-42d3-9411-3d341891229d",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      510,
+      356
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      516,
+      360
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

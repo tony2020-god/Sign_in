@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "問題公布框",
+    "texture": "87bc27bd-ac51-4552-9168-89aad0a4ac8a",
+    "atlas": "",
+    "rect": [
+      59,
+      0,
+      3674,
+      1271
+    ],
+    "offset": [
+      -7.5,
+      0
+    ],
+    "originalSize": [
+      3807,
+      1271
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

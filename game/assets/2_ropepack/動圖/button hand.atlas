@@ -1,0 +1,13 @@
+
+button hand.png
+size: 516,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hand
+  rotate: false
+  xy: 2, 2
+  size: 510, 356
+  orig: 534, 375
+  offset: 12, 10
+  index: -1

@@ -1,0 +1,41 @@
+
+LightIO.png
+size: 5704,1156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LightDot
+  rotate: false
+  xy: 4562, 2
+  size: 1084, 1116
+  orig: 1150, 1150
+  offset: 66, 0
+  index: -1
+LightDot_0
+  rotate: false
+  xy: 2, 2
+  size: 965, 1005
+  orig: 1150, 1150
+  offset: 185, 42
+  index: -1
+LightDot_1
+  rotate: false
+  xy: 1142, 2
+  size: 620, 567
+  orig: 1150, 1150
+  offset: 269, 245
+  index: -1
+LightIn
+  rotate: false
+  xy: 2282, 2
+  size: 1138, 1150
+  orig: 1150, 1150
+  offset: 6, 0
+  index: -1
+LightOut
+  rotate: false
+  xy: 3422, 2
+  size: 1111, 1109
+  orig: 1150, 1150
+  offset: 39, 20
+  index: -1

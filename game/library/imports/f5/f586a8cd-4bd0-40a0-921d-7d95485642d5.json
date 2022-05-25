@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.LabelAtlas",
+  "_name": "Time",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "5267d28d-9ec4-49ff-9203-734c7ae94ac6"
+  },
+  "fontSize": 45.76,
+  "_fntConfig": null,
+  "_fontDefDictionary": null
+}

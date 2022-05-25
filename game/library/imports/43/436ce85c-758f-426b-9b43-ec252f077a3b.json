@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "搖紅包",
+    "texture": "b6d426a1-b71c-4c51-880d-2e6e665986a2",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      861,
+      253
+    ],
+    "offset": [
+      -1,
+      1.5
+    ],
+    "originalSize": [
+      871,
+      260
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

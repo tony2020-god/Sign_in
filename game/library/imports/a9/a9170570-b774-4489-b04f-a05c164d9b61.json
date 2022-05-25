@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "負分負號",
+    "texture": "b5b863d3-97f6-426e-a622-ece0565b353b",
+    "atlas": "",
+    "rect": [
+      18,
+      47,
+      101,
+      83
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      137,
+      180
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

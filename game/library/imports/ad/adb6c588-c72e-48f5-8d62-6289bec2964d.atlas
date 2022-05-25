@@ -1,0 +1,34 @@
+
+red bag-W.png
+size: 3384,1776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gift
+  rotate: false
+  xy: 2827, 560
+  size: 516, 505
+  orig: 524, 513
+  offset: 5, 4
+  index: -1
+redbag
+  rotate: false
+  xy: 2, 2
+  size: 2462, 1769
+  orig: 2488, 1779
+  offset: 13, 10
+  index: -1
+redbag2
+  rotate: true
+  xy: 2466, 358
+  size: 1413, 359
+  orig: 1413, 359
+  offset: 0, 0
+  index: -1
+s-redbag
+  rotate: false
+  xy: 2827, 1067
+  size: 553, 704
+  orig: 563, 711
+  offset: 5, 5
+  index: -1

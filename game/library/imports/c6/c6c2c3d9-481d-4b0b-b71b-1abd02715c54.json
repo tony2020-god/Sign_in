@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "進",
+    "texture": "74c33aea-e866-432d-8ba9-495feffd3548",
+    "atlas": "",
+    "rect": [
+      1,
+      4,
+      84,
+      82
+    ],
+    "offset": [
+      0.5,
+      -2
+    ],
+    "originalSize": [
+      85,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WinListTable",
+    "texture": "bcc05e36-a576-486e-a002-eadf8710462d",
+    "atlas": "",
+    "rect": [
+      51,
+      53,
+      4005,
+      2321
+    ],
+    "offset": [
+      -39.5,
+      24.5
+    ],
+    "originalSize": [
+      4186,
+      2476
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

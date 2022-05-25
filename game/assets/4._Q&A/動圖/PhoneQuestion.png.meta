@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d5cee395-5a98-46ff-831c-06935b535e77",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2292,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "PhoneQuestion": {
+      "ver": "1.0.4",
+      "uuid": "cc201980-4599-43ce-ae71-979c62b2109a",
+      "rawTextureUuid": "d5cee395-5a98-46ff-831c-06935b535e77",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 1.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 2285,
+      "height": 89,
+      "rawWidth": 2292,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

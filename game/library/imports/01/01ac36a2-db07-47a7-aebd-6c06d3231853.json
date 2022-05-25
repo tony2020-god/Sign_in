@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "藍光暈",
+    "texture": "c4f77c6f-5352-4549-98c6-2184c73965d7",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      1366,
+      111
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      1369,
+      112
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

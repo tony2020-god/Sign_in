@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "負分0-9",
+    "texture": "60ec32c1-b7fd-41dc-83f5-cf451928e55b",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      1488,
+      176
+    ],
+    "offset": [
+      -8.5,
+      0
+    ],
+    "originalSize": [
+      1507,
+      180
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

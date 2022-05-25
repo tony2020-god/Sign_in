@@ -1,0 +1,81 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Light",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "yfnw1g05DXQx+uAc/nc+wjhhe6E",
+      "spine": "3.8.99",
+      "x": -130,
+      "y": -130,
+      "width": 260,
+      "height": 260
+    },
+    "bones": [
+      {
+        "name": "main"
+      },
+      {
+        "name": "LightR6",
+        "parent": "main"
+      }
+    ],
+    "slots": [
+      {
+        "name": "LightR6",
+        "bone": "LightR6",
+        "attachment": "Light01"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "LightR6": {
+            "Light01": {
+              "width": 260,
+              "height": 260
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "Usual": {
+        "slots": {
+          "LightR6": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.2,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.6333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nLight.png\nsize: 120,120\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nLight01\n  rotate: false\n  xy: 2, 2\n  size: 113, 114\n  orig: 130, 130\n  offset: 8, 8\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "0a83570e-6999-48aa-8e79-9d2c6fb01fcb"
+    }
+  ],
+  "textureNames": [
+    "Light.png"
+  ],
+  "scale": 1
+}

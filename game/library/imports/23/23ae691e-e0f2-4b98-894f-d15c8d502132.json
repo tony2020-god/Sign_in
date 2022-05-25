@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "無限時3",
+    "texture": "9165ee64-37cd-45a5-b56e-2d2fa97728c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      407,
+      152
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      407,
+      152
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

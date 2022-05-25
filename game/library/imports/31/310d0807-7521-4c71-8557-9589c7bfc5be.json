@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "結算光暈",
+    "texture": "1a77d45a-21c9-41cc-86af-7638e3e876cc",
+    "atlas": "",
+    "rect": [
+      56,
+      0,
+      2328,
+      787
+    ],
+    "offset": [
+      27,
+      77
+    ],
+    "originalSize": [
+      2386,
+      941
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

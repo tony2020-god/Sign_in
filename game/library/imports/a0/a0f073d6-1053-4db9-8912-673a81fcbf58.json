@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "手機黑文字框",
+    "texture": "b376cc2b-0caa-487c-9597-6c9a22d8fa8d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1309,
+      341
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1309,
+      341
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

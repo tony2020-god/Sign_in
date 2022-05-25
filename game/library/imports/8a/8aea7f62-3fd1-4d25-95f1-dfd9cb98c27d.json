@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "寶石框",
+    "texture": "2eac442e-e813-4a74-bd92-3c22ed9f68fa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      875,
+      1418
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      875,
+      1418
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

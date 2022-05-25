@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9f102650-9662-4447-86fc-c40723b3bcb2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1440,
+  "height": 2560,
+  "platformSettings": {},
+  "subMetas": {
+    "手機板面": {
+      "ver": "1.0.4",
+      "uuid": "0e23f58e-a63f-4ea7-aee3-e9dac33ff5c3",
+      "rawTextureUuid": "9f102650-9662-4447-86fc-c40723b3bcb2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1440,
+      "height": 2560,
+      "rawWidth": 1440,
+      "rawHeight": 2560,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

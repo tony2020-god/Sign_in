@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "加入活動",
+    "texture": "56e0aeb7-c194-422b-8209-df3487d7b55b",
+    "atlas": "",
+    "rect": [
+      8,
+      7,
+      642,
+      227
+    ],
+    "offset": [
+      -0.5,
+      -2
+    ],
+    "originalSize": [
+      659,
+      237
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

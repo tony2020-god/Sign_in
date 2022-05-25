@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "剩餘時間0-9",
+    "texture": "d7fa9052-070f-4956-8846-15441a5c8f11",
+    "atlas": "",
+    "rect": [
+      6,
+      19,
+      1314,
+      142
+    ],
+    "offset": [
+      3,
+      -5
+    ],
+    "originalSize": [
+      1320,
+      170
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

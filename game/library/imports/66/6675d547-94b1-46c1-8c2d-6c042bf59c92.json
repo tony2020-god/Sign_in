@@ -1,0 +1,135 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "qNJae7/uqhPgwXSXF6thoallRIU",
+      "spine": "3.8.99",
+      "x": -2048,
+      "y": -1188,
+      "width": 4096,
+      "height": 2376,
+      "images": "D:/翠翠子-資料/1大屏幕/9問答活動/背景切換/新增資料夾",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "01",
+        "bone": "root",
+        "attachment": "06"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "01": {
+            "01": {
+              "width": 4096,
+              "height": 2376
+            },
+            "02": {
+              "width": 4096,
+              "height": 2376
+            },
+            "03": {
+              "width": 4096,
+              "height": 2376
+            },
+            "04": {
+              "width": 4096,
+              "height": 2376
+            },
+            "05": {
+              "width": 4096,
+              "height": 2376
+            },
+            "06": {
+              "width": 4096,
+              "height": 2376
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "1": {
+        "slots": {
+          "01": {
+            "attachment": [
+              {
+                "name": "01"
+              }
+            ]
+          }
+        }
+      },
+      "2": {
+        "slots": {
+          "01": {
+            "attachment": [
+              {
+                "name": "02"
+              }
+            ]
+          }
+        }
+      },
+      "3": {
+        "slots": {
+          "01": {
+            "attachment": [
+              {
+                "name": "03"
+              }
+            ]
+          }
+        }
+      },
+      "4": {
+        "slots": {
+          "01": {
+            "attachment": [
+              {
+                "name": "04"
+              }
+            ]
+          }
+        }
+      },
+      "5": {
+        "slots": {
+          "01": {
+            "attachment": [
+              {
+                "name": "05"
+              }
+            ]
+          }
+        }
+      },
+      "6": {}
+    }
+  },
+  "_atlasText": "\nskeleton.png\nsize: 6480,6480\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n01\n  rotate: false\n  xy: 2, 4100\n  size: 4096, 2376\n  orig: 4096, 2376\n  offset: 0, 0\n  index: -1\n02\n  rotate: true\n  xy: 4100, 2380\n  size: 4096, 2376\n  orig: 4096, 2376\n  offset: 0, 0\n  index: -1\n03\n  rotate: true\n  xy: 2, 2\n  size: 4096, 2376\n  orig: 4096, 2376\n  offset: 0, 0\n  index: -1\n04\n  rotate: false\n  xy: 2380, 2\n  size: 4096, 2376\n  orig: 4096, 2376\n  offset: 0, 0\n  index: -1\n\nskeleton2.png\nsize: 4760,4100\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n05\n  rotate: true\n  xy: 2, 2\n  size: 4096, 2376\n  orig: 4096, 2376\n  offset: 0, 0\n  index: -1\n06\n  rotate: true\n  xy: 2380, 2\n  size: 4096, 2376\n  orig: 4096, 2376\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "354f3035-af0e-4e0e-a87e-311450003ad0"
+    },
+    {
+      "__uuid__": "700fb592-1314-4274-a6e5-d23bbb7f6d02"
+    }
+  ],
+  "textureNames": [
+    "skeleton.png",
+    "skeleton2.png"
+  ],
+  "scale": 1
+}

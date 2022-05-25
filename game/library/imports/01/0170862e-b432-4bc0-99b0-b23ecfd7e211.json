@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "輪次0-9",
+    "texture": "d4b8fb79-07f9-4612-b98b-139f2ad246cf",
+    "atlas": "",
+    "rect": [
+      6,
+      4,
+      902,
+      117
+    ],
+    "offset": [
+      2,
+      -0.5
+    ],
+    "originalSize": [
+      910,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

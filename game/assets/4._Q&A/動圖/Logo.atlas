@@ -1,0 +1,27 @@
+
+Logo.png
+size: 908,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Logo
+  rotate: false
+  xy: 2, 141
+  size: 627, 197
+  orig: 627, 197
+  offset: 0, 0
+  index: -1
+LogoFinal
+  rotate: false
+  xy: 2, 2
+  size: 469, 137
+  orig: 482, 137
+  offset: 7, 0
+  index: -1
+WhiteLight
+  rotate: false
+  xy: 631, 66
+  size: 272, 272
+  orig: 512, 512
+  offset: 117, 143
+  index: -1

@@ -1,0 +1,92 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "test",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "lTDkO7aUR035Yci0ObeZEgUjOFE",
+      "spine": "3.8.99",
+      "x": -287.5,
+      "y": -293.5,
+      "width": 555,
+      "height": 722.5,
+      "images": "D:/翠0/4敲敲樂/切圖/主持人",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "鼠1",
+        "bone": "root",
+        "attachment": "鼠1"
+      },
+      {
+        "name": "鼠2",
+        "bone": "root",
+        "attachment": "鼠2"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "鼠1": {
+            "鼠1": {
+              "x": -12,
+              "y": 47,
+              "width": 458,
+              "height": 681
+            }
+          },
+          "鼠2": {
+            "鼠2": {
+              "x": -10,
+              "y": 68,
+              "width": 555,
+              "height": 722
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "01": {
+        "slots": {
+          "鼠1": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        }
+      },
+      "02": {
+        "slots": {
+          "鼠2": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ntest.png\nsize: 960,708\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n鼠1\n  rotate: false\n  xy: 528, 42\n  size: 430, 663\n  orig: 458, 681\n  offset: 15, 10\n  index: -1\n鼠2\n  rotate: false\n  xy: 2, 2\n  size: 524, 703\n  orig: 555, 722\n  offset: 16, 11\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "e2371a1d-52d4-4d02-a8d7-d6166d522c8e"
+    }
+  ],
+  "textureNames": [
+    "test.png"
+  ],
+  "scale": 1
+}

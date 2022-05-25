@@ -1,0 +1,13 @@
+
+Final_Light.png
+size: 1168,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+radiationLight
+  rotate: false
+  xy: 2, 2
+  size: 1164, 393
+  orig: 1193, 471
+  offset: 28, 78
+  index: -1

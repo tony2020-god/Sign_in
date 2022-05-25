@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "扇形",
+    "texture": "504d3af1-6f76-4586-b925-5311c12eb470",
+    "atlas": "",
+    "rect": [
+      0,
+      13,
+      280,
+      269
+    ],
+    "offset": [
+      0,
+      -4.5
+    ],
+    "originalSize": [
+      280,
+      286
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

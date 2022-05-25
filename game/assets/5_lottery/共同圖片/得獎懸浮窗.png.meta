@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c482864d-0a37-4a50-846b-81732cf65425",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 876,
+  "height": 1234,
+  "platformSettings": {},
+  "subMetas": {
+    "得獎懸浮窗": {
+      "ver": "1.0.4",
+      "uuid": "1e232d20-7352-4175-b10a-f5c7567b23b1",
+      "rawTextureUuid": "c482864d-0a37-4a50-846b-81732cf65425",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 876,
+      "height": 1234,
+      "rawWidth": 876,
+      "rawHeight": 1234,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

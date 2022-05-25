@@ -1,0 +1,130 @@
+{
+  "__type__": "cc.LabelAtlas",
+  "_name": "玩家時間倒數",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "d167d5a9-0769-4e3f-b3c7-e512ffd9f372"
+  },
+  "fontSize": 149.6,
+  "_fntConfig": {
+    "commonHeight": 170,
+    "fontSize": 149,
+    "atlasName": "剩餘時間0-9",
+    "fontDefDictionary": {
+      "48": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 132,
+          "height": 170
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 132
+      },
+      "49": {
+        "rect": {
+          "x": 132,
+          "y": 0,
+          "width": 132,
+          "height": 170
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 132
+      },
+      "50": {
+        "rect": {
+          "x": 264,
+          "y": 0,
+          "width": 132,
+          "height": 170
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 132
+      },
+      "51": {
+        "rect": {
+          "x": 396,
+          "y": 0,
+          "width": 132,
+          "height": 170
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 132
+      },
+      "52": {
+        "rect": {
+          "x": 528,
+          "y": 0,
+          "width": 132,
+          "height": 170
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 132
+      },
+      "53": {
+        "rect": {
+          "x": 660,
+          "y": 0,
+          "width": 132,
+          "height": 170
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 132
+      },
+      "54": {
+        "rect": {
+          "x": 792,
+          "y": 0,
+          "width": 132,
+          "height": 170
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 132
+      },
+      "55": {
+        "rect": {
+          "x": 924,
+          "y": 0,
+          "width": 132,
+          "height": 170
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 132
+      },
+      "56": {
+        "rect": {
+          "x": 1056,
+          "y": 0,
+          "width": 132,
+          "height": 170
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 132
+      },
+      "57": {
+        "rect": {
+          "x": 1188,
+          "y": 0,
+          "width": 132,
+          "height": 170
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 132
+      }
+    },
+    "kerningDict": {}
+  },
+  "_fontDefDictionary": null
+}

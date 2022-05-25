@@ -1,0 +1,55 @@
+
+Main.png
+size: 1304,3496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light01
+  rotate: true
+  xy: 1120, 3379
+  size: 113, 114
+  orig: 130, 130
+  offset: 8, 8
+  index: -1
+LightDot
+  rotate: true
+  xy: 2, 2408
+  size: 1084, 1116
+  orig: 1150, 1150
+  offset: 66, 0
+  index: -1
+LightDot_0
+  rotate: true
+  xy: 2, 1441
+  size: 965, 1005
+  orig: 1150, 1150
+  offset: 185, 42
+  index: -1
+LightDot_1
+  rotate: true
+  xy: 733, 819
+  size: 620, 567
+  orig: 1150, 1150
+  offset: 269, 245
+  index: -1
+LightEX
+  rotate: true
+  xy: 2, 720
+  size: 719, 729
+  orig: 720, 768
+  offset: 0, 27
+  index: -1
+LightIn
+  rotate: false
+  xy: 2, 2
+  size: 686, 716
+  orig: 720, 768
+  offset: 16, 34
+  index: -1
+Out
+  rotate: true
+  xy: 690, 27
+  size: 691, 607
+  orig: 705, 736
+  offset: 7, 21
+  index: -1

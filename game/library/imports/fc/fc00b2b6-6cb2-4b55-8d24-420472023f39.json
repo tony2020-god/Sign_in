@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "九宮格亮",
+    "texture": "d7b31e28-829a-4e9d-98b5-f2ec503237ff",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      315,
+      315
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      315,
+      315
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PC得分結算_13",
+    "texture": "01ea3654-4322-409b-b5f4-8e6cdc00e129",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      878,
+      299
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      878,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

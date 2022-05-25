@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "黑條底PC",
+    "texture": "261d72b8-42c7-4c8e-af2e-42a066106b74",
+    "atlas": "",
+    "rect": [
+      21,
+      17,
+      3748,
+      78
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      3791,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

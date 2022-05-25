@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Countdown_Lantern",
+    "texture": "6ac92fe6-b5c1-4cac-b0b4-d3cda7ae8745",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      645,
+      1429
+    ],
+    "offset": [
+      -0.5,
+      2
+    ],
+    "originalSize": [
+      652,
+      1433
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

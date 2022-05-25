@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Loding小圖",
+    "texture": "79d6d461-05be-43c3-b287-a1a12341f3f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      462
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      462
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

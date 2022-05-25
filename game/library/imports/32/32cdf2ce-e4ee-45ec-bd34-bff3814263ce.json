@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "繩子2",
+    "texture": "7a5e5239-c1aa-4381-af6b-ee5c4596d97c",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      524,
+      1627
+    ],
+    "offset": [
+      0.5,
+      2
+    ],
+    "originalSize": [
+      525,
+      1635
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

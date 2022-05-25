@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ShakeRounds",
+    "texture": "f0b54ee8-898b-4985-81cb-7381a986a7ba",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      944,
+      460
+    ],
+    "offset": [
+      -0.5,
+      1
+    ],
+    "originalSize": [
+      951,
+      466
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

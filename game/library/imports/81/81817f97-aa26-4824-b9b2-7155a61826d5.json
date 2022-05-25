@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "加入遊戲",
+    "texture": "5c1324bd-a6a4-4160-a495-624653750ec9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      696,
+      241
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      696,
+      241
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "__type__": "cc.LabelAtlas",
+  "_name": "主持人倒數",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "f2b874ce-529a-402c-b0e4-44f6524aeeec"
+  },
+  "fontSize": 456.72,
+  "_fntConfig": {
+    "commonHeight": 519,
+    "fontSize": 456,
+    "atlasName": "0-9",
+    "fontDefDictionary": {
+      "48": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 400,
+          "height": 519
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 400
+      },
+      "49": {
+        "rect": {
+          "x": 400,
+          "y": 0,
+          "width": 400,
+          "height": 519
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 400
+      },
+      "50": {
+        "rect": {
+          "x": 800,
+          "y": 0,
+          "width": 400,
+          "height": 519
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 400
+      },
+      "51": {
+        "rect": {
+          "x": 1200,
+          "y": 0,
+          "width": 400,
+          "height": 519
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 400
+      },
+      "52": {
+        "rect": {
+          "x": 1600,
+          "y": 0,
+          "width": 400,
+          "height": 519
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 400
+      },
+      "53": {
+        "rect": {
+          "x": 2000,
+          "y": 0,
+          "width": 400,
+          "height": 519
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 400
+      },
+      "54": {
+        "rect": {
+          "x": 2400,
+          "y": 0,
+          "width": 400,
+          "height": 519
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 400
+      },
+      "55": {
+        "rect": {
+          "x": 2800,
+          "y": 0,
+          "width": 400,
+          "height": 519
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 400
+      },
+      "56": {
+        "rect": {
+          "x": 3200,
+          "y": 0,
+          "width": 400,
+          "height": 519
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 400
+      },
+      "57": {
+        "rect": {
+          "x": 3600,
+          "y": 0,
+          "width": 400,
+          "height": 519
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 400
+      }
+    },
+    "kerningDict": {}
+  },
+  "_fontDefDictionary": null
+}

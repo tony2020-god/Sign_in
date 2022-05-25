@@ -1,0 +1,48 @@
+
+button.png
+size: 536,1740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1button
+  rotate: true
+  xy: 2, 2
+  size: 503, 529
+  orig: 510, 534
+  offset: 3, 2
+  index: -1
+2button
+  rotate: false
+  xy: 2, 1009
+  size: 525, 404
+  orig: 532, 553
+  offset: 4, 3
+  index: -1
+3button
+  rotate: false
+  xy: 2, 507
+  size: 523, 500
+  orig: 531, 504
+  offset: 4, 1
+  index: -1
+light
+  rotate: false
+  xy: 2, 1609
+  size: 186, 126
+  orig: 200, 126
+  offset: 7, 0
+  index: -1
+word
+  rotate: false
+  xy: 190, 1562
+  size: 337, 173
+  orig: 416, 182
+  offset: 39, 5
+  index: -1
+word2
+  rotate: false
+  xy: 2, 1415
+  size: 406, 145
+  orig: 416, 182
+  offset: 5, 18
+  index: -1

@@ -1,0 +1,162 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "PhoneQuestionLight",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "fU6R0ORBlJeNyv5x68ql2iMMvws",
+      "spine": "3.8.99"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "Question",
+        "parent": "root",
+        "x": 2.68,
+        "y": -12.07
+      },
+      {
+        "name": "OutLight",
+        "parent": "Question",
+        "x": -16.54,
+        "y": -6.41,
+        "scaleX": 1.65,
+        "scaleY": 1.65
+      }
+    ],
+    "slots": [
+      {
+        "name": "Comp 100",
+        "bone": "OutLight",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "Comp 100": {
+            "Comp 100": {
+              "width": 830,
+              "height": 160
+            },
+            "Comp 101": {
+              "width": 830,
+              "height": 160
+            },
+            "Comp 102": {
+              "width": 830,
+              "height": 160
+            },
+            "Comp 103": {
+              "width": 830,
+              "height": 160
+            },
+            "Comp 104": {
+              "width": 830,
+              "height": 160
+            },
+            "Comp 105": {
+              "width": 830,
+              "height": 160
+            },
+            "Comp 106": {
+              "width": 830,
+              "height": 160
+            },
+            "Comp 107": {
+              "width": 830,
+              "height": 160
+            },
+            "Comp 108": {
+              "width": 830,
+              "height": 160
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "Lightflicker": {
+        "slots": {
+          "Comp 100": {
+            "attachment": [
+              {
+                "name": "Comp 100"
+              },
+              {
+                "time": 0.0667,
+                "name": "Comp 101"
+              },
+              {
+                "time": 0.1333,
+                "name": "Comp 102"
+              },
+              {
+                "time": 0.2,
+                "name": "Comp 103"
+              },
+              {
+                "time": 0.2667,
+                "name": "Comp 104"
+              },
+              {
+                "time": 0.3333,
+                "name": "Comp 105"
+              },
+              {
+                "time": 0.4,
+                "name": "Comp 106"
+              },
+              {
+                "time": 0.4667,
+                "name": "Comp 107"
+              },
+              {
+                "time": 0.5333,
+                "name": "Comp 108"
+              }
+            ]
+          }
+        }
+      },
+      "lightning": {
+        "slots": {
+          "Comp 100": {
+            "color": [
+              {
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffa5"
+              },
+              {
+                "time": 1.6667,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "Comp 100"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nPhoneQuestionLight.png\nsize: 3340,84\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nComp 100\n  rotate: false\n  xy: 2, 2\n  size: 415, 80\n  orig: 415, 80\n  offset: 0, 0\n  index: -1\nComp 108\n  rotate: false\n  xy: 2, 2\n  size: 415, 80\n  orig: 415, 80\n  offset: 0, 0\n  index: -1\nComp 101\n  rotate: false\n  xy: 419, 2\n  size: 415, 80\n  orig: 415, 80\n  offset: 0, 0\n  index: -1\nComp 102\n  rotate: false\n  xy: 836, 2\n  size: 415, 80\n  orig: 415, 80\n  offset: 0, 0\n  index: -1\nComp 103\n  rotate: false\n  xy: 1253, 2\n  size: 415, 80\n  orig: 415, 80\n  offset: 0, 0\n  index: -1\nComp 104\n  rotate: false\n  xy: 1670, 2\n  size: 415, 80\n  orig: 415, 80\n  offset: 0, 0\n  index: -1\nComp 105\n  rotate: false\n  xy: 2087, 2\n  size: 415, 80\n  orig: 415, 80\n  offset: 0, 0\n  index: -1\nComp 106\n  rotate: false\n  xy: 2504, 2\n  size: 415, 80\n  orig: 415, 80\n  offset: 0, 0\n  index: -1\nComp 107\n  rotate: false\n  xy: 2921, 2\n  size: 415, 80\n  orig: 415, 80\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "63d84673-2ffa-4a1b-b340-795a74565480"
+    }
+  ],
+  "textureNames": [
+    "PhoneQuestionLight.png"
+  ],
+  "scale": 1
+}

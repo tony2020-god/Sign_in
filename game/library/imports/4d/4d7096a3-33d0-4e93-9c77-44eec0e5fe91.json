@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "得獎_中央圖標",
+    "texture": "4ceae31e-e68e-4908-935b-95ab5dad90cf",
+    "atlas": "",
+    "rect": [
+      65,
+      54,
+      753,
+      808
+    ],
+    "offset": [
+      3.5,
+      -27
+    ],
+    "originalSize": [
+      876,
+      862
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

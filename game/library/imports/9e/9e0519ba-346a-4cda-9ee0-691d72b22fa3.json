@@ -1,0 +1,75 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "BackSmall",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "ysL4Kt9bQtaVa5F+nEFzqtH6u6c",
+      "spine": "3.8.99",
+      "x": -1907.05,
+      "y": -687.3,
+      "width": 3807,
+      "height": 1271
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "問題公布框",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "問題公布框",
+        "bone": "問題公布框",
+        "attachment": "BaclSmall"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "問題公布框": {
+            "BaclSmall": {
+              "x": -3.55,
+              "y": -51.8,
+              "width": 3807,
+              "height": 1271
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "In": {
+        "bones": {
+          "問題公布框": {
+            "scale": [
+              {
+                "y": 0,
+                "curve": 1,
+                "c3": 0
+              },
+              {
+                "time": 0.3333
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nBackSmall.png\nsize: 1844,640\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nBaclSmall\n  rotate: false\n  xy: 2, 2\n  size: 1838, 636\n  orig: 1904, 636\n  offset: 29, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "01c4ff5c-4b83-47db-a6fb-a1b69c4a0268"
+    }
+  ],
+  "textureNames": [
+    "BackSmall.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "敲敲樂輪次",
+    "texture": "8f7ecf3a-9938-427a-9171-f23af0e54d0c",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      943,
+      451
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      948,
+      453
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

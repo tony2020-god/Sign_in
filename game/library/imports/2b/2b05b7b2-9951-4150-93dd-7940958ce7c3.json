@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "上方小標",
+    "texture": "fe1ca64c-ec98-490c-8dde-e871373f6963",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1440,
+      180
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1440,
+      180
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

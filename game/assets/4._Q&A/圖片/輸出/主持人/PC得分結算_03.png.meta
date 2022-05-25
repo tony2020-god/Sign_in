@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e659615d-898d-412b-9615-1b2b88a56efe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 964,
+  "height": 273,
+  "platformSettings": {},
+  "subMetas": {
+    "PC得分結算_03": {
+      "ver": "1.0.4",
+      "uuid": "83cc47b6-04b7-4270-a6fa-10548a1f6a7a",
+      "rawTextureUuid": "e659615d-898d-412b-9615-1b2b88a56efe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0.5,
+      "trimX": 14,
+      "trimY": 0,
+      "width": 938,
+      "height": 272,
+      "rawWidth": 964,
+      "rawHeight": 273,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

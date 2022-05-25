@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "紅包3",
+    "texture": "df5bcf25-ca74-4f43-ab22-06490ae083e8",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      509,
+      381
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      511,
+      381
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

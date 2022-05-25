@@ -1,0 +1,97 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "button hand",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "32D/cYjxzl0WqT/lBWhkXSw8kS4",
+      "spine": "3.8.99",
+      "x": -334.95,
+      "y": -192.64,
+      "width": 534,
+      "height": 375,
+      "images": "./按鈕/",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root",
+        "x": -384.75
+      },
+      {
+        "name": "hand",
+        "parent": "root",
+        "x": 459.18,
+        "y": -46.87
+      }
+    ],
+    "slots": [
+      {
+        "name": "hand",
+        "bone": "hand",
+        "attachment": "hand"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "hand": {
+            "hand": {
+              "x": -142.38,
+              "y": 41.73,
+              "width": 534,
+              "height": 375
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "animation": {
+        "bones": {
+          "hand": {
+            "rotate": [
+              {
+                "angle": -28.73
+              },
+              {
+                "time": 0.3333,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.4333
+              },
+              {
+                "time": 0.6667,
+                "angle": -28.73
+              },
+              {
+                "time": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1
+              },
+              {
+                "time": 1.3333,
+                "angle": -28.73
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nbutton hand.png\nsize: 516,360\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nhand\n  rotate: false\n  xy: 2, 2\n  size: 510, 356\n  orig: 534, 375\n  offset: 12, 10\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "bc5d9522-0b60-42d3-9411-3d341891229d"
+    }
+  ],
+  "textureNames": [
+    "button hand.png"
+  ],
+  "scale": 1
+}

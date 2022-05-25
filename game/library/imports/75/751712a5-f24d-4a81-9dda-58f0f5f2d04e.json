@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "名次數字",
+    "texture": "c2ced7aa-7abb-439b-9eb5-8716a4c503a1",
+    "atlas": "",
+    "rect": [
+      23,
+      4,
+      1113,
+      107
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      1160,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

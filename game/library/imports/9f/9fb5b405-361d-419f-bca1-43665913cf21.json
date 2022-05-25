@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "半透明黑框",
+    "texture": "cc45666b-6a1e-4d74-93de-97bc4a5148cf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1440,
+      2560
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

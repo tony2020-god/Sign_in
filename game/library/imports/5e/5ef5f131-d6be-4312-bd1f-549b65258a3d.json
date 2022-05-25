@@ -1,0 +1,195 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Plate_In",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "tSfDg8E2iOME6NN5Bet0/dOaTi4",
+      "spine": "3.8.99",
+      "x": -1212,
+      "y": -1185.56,
+      "width": 2424,
+      "height": 2308.82
+    },
+    "bones": [
+      {
+        "name": "main"
+      },
+      {
+        "name": "Plate_In",
+        "parent": "main"
+      }
+    ],
+    "slots": [
+      {
+        "name": "Mask_PC3",
+        "bone": "main",
+        "color": "0900ffff",
+        "attachment": "Mask_PC"
+      },
+      {
+        "name": "Mask_Mobile2",
+        "bone": "main",
+        "color": "00ff07ff",
+        "attachment": "Mask_Mobile"
+      },
+      {
+        "name": "Plate_In",
+        "bone": "Plate_In",
+        "attachment": "Plate_In"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "Mask_Mobile2": {
+            "Mask_Mobile": {
+              "type": "clipping",
+              "end": "Mask_Mobile2",
+              "vertexCount": 4,
+              "vertices": [
+                -1055.52,
+                1639.4,
+                -1055.52,
+                -2102.99,
+                1046.61,
+                -2102.99,
+                1043.21,
+                1642.8
+              ]
+            }
+          },
+          "Mask_PC3": {
+            "Mask_PC": {
+              "type": "clipping",
+              "end": "Mask_PC3",
+              "vertexCount": 4,
+              "vertices": [
+                -2062.54,
+                1123.92,
+                -2056.26,
+                -1183.05,
+                2035.93,
+                -1186.19,
+                2039.07,
+                1120.77
+              ]
+            }
+          },
+          "Plate_In": {
+            "Plate_In": {
+              "width": 2424,
+              "height": 2424
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "Broken": {
+        "bones": {
+          "Plate_In": {
+            "rotate": [
+              {
+                "angle": -5
+              },
+              {
+                "time": 0.0667,
+                "angle": 10,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1667,
+                "angle": 10
+              },
+              {
+                "time": 0.2333,
+                "angle": -5,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5667,
+                "angle": -5
+              },
+              {
+                "time": 0.6667,
+                "angle": -15,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "angle": -15
+              }
+            ]
+          }
+        }
+      },
+      "Roll": {
+        "bones": {
+          "Plate_In": {
+            "rotate": [
+              {
+                "time": 0.9667
+              },
+              {
+                "time": 1.1,
+                "angle": 10
+              },
+              {
+                "time": 1.2,
+                "angle": -5
+              },
+              {
+                "time": 1.3,
+                "angle": 10
+              },
+              {
+                "time": 1.3667,
+                "angle": -5
+              },
+              {
+                "time": 1.4333,
+                "angle": 10
+              },
+              {
+                "time": 1.5,
+                "angle": -5
+              },
+              {
+                "time": 1.5667,
+                "angle": 10
+              },
+              {
+                "time": 1.6,
+                "angle": -5
+              },
+              {
+                "time": 1.6333,
+                "angle": 10
+              },
+              {
+                "time": 1.6667,
+                "curve": "stepped"
+              },
+              {
+                "time": 2.3333
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nPlate_In.png\nsize: 760,760\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nPlate_In\n  rotate: false\n  xy: 2, 2\n  size: 754, 754\n  orig: 1212, 1212\n  offset: 229, 229\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "b251198a-c559-4f33-a0e2-49afac3625f1"
+    }
+  ],
+  "textureNames": [
+    "Plate_In.png"
+  ],
+  "scale": 1
+}

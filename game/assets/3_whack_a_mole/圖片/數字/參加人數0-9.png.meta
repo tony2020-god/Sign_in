@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9bd1d06d-a903-4e5b-8083-3338a6f2206d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1620,
+  "height": 229,
+  "platformSettings": {},
+  "subMetas": {
+    "參加人數0-9": {
+      "ver": "1.0.4",
+      "uuid": "aefcc15f-3ad8-470e-948a-de6ed898cae6",
+      "rawTextureUuid": "9bd1d06d-a903-4e5b-8083-3338a6f2206d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -1,
+      "trimX": 5,
+      "trimY": 2,
+      "width": 1606,
+      "height": 227,
+      "rawWidth": 1620,
+      "rawHeight": 229,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

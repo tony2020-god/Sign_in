@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "無限時",
+    "texture": "50b9189c-e0ae-4045-8eb6-af90da63a009",
+    "atlas": "",
+    "rect": [
+      17,
+      22,
+      365,
+      119
+    ],
+    "offset": [
+      3,
+      -6
+    ],
+    "originalSize": [
+      393,
+      151
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

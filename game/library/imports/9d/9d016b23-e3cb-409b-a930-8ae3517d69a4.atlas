@@ -1,0 +1,20 @@
+
+PCQuestion.png
+size: 1120,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PCQuestionBack
+  rotate: false
+  xy: 2, 4
+  size: 1013, 87
+  orig: 1024, 103
+  offset: 11, 8
+  index: -1
+SixBlue
+  rotate: true
+  xy: 1017, 2
+  size: 89, 101
+  orig: 103, 103
+  offset: 7, 1
+  index: -1

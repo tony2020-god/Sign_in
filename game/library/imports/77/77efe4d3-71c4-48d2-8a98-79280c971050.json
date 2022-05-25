@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "遊戲即將開始",
+    "texture": "6513c9da-737d-472c-9c68-eba30a394faa",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      1123,
+      184
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      1131,
+      190
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

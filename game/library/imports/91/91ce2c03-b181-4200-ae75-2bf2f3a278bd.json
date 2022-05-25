@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "得獎懸浮窗_06",
+    "texture": "08252d64-9ea6-41c3-a30f-19efdc0e2185",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      738,
+      182
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      738,
+      182
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

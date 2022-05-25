@@ -1,0 +1,27 @@
+
+Go.png
+size: 340,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GoBack
+  rotate: false
+  xy: 2, 2
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+GoLeft
+  rotate: false
+  xy: 162, 3
+  size: 87, 157
+  orig: 158, 158
+  offset: 1, 0
+  index: -1
+GoRight
+  rotate: false
+  xy: 251, 3
+  size: 85, 157
+  orig: 158, 158
+  offset: 73, 0
+  index: -1

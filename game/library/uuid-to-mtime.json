@@ -1,0 +1,4612 @@
+{
+  "644f15b5-cace-4fa0-9013-0fd377349017": {
+    "asset": 1651737426952,
+    "meta": 1651801591676,
+    "relativePath": "1_redpack"
+  },
+  "fdea716e-d5ac-49bd-8088-ddd135f2b0a2": {
+    "asset": 1651736254466,
+    "meta": 1651737390162,
+    "relativePath": "1_redpack\\字型"
+  },
+  "795873be-bc72-4383-937d-da3b210e4e5a": {
+    "asset": 1636962339688,
+    "meta": 1646361167205,
+    "relativePath": "1_redpack\\字型\\CountDown.labelatlas"
+  },
+  "f33ad080-520e-4586-8ee7-8302efba56bf": {
+    "asset": 1625198442000,
+    "meta": 1646361167206,
+    "relativePath": "1_redpack\\字型\\NowPeopleNum.labelatlas"
+  },
+  "27143dbe-12f3-4478-984d-0185b17aa2c1": {
+    "asset": 1635755376845,
+    "meta": 1646361160964,
+    "relativePath": "1_redpack\\字型\\scarefort.ttf"
+  },
+  "d4e1536e-f9f7-41fb-94d2-9173c5fcb40f": {
+    "asset": 1635755471473,
+    "meta": 1646361160980,
+    "relativePath": "1_redpack\\字型\\setofont.ttf"
+  },
+  "87dd8282-cd2f-4dc6-adb4-192bf2bb2c17": {
+    "asset": 1625185950000,
+    "meta": 1646361167209,
+    "relativePath": "1_redpack\\字型\\RoundAtlas.labelatlas"
+  },
+  "f586a8cd-4bd0-40a0-921d-7d95485642d5": {
+    "asset": 1625538378000,
+    "meta": 1646361167211,
+    "relativePath": "1_redpack\\字型\\Time.labelatlas"
+  },
+  "7af3dd37-7005-4caa-acf4-3761edc3a133": {
+    "asset": 1643006352316,
+    "meta": 1646361160984,
+    "relativePath": "1_redpack\\按鍵"
+  },
+  "26cbe017-d6cc-4a57-a529-4bf910e75afe": {
+    "asset": 1625814122000,
+    "meta": 1646361167213,
+    "relativePath": "1_redpack\\字型\\WinRound.labelatlas"
+  },
+  "5c1324bd-a6a4-4160-a495-624653750ec9": {
+    "asset": 1636610799225,
+    "meta": 1646361160998,
+    "relativePath": "1_redpack\\按鍵\\加入遊戲.png"
+  },
+  "e1fe20d7-b4c2-4ef0-9ffb-2f05476d0fc9": {
+    "asset": 1635306830596,
+    "meta": 1646361161000,
+    "relativePath": "1_redpack\\按鍵\\結束遊戲.png"
+  },
+  "6b7f4e40-84db-4bc3-815c-dbaaef2a948b": {
+    "asset": 1625045072000,
+    "meta": 1646361161016,
+    "relativePath": "1_redpack\\按鍵\\Again.png"
+  },
+  "2e57639f-c40f-48db-9d91-2da931ddbade": {
+    "asset": 1622702102000,
+    "meta": 1646361161018,
+    "relativePath": "1_redpack\\按鍵\\Start_Button.png"
+  },
+  "edd87988-75e7-43ba-9002-58d7f32954c1": {
+    "asset": 1643006352357,
+    "meta": 1646361161019,
+    "relativePath": "1_redpack\\音效"
+  },
+  "96286e42-08f0-476f-ade4-04a7842db678": {
+    "asset": 1624341452000,
+    "meta": 1646361161042,
+    "relativePath": "1_redpack\\按鍵\\Win_Record.png"
+  },
+  "3df151e8-6b16-4d26-9765-df90e652bcaa": {
+    "asset": 1636619935260,
+    "meta": 1646361161469,
+    "relativePath": "1_redpack\\音效\\倒數Go.mp3"
+  },
+  "09b8fb54-9d57-4082-aa2d-b0b2d6ef3abb": {
+    "asset": 1636619400393,
+    "meta": 1646361161471,
+    "relativePath": "1_redpack\\音效\\倒數321.mp3"
+  },
+  "172051f3-c7d3-4172-926e-2775c78fbfc5": {
+    "asset": 1636705077940,
+    "meta": 1646361161485,
+    "relativePath": "1_redpack\\音效\\最後畫面BGM.mp3"
+  },
+  "9604acf1-88e0-403d-b53c-74d2e45a3ce0": {
+    "asset": 1636704159728,
+    "meta": 1646361161488,
+    "relativePath": "1_redpack\\音效\\開始BGM.mp3"
+  },
+  "57e6cbf2-2342-4b23-bb56-fbbc08c8d112": {
+    "asset": 1651823138140,
+    "meta": 1652057219325,
+    "relativePath": "1_redpack\\動圖"
+  },
+  "b8ecbf80-6c99-432f-959d-74cefbf12ceb": {
+    "asset": 1643006348729,
+    "meta": 1646361161491,
+    "relativePath": "1_redpack\\動圖\\book-S"
+  },
+  "40d4aaf6-01ba-4942-a680-8d75644a8966": {
+    "asset": 1634696648564,
+    "meta": 1646361161495,
+    "relativePath": "1_redpack\\動圖\\book-S\\book-S.atlas"
+  },
+  "33262c36-bae0-4082-9434-e908bbcc8329": {
+    "asset": 1636703870726,
+    "meta": 1646361161508,
+    "relativePath": "1_redpack\\音效\\遊戲BGM.mp3"
+  },
+  "9a903cdc-7c03-4b9e-82d3-adfa3ff43b71": {
+    "asset": 1643006348757,
+    "meta": 1646361161509,
+    "relativePath": "1_redpack\\動圖\\clock-light"
+  },
+  "c5092098-0af7-4488-870f-a046b217d8c4": {
+    "asset": 1622701224000,
+    "meta": 1646361161515,
+    "relativePath": "1_redpack\\動圖\\clock-light\\clock light.atlas"
+  },
+  "069396f6-b7a9-4950-be5d-a98ea24eada5": {
+    "asset": 1634696648560,
+    "meta": 1646361161518,
+    "relativePath": "1_redpack\\動圖\\book-S\\book-S.png"
+  },
+  "93e8f307-ae86-4064-a0ad-d9c721e89316": {
+    "asset": 1634696648564,
+    "meta": 1646361167223,
+    "relativePath": "1_redpack\\動圖\\book-S\\book-S.json"
+  },
+  "a3fdcb7a-5d49-4f44-a71a-3ce86c70a97e": {
+    "asset": 1643006348784,
+    "meta": 1646361161521,
+    "relativePath": "1_redpack\\動圖\\cloud"
+  },
+  "504a246a-7a2e-4855-97dc-66d0abd33d3f": {
+    "asset": 1623166036000,
+    "meta": 1646361161527,
+    "relativePath": "1_redpack\\動圖\\cloud\\cloud-S.atlas"
+  },
+  "c5044296-4e0b-4863-a4fb-6acb03334554": {
+    "asset": 1622701224000,
+    "meta": 1646361167226,
+    "relativePath": "1_redpack\\動圖\\clock-light\\clock light.json"
+  },
+  "60abf199-057f-4386-a084-08d26421de1c": {
+    "asset": 1623166036000,
+    "meta": 1646361161550,
+    "relativePath": "1_redpack\\動圖\\cloud\\cloud-S.png"
+  },
+  "ad4836ca-8bc1-42b8-b450-72887a9a5258": {
+    "asset": 1643006348812,
+    "meta": 1646361161551,
+    "relativePath": "1_redpack\\動圖\\hand-S2"
+  },
+  "337b944c-801b-41a9-80cd-1f060c23458f": {
+    "asset": 1624341252000,
+    "meta": 1646361161554,
+    "relativePath": "1_redpack\\動圖\\hand-S2\\hand-S2.atlas"
+  },
+  "3a80a118-47ee-401d-aa8c-5ba01c6fba59": {
+    "asset": 1623166036000,
+    "meta": 1646361167229,
+    "relativePath": "1_redpack\\動圖\\cloud\\cloud-S.json"
+  },
+  "00e2649b-bd3c-4396-a13f-42c76890c5ae": {
+    "asset": 1622701224000,
+    "meta": 1646361161570,
+    "relativePath": "1_redpack\\動圖\\clock-light\\clock light.png"
+  },
+  "b1cd322c-e414-4eb4-ade0-9efdcd2503af": {
+    "asset": 1643006348841,
+    "meta": 1646361161571,
+    "relativePath": "1_redpack\\動圖\\hostBD-S"
+  },
+  "e916a865-49f5-45a3-9b08-046b7833b0c6": {
+    "asset": 1623167570000,
+    "meta": 1646361161579,
+    "relativePath": "1_redpack\\動圖\\hostBD-S\\hostBD-S.atlas"
+  },
+  "a8bcd227-e99b-4d24-8a79-980876f853e9": {
+    "asset": 1624341252000,
+    "meta": 1646361167232,
+    "relativePath": "1_redpack\\動圖\\hand-S2\\hand-S2.json"
+  },
+  "10faa9d6-fada-41e8-bc12-b05625e0a9e1": {
+    "asset": 1624341252000,
+    "meta": 1646361161584,
+    "relativePath": "1_redpack\\動圖\\hand-S2\\hand-S2.png"
+  },
+  "4266b928-e30b-4f75-a138-054451a90078": {
+    "asset": 1643006348918,
+    "meta": 1646361161585,
+    "relativePath": "1_redpack\\動圖\\hostBD-W"
+  },
+  "95b553a5-10d5-4984-82f3-17244e64a92d": {
+    "asset": 1623998328000,
+    "meta": 1646361161591,
+    "relativePath": "1_redpack\\動圖\\hostBD-W\\hostBD-W.atlas"
+  },
+  "c9a06d51-1f81-4caa-a68a-c2c7e3244dc1": {
+    "asset": 1623167570000,
+    "meta": 1646361167235,
+    "relativePath": "1_redpack\\動圖\\hostBD-S\\hostBD-S.json"
+  },
+  "1ad81b7f-b55a-42af-af39-538fdaebae2b": {
+    "asset": 1623998330000,
+    "meta": 1646361161613,
+    "relativePath": "1_redpack\\動圖\\hostBD-W\\hostBD-W.png"
+  },
+  "4ee0cf6c-e37d-432c-a868-267b50005f48": {
+    "asset": 1624001924000,
+    "meta": 1646361161619,
+    "relativePath": "1_redpack\\動圖\\hostBD-W\\lantern light-W.atlas"
+  },
+  "32154419-4dc7-4cd1-8af3-badcf93e8832": {
+    "asset": 1623998330000,
+    "meta": 1646361167238,
+    "relativePath": "1_redpack\\動圖\\hostBD-W\\hostBD-W.json"
+  },
+  "0c0cd8db-0ebd-4166-a811-c9b9997cb7eb": {
+    "asset": 1623167570000,
+    "meta": 1646361161624,
+    "relativePath": "1_redpack\\動圖\\hostBD-S\\hostBD-S.png"
+  },
+  "43e06bac-a821-475e-9f34-beee7671a483": {
+    "asset": 1623918134000,
+    "meta": 1646361161628,
+    "relativePath": "1_redpack\\動圖\\hostBD-W\\lantern light2-W.atlas"
+  },
+  "59c74a05-7bf7-4948-ae8d-9475159d1ecd": {
+    "asset": 1624001924000,
+    "meta": 1646361167241,
+    "relativePath": "1_redpack\\動圖\\hostBD-W\\lantern light-W.json"
+  },
+  "480d177f-f67c-46d0-bf1d-e736b1617ce4": {
+    "asset": 1624001924000,
+    "meta": 1646361161641,
+    "relativePath": "1_redpack\\動圖\\hostBD-W\\lantern light-W.png"
+  },
+  "a51c2632-ec1a-4341-9843-372d32178842": {
+    "asset": 1643006349091,
+    "meta": 1646361161642,
+    "relativePath": "1_redpack\\動圖\\ID light"
+  },
+  "240d1fb4-0699-49bd-af52-022979c3720f": {
+    "asset": 1623918134000,
+    "meta": 1646361161648,
+    "relativePath": "1_redpack\\動圖\\hostBD-W\\lantern light2-W.png"
+  },
+  "00beb882-ba92-4ea5-b87f-58da544b4012": {
+    "asset": 1623918134000,
+    "meta": 1646361167244,
+    "relativePath": "1_redpack\\動圖\\hostBD-W\\lantern light2-W.json"
+  },
+  "d9ec932e-db36-4699-ae19-0d5bc667de2a": {
+    "asset": 1622701004000,
+    "meta": 1646361161652,
+    "relativePath": "1_redpack\\動圖\\ID light\\ID light.atlas"
+  },
+  "bedbcaf4-dc2f-464d-a1a7-36ef7757a257": {
+    "asset": 1622701004000,
+    "meta": 1646361167247,
+    "relativePath": "1_redpack\\動圖\\ID light\\ID light.json"
+  },
+  "95e9d642-4c7b-4d2b-8f24-8abd7f9f1ae0": {
+    "asset": 1622701004000,
+    "meta": 1646361161666,
+    "relativePath": "1_redpack\\動圖\\ID light\\ID light.png"
+  },
+  "c51a20cd-b932-4d58-8c8f-4a2f57765a58": {
+    "asset": 1643006349577,
+    "meta": 1646361161667,
+    "relativePath": "1_redpack\\動圖\\money"
+  },
+  "58dca0cf-09c0-4512-9633-e6fd6684ce42": {
+    "asset": 1643006349721,
+    "meta": 1646361161668,
+    "relativePath": "1_redpack\\動圖\\money-S"
+  },
+  "40d2bc12-4ce1-4f95-9df5-402431bacfe6": {
+    "asset": 1623167812000,
+    "meta": 1646361161674,
+    "relativePath": "1_redpack\\動圖\\money-S\\money-S.atlas"
+  },
+  "ee7570e7-dc6c-44a1-bcd1-a9e7c5209f1c": {
+    "asset": 1622701090000,
+    "meta": 1646361161695,
+    "relativePath": "1_redpack\\動圖\\money\\money-W.atlas"
+  },
+  "100fb409-894f-4d17-b93d-080a0d322db0": {
+    "asset": 1623167812000,
+    "meta": 1646361167255,
+    "relativePath": "1_redpack\\動圖\\money-S\\money-S.json"
+  },
+  "f07cbf90-e9c0-4d9a-80d4-9f54909498e9": {
+    "asset": 1623167812000,
+    "meta": 1646361161701,
+    "relativePath": "1_redpack\\動圖\\money-S\\money-S.png"
+  },
+  "cf8a0be2-fdd4-42f5-9357-c72583ab92e2": {
+    "asset": 1643006349860,
+    "meta": 1646361161701,
+    "relativePath": "1_redpack\\動圖\\player_lose"
+  },
+  "09b19845-d78c-4730-9737-6e33e8025849": {
+    "asset": 1625033644000,
+    "meta": 1646361161705,
+    "relativePath": "1_redpack\\動圖\\player_lose\\lose-S.atlas"
+  },
+  "3b55c8bc-c54c-4882-bd3a-4e616e86a66c": {
+    "asset": 1622701090000,
+    "meta": 1646361167260,
+    "relativePath": "1_redpack\\動圖\\money\\money-W.json"
+  },
+  "a86f4e26-29ec-4838-838d-7fbe6eb0522c": {
+    "asset": 1622701090000,
+    "meta": 1646361161719,
+    "relativePath": "1_redpack\\動圖\\money\\money-W.png"
+  },
+  "71c9521d-3c1b-4e60-8f37-863d2c350da7": {
+    "asset": 1643006350012,
+    "meta": 1646361161721,
+    "relativePath": "1_redpack\\動圖\\player_win"
+  },
+  "f2778cdf-0c4b-4722-9212-f61f6c02ff3e": {
+    "asset": 1625034072000,
+    "meta": 1646361161724,
+    "relativePath": "1_redpack\\動圖\\player_win\\win-S.atlas"
+  },
+  "cce7f649-17b9-4c59-baf8-fa9d4232af8e": {
+    "asset": 1625033646000,
+    "meta": 1646361167263,
+    "relativePath": "1_redpack\\動圖\\player_lose\\lose-S.json"
+  },
+  "f295eca6-5f0d-4795-84d1-f4986ad8a4a8": {
+    "asset": 1625033648000,
+    "meta": 1646361161733,
+    "relativePath": "1_redpack\\動圖\\player_lose\\lose-S.png"
+  },
+  "31328ae1-f5c3-43c3-a576-ed4d58cfb790": {
+    "asset": 1643006350159,
+    "meta": 1646361161734,
+    "relativePath": "1_redpack\\動圖\\red bag"
+  },
+  "41a68493-cc7d-41b1-8d03-a8cde2b49db1": {
+    "asset": 1643006350194,
+    "meta": 1646361161735,
+    "relativePath": "1_redpack\\動圖\\red bag-s"
+  },
+  "087d97bd-c034-4b73-b7e0-bf92ecf5aa91": {
+    "asset": 1624334226000,
+    "meta": 1646361161742,
+    "relativePath": "1_redpack\\動圖\\red bag-s\\red bag-S.atlas"
+  },
+  "ebf4991f-b954-4a1c-a5b0-0c6864afd944": {
+    "asset": 1625034076000,
+    "meta": 1646361167268,
+    "relativePath": "1_redpack\\動圖\\player_win\\win-S.json"
+  },
+  "6d01689f-f71c-4910-907d-21017055c699": {
+    "asset": 1624334230000,
+    "meta": 1646361161786,
+    "relativePath": "1_redpack\\動圖\\red bag-s\\red bag-S.png"
+  },
+  "989a551b-baad-44a4-a6aa-1f9f6f891005": {
+    "asset": 1625034076000,
+    "meta": 1646361161790,
+    "relativePath": "1_redpack\\動圖\\player_win\\win-S.png"
+  },
+  "acc3c618-909c-45a4-93b5-ae35718b8bb1": {
+    "asset": 1624334228000,
+    "meta": 1646361167272,
+    "relativePath": "1_redpack\\動圖\\red bag-s\\red bag-S.json"
+  },
+  "adb6c588-c72e-48f5-8d62-6289bec2964d": {
+    "asset": 1622615248000,
+    "meta": 1646361161795,
+    "relativePath": "1_redpack\\動圖\\red bag\\red bag-W.atlas"
+  },
+  "5d793223-10b2-4809-b77e-897a1f22eecb": {
+    "asset": 1643006350223,
+    "meta": 1646361161796,
+    "relativePath": "1_redpack\\動圖\\shake phone"
+  },
+  "b7484768-d15d-4ba3-b2c8-02feb9e75741": {
+    "asset": 1622701406000,
+    "meta": 1646361161802,
+    "relativePath": "1_redpack\\動圖\\shake phone\\shake phone.atlas"
+  },
+  "8ba6fb50-4b26-453c-825f-bc6a39dd53f1": {
+    "asset": 1622625666000,
+    "meta": 1646361167275,
+    "relativePath": "1_redpack\\動圖\\red bag\\red bag-W.json"
+  },
+  "45440d16-6dd8-4a7b-9647-d48ea9975367": {
+    "asset": 1622615226000,
+    "meta": 1646361161857,
+    "relativePath": "1_redpack\\動圖\\red bag\\red bag-W.png"
+  },
+  "f80263b2-e478-47f5-b47b-ef8f6896a575": {
+    "asset": 1622701406000,
+    "meta": 1646361161864,
+    "relativePath": "1_redpack\\動圖\\shake phone\\shake phone.png"
+  },
+  "e36b4d09-e02a-439a-b44d-e6f664300d68": {
+    "asset": 1622701406000,
+    "meta": 1646361167279,
+    "relativePath": "1_redpack\\動圖\\shake phone\\shake phone.json"
+  },
+  "fe91d11a-9946-4b88-907a-757ae597507d": {
+    "asset": 1644550254760,
+    "meta": 1646361161874,
+    "relativePath": "1_redpack\\遊戲模塊"
+  },
+  "fbe07571-5571-46f8-aafb-32b510f2add9": {
+    "asset": 1651737599003,
+    "meta": 1651801591677,
+    "relativePath": "1_redpack\\預置物"
+  },
+  "e6ab3244-4ebd-4b87-9569-a77ce0bde40d": {
+    "asset": 1651736788120,
+    "meta": 1651736788126,
+    "relativePath": "1_redpack\\預置物\\紅色玩家中獎框框.prefab"
+  },
+  "949a24d7-0168-4fb6-bab5-38e6903d0d4c": {
+    "asset": 1651736271790,
+    "meta": 1651737390165,
+    "relativePath": "1_redpack\\圖片"
+  },
+  "431619ca-e3f1-4c99-b4f5-321922da9438": {
+    "asset": 1651736784828,
+    "meta": 1651736784835,
+    "relativePath": "1_redpack\\預置物\\紫色玩家中獎框框.prefab"
+  },
+  "d37819f8-4021-452b-9e50-14eb23605a2b": {
+    "asset": 1639384412921,
+    "meta": 1651723520158,
+    "relativePath": "1_redpack\\圖片\\主持人\\上方框.png"
+  },
+  "d659aa2c-57b2-4465-a8d2-d13a944868bb": {
+    "asset": 1635494020981,
+    "meta": 1646361162012,
+    "relativePath": "1_redpack\\字型\\中圓體.ttc"
+  },
+  "7625a7e4-2cb9-4665-968d-13b56ba2cbea": {
+    "asset": 1644373844706,
+    "meta": 1646361162023,
+    "relativePath": "1_redpack\\圖片\\主持人\\中獎列表.png"
+  },
+  "df5bcf25-ca74-4f43-ab22-06490ae083e8": {
+    "asset": 1644819794389,
+    "meta": 1646361162040,
+    "relativePath": "1_redpack\\圖片\\主持人\\紅包3.png"
+  },
+  "91952093-5003-4a6c-8a29-cc9c7551b0cf": {
+    "asset": 1635493754210,
+    "meta": 1646361162054,
+    "relativePath": "1_redpack\\圖片\\主持人\\紅包袋無字.png"
+  },
+  "5214a293-3a44-406a-aef9-22c2db7f4c02": {
+    "asset": 1626142252000,
+    "meta": 1646361162058,
+    "relativePath": "1_redpack\\圖片\\主持人\\紅報袋.png"
+  },
+  "13205879-fbe7-49bd-a3ab-7dbc767a3c49": {
+    "asset": 1626762664000,
+    "meta": 1646361162069,
+    "relativePath": "1_redpack\\圖片\\主持人\\框-紅.png"
+  },
+  "57f3888b-5f5d-4377-a73b-e946c05f248b": {
+    "asset": 1626320996000,
+    "meta": 1646361162073,
+    "relativePath": "1_redpack\\圖片\\主持人\\紅報袋2.png"
+  },
+  "c21bc4ae-10d9-409e-955a-1731d624bbb3": {
+    "asset": 1626762674000,
+    "meta": 1646361162080,
+    "relativePath": "1_redpack\\圖片\\主持人\\框-紫.png"
+  },
+  "a51aa840-565e-4866-b113-cccacd7e8ad8": {
+    "asset": 1625044112000,
+    "meta": 1646361162107,
+    "relativePath": "1_redpack\\圖片\\主持人\\剩餘獎品.png"
+  },
+  "9165ee64-37cd-45a5-b56e-2d2fa97728c0": {
+    "asset": 1635306010615,
+    "meta": 1646361162119,
+    "relativePath": "1_redpack\\圖片\\主持人\\無限時3.png"
+  },
+  "b6d426a1-b71c-4c51-880d-2e6e665986a2": {
+    "asset": 1636612309339,
+    "meta": 1646361162133,
+    "relativePath": "1_redpack\\圖片\\主持人\\搖紅包.png"
+  },
+  "6adbaf55-461e-4c3e-b5df-623988f36d68": {
+    "asset": 1635240952428,
+    "meta": 1646361162143,
+    "relativePath": "1_redpack\\圖片\\主持人\\遊戲時間.png"
+  },
+  "36920b32-5bed-4bb6-80e4-82667cda79b9": {
+    "asset": 1637307028699,
+    "meta": 1646361162156,
+    "relativePath": "1_redpack\\圖片\\主持人\\點擊屏幕.png"
+  },
+  "3a43eba1-0406-48e0-a457-9b161ca8180c": {
+    "asset": 1637306518129,
+    "meta": 1646361162169,
+    "relativePath": "1_redpack\\圖片\\主持人\\蘋果規則.png"
+  },
+  "3cee8831-d330-4218-9d9d-95dbbc9ed375": {
+    "asset": 1623165630000,
+    "meta": 1646361162203,
+    "relativePath": "1_redpack\\圖片\\主持人\\BG_Red_S.jpg"
+  },
+  "6ac92fe6-b5c1-4cac-b0b4-d3cda7ae8745": {
+    "asset": 1622614616000,
+    "meta": 1646361162224,
+    "relativePath": "1_redpack\\圖片\\主持人\\Countdown_Lantern.png"
+  },
+  "76c12414-0a11-4e24-872e-ca9a9a0167c6": {
+    "asset": 1622603600000,
+    "meta": 1646361162247,
+    "relativePath": "1_redpack\\圖片\\主持人\\BG_Red_W.jpg"
+  },
+  "7166a3b8-937e-4b82-bb7b-78ac8a27353a": {
+    "asset": 1624333322000,
+    "meta": 1646361162252,
+    "relativePath": "1_redpack\\圖片\\主持人\\Frame_S.png"
+  },
+  "ae34ebf5-d1db-4c5f-98db-bfa25090d0f6": {
+    "asset": 1623919858000,
+    "meta": 1646361162273,
+    "relativePath": "1_redpack\\圖片\\主持人\\Lantern2.png"
+  },
+  "6729f266-8730-425d-98f2-3f0905dceaa1": {
+    "asset": 1623919858000,
+    "meta": 1646361162281,
+    "relativePath": "1_redpack\\圖片\\主持人\\Lantern.png"
+  },
+  "5cf64aa9-7699-46a8-aec3-76929983bb8e": {
+    "asset": 1623919858000,
+    "meta": 1646361162289,
+    "relativePath": "1_redpack\\圖片\\主持人\\Lantern3.png"
+  },
+  "8ed465ef-d59c-4c73-9a70-ad5093495ee2": {
+    "asset": 1623919860000,
+    "meta": 1646361162297,
+    "relativePath": "1_redpack\\圖片\\主持人\\Lantern4.png"
+  },
+  "7377737f-f47e-4ca9-a09c-95bde6e2fb5a": {
+    "asset": 1643006350753,
+    "meta": 1646361162299,
+    "relativePath": "1_redpack\\圖片\\主持人\\NowPeople_number"
+  },
+  "07f57ee4-1d35-4a50-afef-d75a9e4a20b9": {
+    "asset": 1623919860000,
+    "meta": 1646361162309,
+    "relativePath": "1_redpack\\圖片\\主持人\\Lantern5.png"
+  },
+  "69d27a01-dde6-4309-b233-5a0db4414238": {
+    "asset": 1625814434000,
+    "meta": 1646361162312,
+    "relativePath": "1_redpack\\圖片\\主持人\\NowPeople_number\\0-9.png"
+  },
+  "6ffbbb48-4f41-4fc2-a5cf-e64f428df4d5": {
+    "asset": 1622701940000,
+    "meta": 1646361162324,
+    "relativePath": "1_redpack\\圖片\\主持人\\NowPeople.png"
+  },
+  "4d0c223a-26dd-4777-aecb-075d163f0bf2": {
+    "asset": 1643006351117,
+    "meta": 1646361162326,
+    "relativePath": "1_redpack\\圖片\\主持人\\number"
+  },
+  "37d27db6-ddd9-45a7-ba7d-d19315602e38": {
+    "asset": 1625197942000,
+    "meta": 1646361162327,
+    "relativePath": "1_redpack\\圖片\\主持人\\NowPeople_number\\now0_9.png"
+  },
+  "6d142d81-8d07-47c5-b391-1cbee71c6429": {
+    "asset": 1643006351311,
+    "meta": 1646361162328,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small"
+  },
+  "4c6eb6f7-c888-464c-9311-20ade6235a88": {
+    "asset": 1625043346000,
+    "meta": 1646361162340,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\0.png"
+  },
+  "12f26480-d06c-43ff-b826-c375441354ed": {
+    "asset": 1636963069281,
+    "meta": 1646361162342,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\0-9.png"
+  },
+  "c03e0091-2112-4dbd-b08f-ee7ac8f50e4c": {
+    "asset": 1625043346000,
+    "meta": 1646361162353,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\1.png"
+  },
+  "2c761583-6459-4541-ae62-3435292322b5": {
+    "asset": 1625043346000,
+    "meta": 1646361162355,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\2.png"
+  },
+  "0d45efd6-b667-43cb-ad2d-134680b603bc": {
+    "asset": 1625043346000,
+    "meta": 1646361162365,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\4.png"
+  },
+  "70aea06c-da6a-4555-a79f-d4de26a5fedd": {
+    "asset": 1625043346000,
+    "meta": 1646361162367,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\3.png"
+  },
+  "d7a03913-deaa-4c31-8bac-ef17f125d2ec": {
+    "asset": 1625043346000,
+    "meta": 1646361162378,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\5.png"
+  },
+  "cd599cda-269f-4ab0-8cf8-1da11a1414d7": {
+    "asset": 1625043346000,
+    "meta": 1646361162379,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\6.png"
+  },
+  "7869e991-20b6-45a0-8eb7-586e58002cce": {
+    "asset": 1625043346000,
+    "meta": 1646361162389,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\7.png"
+  },
+  "4ccb9c10-3193-4612-8119-0770ee285178": {
+    "asset": 1625043346000,
+    "meta": 1646361162391,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\8.png"
+  },
+  "fa072095-b769-48ea-9a13-7cfd172b29e6": {
+    "asset": 1625043346000,
+    "meta": 1646361162401,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\G.png"
+  },
+  "52bddaf5-9dc0-44ce-8be9-cc3acfbfc752": {
+    "asset": 1625043346000,
+    "meta": 1646361162404,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\9.png"
+  },
+  "3ddee980-b704-4a05-9531-a1bd1336eb91": {
+    "asset": 1625043248000,
+    "meta": 1646361162415,
+    "relativePath": "1_redpack\\圖片\\主持人\\number_small\\GO_Small.png"
+  },
+  "c2aec7b7-815f-4e4e-80f6-ca0786cdcaae": {
+    "asset": 1622903178000,
+    "meta": 1646361162419,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\0.png"
+  },
+  "d9777b44-bd11-47a0-973b-876f26b2c8d5": {
+    "asset": 1622903178000,
+    "meta": 1646361162431,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\1.png"
+  },
+  "d92a847d-ab91-40b6-bc9e-1941b0dc6253": {
+    "asset": 1622903180000,
+    "meta": 1646361162434,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\2.png"
+  },
+  "54f5610d-7cf5-4a2d-916c-964612019024": {
+    "asset": 1622903180000,
+    "meta": 1646361162447,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\3.png"
+  },
+  "4b736617-30d6-4a11-9cd5-bc4a0dfb541f": {
+    "asset": 1622903180000,
+    "meta": 1646361162448,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\4.png"
+  },
+  "62300186-d066-4822-8a55-b6dce123f8d8": {
+    "asset": 1622903180000,
+    "meta": 1646361162465,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\6.png"
+  },
+  "a2d361c4-5c12-46b9-97d2-c447cd6876c5": {
+    "asset": 1624333742000,
+    "meta": 1646361162467,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\5.png"
+  },
+  "eb6bd180-a25d-4014-a7e8-8a46cb23c9a8": {
+    "asset": 1622903180000,
+    "meta": 1646361162483,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\8.png"
+  },
+  "25cbc5a2-7eab-4116-8237-d6237fce3d99": {
+    "asset": 1622903180000,
+    "meta": 1646361162486,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\7.png"
+  },
+  "2f668ed8-69b5-4b5d-857a-0a2b141a4059": {
+    "asset": 1622903180000,
+    "meta": 1646361162502,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\G.png"
+  },
+  "e20c61b7-1355-400e-a3f9-495b732e5e77": {
+    "asset": 1622903180000,
+    "meta": 1646361162504,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\9.png"
+  },
+  "ceb8014b-3609-478b-a4ce-872ff0d64b5e": {
+    "asset": 1651736457848,
+    "meta": 1651737390167,
+    "relativePath": "1_redpack\\圖片\\玩家"
+  },
+  "4adadf26-dca7-42e4-873b-5b1fa1cf40bf": {
+    "asset": 1625043212000,
+    "meta": 1646361162523,
+    "relativePath": "1_redpack\\圖片\\主持人\\number\\GO-大.png"
+  },
+  "6ea86563-03e4-417a-af81-50d7cb05184e": {
+    "asset": 1624333320000,
+    "meta": 1646361162564,
+    "relativePath": "1_redpack\\圖片\\玩家\\BG_S.jpg"
+  },
+  "9c83dab8-8abe-45f8-897a-333f12b6034c": {
+    "asset": 1624333670000,
+    "meta": 1646361162569,
+    "relativePath": "1_redpack\\圖片\\玩家\\BG_Cloud.jpg"
+  },
+  "d17e7063-6620-4726-810c-e96fa06b0f6e": {
+    "asset": 1629031522000,
+    "meta": 1646361162581,
+    "relativePath": "1_redpack\\圖片\\玩家\\big_gift.png"
+  },
+  "e9de674d-ea19-48df-8a8f-2886d5597b6d": {
+    "asset": 1629037626000,
+    "meta": 1646361162603,
+    "relativePath": "1_redpack\\圖片\\玩家\\goback.png"
+  },
+  "a6a268e4-e19d-4915-b3f5-ade123397e75": {
+    "asset": 1629023934000,
+    "meta": 1646361162604,
+    "relativePath": "1_redpack\\圖片\\玩家\\gift.png"
+  },
+  "98700a9a-fa8e-48f3-83f7-fe2171e9200f": {
+    "asset": 1629036870000,
+    "meta": 1646361162616,
+    "relativePath": "1_redpack\\圖片\\玩家\\prize_picture.png"
+  },
+  "4a9eb6ff-d848-4835-82f7-da3ece86fc41": {
+    "asset": 1628846496000,
+    "meta": 1646361162632,
+    "relativePath": "1_redpack\\圖片\\玩家\\Myprize.png"
+  },
+  "75cfa2a2-8eae-46a2-84e8-0052d1169336": {
+    "asset": 1629031768000,
+    "meta": 1646361162638,
+    "relativePath": "1_redpack\\圖片\\玩家\\redeem_frame.prefab"
+  },
+  "22d401ef-534c-495a-ad11-c065e24cf964": {
+    "asset": 1629030932000,
+    "meta": 1646361162647,
+    "relativePath": "1_redpack\\圖片\\玩家\\redeem_frame.png"
+  },
+  "195d49a6-a651-4d9b-bd23-268d20ae7319": {
+    "asset": 1629023930000,
+    "meta": 1646361162662,
+    "relativePath": "1_redpack\\圖片\\玩家\\redpack.png"
+  },
+  "0c2fea75-86f7-41e0-a170-a1bb2dccb4df": {
+    "asset": 1628848022000,
+    "meta": 1646361162671,
+    "relativePath": "1_redpack\\圖片\\玩家\\round.png"
+  },
+  "c36defdf-6b70-48e7-b692-a03dc5a562e4": {
+    "asset": 1624341074000,
+    "meta": 1646361162673,
+    "relativePath": "1_redpack\\圖片\\玩家\\Rules.png"
+  },
+  "73a8961b-dbae-463b-983e-4d0b2c2504f3": {
+    "asset": 1629031898000,
+    "meta": 1646361162684,
+    "relativePath": "1_redpack\\圖片\\玩家\\small_redpack2.png"
+  },
+  "84d0fe50-8a85-4ce1-9629-610df641baf4": {
+    "asset": 1629031708000,
+    "meta": 1646361162686,
+    "relativePath": "1_redpack\\圖片\\玩家\\small_redpack.png"
+  },
+  "3058e57e-ae72-4de9-b193-700f27d91d4c": {
+    "asset": 1629097424000,
+    "meta": 1646361162696,
+    "relativePath": "1_redpack\\圖片\\玩家\\timesup.png"
+  },
+  "78e481f7-9002-49c7-a539-b3349515e6b4": {
+    "asset": 1624333324000,
+    "meta": 1646361162703,
+    "relativePath": "1_redpack\\圖片\\玩家\\Table_Player_S.png"
+  },
+  "c811c19e-5d8c-40f9-8240-3342f4d8dae0": {
+    "asset": 1624333324000,
+    "meta": 1646361162712,
+    "relativePath": "1_redpack\\圖片\\玩家\\WinListLogo.png"
+  },
+  "7bef83d6-d262-4028-9150-d9339be9c5f4": {
+    "asset": 1625033790000,
+    "meta": 1646361162728,
+    "relativePath": "1_redpack\\圖片\\玩家\\Win_Frame.png"
+  },
+  "021f7c2d-dc0b-4baa-867d-095a31c57e44": {
+    "asset": 1622616428000,
+    "meta": 1646361162744,
+    "relativePath": "1_redpack\\圖片\\主持人\\qr.png"
+  },
+  "ed40aac6-9cf4-4c74-b416-c79473400eb2": {
+    "asset": 1624333698000,
+    "meta": 1646361162747,
+    "relativePath": "1_redpack\\圖片\\玩家\\WinTable_S.png"
+  },
+  "c00768d8-ae1c-4bed-bca7-bc7325f37d83": {
+    "asset": 1643006351724,
+    "meta": 1646361162748,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number"
+  },
+  "41e8a53b-6c19-4e4b-b71e-8d1a9f6c25b6": {
+    "asset": 1625814556000,
+    "meta": 1646361162760,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number\\0-9.png"
+  },
+  "10652c69-92e8-4532-8017-a45459e6216f": {
+    "asset": 1635496043873,
+    "meta": 1646361162764,
+    "relativePath": "1_redpack\\圖片\\主持人\\red packet2.png"
+  },
+  "4c67c0c4-0bde-4a67-8423-9fde8563eece": {
+    "asset": 1625152328000,
+    "meta": 1646361162772,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number\\0.png"
+  },
+  "a3114924-5ac3-4f1b-8262-f9ced44be406": {
+    "asset": 1625152330000,
+    "meta": 1646361162774,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number\\1.png"
+  },
+  "bdc31448-a02b-47be-b9b9-912ebace2b59": {
+    "asset": 1625152328000,
+    "meta": 1646361162785,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number\\2.png"
+  },
+  "3b13647d-1ed7-45a0-84dc-9563640bd134": {
+    "asset": 1625152330000,
+    "meta": 1646361162786,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number\\3.png"
+  },
+  "7b976c5a-338d-4a80-af81-ba4943766ac6": {
+    "asset": 1625152330000,
+    "meta": 1646361162796,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number\\4.png"
+  },
+  "f77c57ec-3c08-4565-9816-a67d7a41c901": {
+    "asset": 1625152328000,
+    "meta": 1646361162797,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number\\5.png"
+  },
+  "b8ff1368-4fd0-409f-a033-c77a7a8db9d7": {
+    "asset": 1625152328000,
+    "meta": 1646361162808,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number\\7.png"
+  },
+  "85ae58f5-bcac-4830-bddb-228b6aac7779": {
+    "asset": 1625152330000,
+    "meta": 1646361162810,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number\\6.png"
+  },
+  "9d750ed3-b827-410e-9dcc-8ea22f72a770": {
+    "asset": 1625152328000,
+    "meta": 1646361162820,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number\\9.png"
+  },
+  "823080cb-677b-4c89-9f5d-9585d4be6360": {
+    "asset": 1625152328000,
+    "meta": 1646361162821,
+    "relativePath": "1_redpack\\圖片\\主持人\\round_number\\8.png"
+  },
+  "fb215c59-7432-4cc4-bc87-8448f536cfd5": {
+    "asset": 1625044946000,
+    "meta": 1646361162834,
+    "relativePath": "1_redpack\\圖片\\主持人\\Round.png"
+  },
+  "f0b54ee8-898b-4985-81cb-7381a986a7ba": {
+    "asset": 1622701528000,
+    "meta": 1646361162836,
+    "relativePath": "1_redpack\\圖片\\主持人\\ShakeRounds.png"
+  },
+  "d36f4017-9793-4014-9f85-b8dd121c7287": {
+    "asset": 1623165640000,
+    "meta": 1646361162853,
+    "relativePath": "1_redpack\\圖片\\主持人\\Table_S.png"
+  },
+  "f65ea426-c0a4-49f7-a702-144f2c44fba4": {
+    "asset": 1643006352167,
+    "meta": 1646361162854,
+    "relativePath": "1_redpack\\圖片\\主持人\\Time"
+  },
+  "ceff3858-195d-4250-88dc-776922ee2788": {
+    "asset": 1622613824000,
+    "meta": 1646361162860,
+    "relativePath": "1_redpack\\圖片\\主持人\\TableAll.png"
+  },
+  "cb79c664-bf18-42ba-8543-bd8cfda94ffc": {
+    "asset": 1625538448000,
+    "meta": 1646361162870,
+    "relativePath": "1_redpack\\圖片\\主持人\\Time\\0-9.png"
+  },
+  "7e8546af-5eaa-4db5-98e8-c89a0ed2cda3": {
+    "asset": 1625980890000,
+    "meta": 1646361162872,
+    "relativePath": "1_redpack\\圖片\\主持人\\Time\\0_9.png"
+  },
+  "b55e5f3c-29f9-4dca-9d7c-00d1df466703": {
+    "asset": 1625979548000,
+    "meta": 1646361162885,
+    "relativePath": "1_redpack\\圖片\\主持人\\Time\\time0_9.png"
+  },
+  "6928992d-4e8f-46a6-82f9-c26e97c02ba9": {
+    "asset": 1622614212000,
+    "meta": 1646361162900,
+    "relativePath": "1_redpack\\圖片\\主持人\\WinList2.png"
+  },
+  "5653578b-0bb4-4011-b748-a972f5f40af5": {
+    "asset": 1651744185925,
+    "meta": 1651744185932,
+    "relativePath": "1_redpack\\Guest1_JoinGame.fire"
+  },
+  "baf17532-3092-4c58-a05f-1332d56a2dc4": {
+    "asset": 1651735501922,
+    "meta": 1651735501929,
+    "relativePath": "1_redpack\\Guest2_Wait.fire"
+  },
+  "44663ae3-d319-46e7-b836-52a9cfb80d60": {
+    "asset": 1652173278449,
+    "meta": 1652173278457,
+    "relativePath": "1_redpack\\Guest3_CountDown.fire"
+  },
+  "0bc642b7-6573-4788-a387-ad80f05e4945": {
+    "asset": 1651737809471,
+    "meta": 1651737809477,
+    "relativePath": "1_redpack\\Guest4_Game.fire"
+  },
+  "b15cab9c-d9c8-45b8-98e7-298d15876d5f": {
+    "asset": 1651737026198,
+    "meta": 1651737026204,
+    "relativePath": "1_redpack\\Host1_Start.fire"
+  },
+  "bcc05e36-a576-486e-a002-eadf8710462d": {
+    "asset": 1623312792000,
+    "meta": 1646361162959,
+    "relativePath": "1_redpack\\圖片\\主持人\\WinListTable.png"
+  },
+  "f7098bcf-e4c2-401e-9fa1-e97a2eba94e6": {
+    "asset": 1651737691169,
+    "meta": 1651737691176,
+    "relativePath": "1_redpack\\Host2_CountDown.fire"
+  },
+  "cd5d0ee7-731d-4965-a627-127f03ead3bc": {
+    "asset": 1652947242377,
+    "meta": 1652947242385,
+    "relativePath": "1_redpack\\Host3_Game.fire"
+  },
+  "1b2f47de-c500-4163-8e02-549c4830b6da": {
+    "asset": 1651722144765,
+    "meta": 1651737390169,
+    "relativePath": "2_ropepack"
+  },
+  "520d5817-106e-4390-a93a-f8df7dd8c1cb": {
+    "asset": 1643006498261,
+    "meta": 1646361162978,
+    "relativePath": "2_ropepack\\字型"
+  },
+  "72deb1c7-fd58-4bc2-8214-7af8e8081c2d": {
+    "asset": 1651737715368,
+    "meta": 1651737715374,
+    "relativePath": "1_redpack\\RoleConfirm_redpack.fire"
+  },
+  "d1879c2c-be58-478b-b7ae-455265ffb6b1": {
+    "asset": 1637891408972,
+    "meta": 1646361167343,
+    "relativePath": "2_ropepack\\字型\\人數.labelatlas"
+  },
+  "f7317937-7c5b-4e47-8411-ab9f323b6836": {
+    "asset": 1637913968353,
+    "meta": 1646361167345,
+    "relativePath": "2_ropepack\\字型\\主持人倒數.labelatlas"
+  },
+  "9584e3e6-bb80-426b-b406-be5524de6625": {
+    "asset": 1637917949381,
+    "meta": 1646361167346,
+    "relativePath": "2_ropepack\\字型\\獎品數字.labelatlas"
+  },
+  "f36fedd8-a8af-4921-90c0-f963298cffe8": {
+    "asset": 1638238887090,
+    "meta": 1646361163013,
+    "relativePath": "2_ropepack\\字型\\setofont.ttf"
+  },
+  "221424e6-0df7-4b96-ab4b-f23e40a204e5": {
+    "asset": 1643006498299,
+    "meta": 1646361163014,
+    "relativePath": "2_ropepack\\音效"
+  },
+  "c2bac178-b654-468b-b91d-87e665a27841": {
+    "asset": 1637890730229,
+    "meta": 1646361167349,
+    "relativePath": "2_ropepack\\字型\\輪次-紅.labelatlas"
+  },
+  "b401eda1-75f6-4068-b036-6d37e8b4d586": {
+    "asset": 1637894851442,
+    "meta": 1646361163024,
+    "relativePath": "2_ropepack\\音效\\倒數321.mp3"
+  },
+  "f78c8f2f-f741-4cc9-98a6-2422528824c8": {
+    "asset": 1637894851442,
+    "meta": 1646361163027,
+    "relativePath": "2_ropepack\\音效\\倒數Go.mp3"
+  },
+  "34c1bf57-813f-4b26-96d8-0a536cfbf923": {
+    "asset": 1638516894264,
+    "meta": 1646361163037,
+    "relativePath": "2_ropepack\\音效\\最後畫面BGM.mp3"
+  },
+  "f7291576-5508-4cee-b6c8-4a25f80f81e5": {
+    "asset": 1638761470606,
+    "meta": 1646361163044,
+    "relativePath": "2_ropepack\\音效\\開始BGM.mp3"
+  },
+  "80e920bc-59ff-4d47-b537-19a119f15ffe": {
+    "asset": 1643006498934,
+    "meta": 1646361163045,
+    "relativePath": "2_ropepack\\動圖"
+  },
+  "db09622e-e958-4928-9284-848c0652cc30": {
+    "asset": 1638772294069,
+    "meta": 1646361163050,
+    "relativePath": "2_ropepack\\音效\\遊戲BGM.mp3"
+  },
+  "a065cd3f-0896-4fba-9f97-f3e34ea04628": {
+    "asset": 1638150503007,
+    "meta": 1646361163054,
+    "relativePath": "2_ropepack\\動圖\\button hand.atlas"
+  },
+  "2c5fcb04-e5f7-4414-afa1-228cf68020a7": {
+    "asset": 1638150521060,
+    "meta": 1646361163059,
+    "relativePath": "2_ropepack\\動圖\\button.atlas"
+  },
+  "fd94ed3d-e529-429b-8b66-be0c7c6d92cc": {
+    "asset": 1638150503007,
+    "meta": 1646361167355,
+    "relativePath": "2_ropepack\\動圖\\button hand.json"
+  },
+  "1224af5b-dd65-4079-9855-60a495300dbd": {
+    "asset": 1638150521061,
+    "meta": 1646361167357,
+    "relativePath": "2_ropepack\\動圖\\button.json"
+  },
+  "bc5d9522-0b60-42d3-9411-3d341891229d": {
+    "asset": 1638150503003,
+    "meta": 1646361163068,
+    "relativePath": "2_ropepack\\動圖\\button hand.png"
+  },
+  "aa3bdbb8-eb46-409f-aa17-664f94734e28": {
+    "asset": 1638156667411,
+    "meta": 1646361163072,
+    "relativePath": "2_ropepack\\動圖\\button2.atlas"
+  },
+  "aa68b5a4-3b18-4709-a179-22f7adc7c582": {
+    "asset": 1638150521057,
+    "meta": 1646361163085,
+    "relativePath": "2_ropepack\\動圖\\button.png"
+  },
+  "8a8d6275-5fda-4731-9799-1de63250d3d3": {
+    "asset": 1637890112026,
+    "meta": 1646361163092,
+    "relativePath": "2_ropepack\\動圖\\circle.atlas"
+  },
+  "aac32a86-5ae7-4d5a-971f-9831fc245b04": {
+    "asset": 1638156667411,
+    "meta": 1646361167361,
+    "relativePath": "2_ropepack\\動圖\\button2.json"
+  },
+  "d0eae196-5acc-417d-b05c-1e550054a55b": {
+    "asset": 1638156667414,
+    "meta": 1646361163098,
+    "relativePath": "2_ropepack\\動圖\\button2.png"
+  },
+  "44da0c8f-ce70-4cb2-b44c-cbcd5e97af15": {
+    "asset": 1637890112026,
+    "meta": 1646361167362,
+    "relativePath": "2_ropepack\\動圖\\circle.json"
+  },
+  "9f379029-4d2a-43bd-97a2-677de2dc5731": {
+    "asset": 1643006498636,
+    "meta": 1646361163099,
+    "relativePath": "2_ropepack\\動圖\\ID light"
+  },
+  "43440742-e2a1-4495-bce2-1545d4a6c438": {
+    "asset": 1638176732345,
+    "meta": 1646361163103,
+    "relativePath": "2_ropepack\\動圖\\ID light\\ID light.atlas"
+  },
+  "fa0348cb-190f-476b-8095-9962e34a99e3": {
+    "asset": 1637890112022,
+    "meta": 1646361163108,
+    "relativePath": "2_ropepack\\動圖\\circle.png"
+  },
+  "599c235e-6ea7-4da2-a9ef-b1b57e34631f": {
+    "asset": 1643006498967,
+    "meta": 1646361163109,
+    "relativePath": "2_ropepack\\動圖\\lose-S"
+  },
+  "d48e3489-4788-490e-95dd-1f331bd3e335": {
+    "asset": 1638171361395,
+    "meta": 1646361163115,
+    "relativePath": "2_ropepack\\動圖\\lose-S\\lose-S.atlas"
+  },
+  "962eb1bd-e186-4efc-854d-f773e87225dc": {
+    "asset": 1638176732343,
+    "meta": 1646361167367,
+    "relativePath": "2_ropepack\\動圖\\ID light\\ID light.json"
+  },
+  "9b80780f-883a-4170-bebc-9cfb93a499c8": {
+    "asset": 1638176732343,
+    "meta": 1646361163120,
+    "relativePath": "2_ropepack\\動圖\\ID light\\ID light.png"
+  },
+  "ff9081f1-1fa7-4926-921a-0241999bc46e": {
+    "asset": 1642728559861,
+    "meta": 1646361163124,
+    "relativePath": "2_ropepack\\動圖\\redbagface.atlas"
+  },
+  "a469482e-fa02-4c07-92c3-d2d1c74a8218": {
+    "asset": 1638171361392,
+    "meta": 1646361167369,
+    "relativePath": "2_ropepack\\動圖\\lose-S\\lose-S.json"
+  },
+  "1d126c99-7693-4635-adba-9258f332852c": {
+    "asset": 1638171361393,
+    "meta": 1646361163151,
+    "relativePath": "2_ropepack\\動圖\\lose-S\\lose-S.png"
+  },
+  "bb732c17-cb49-46f4-9a3c-caaf480a01dc": {
+    "asset": 1642728559865,
+    "meta": 1646361163152,
+    "relativePath": "2_ropepack\\動圖\\redbagface.png"
+  },
+  "21069ef5-ded8-4714-8afa-fd310d6fa429": {
+    "asset": 1642728559864,
+    "meta": 1646361167377,
+    "relativePath": "2_ropepack\\動圖\\redbagface.json"
+  },
+  "26261271-3e25-4e91-8d43-31ef63707844": {
+    "asset": 1638344180866,
+    "meta": 1646361163162,
+    "relativePath": "2_ropepack\\動圖\\win-S.atlas"
+  },
+  "7b95ce41-3e0a-418c-9f14-f86cc4ee7f15": {
+    "asset": 1644550279816,
+    "meta": 1646361163163,
+    "relativePath": "2_ropepack\\遊戲模塊"
+  },
+  "1eb44ab3-f4e3-498c-a7d0-fb5119ac23a4": {
+    "asset": 1643006499183,
+    "meta": 1646361163203,
+    "relativePath": "2_ropepack\\預置物"
+  },
+  "b286d3a7-23e0-4cd6-b105-607a8b23fc20": {
+    "asset": 1643339341593,
+    "meta": 1646361163210,
+    "relativePath": "2_ropepack\\預置物\\紅包袋.prefab"
+  },
+  "7afd2dc7-09c1-4b03-8a37-79c8960450ab": {
+    "asset": 1643014836692,
+    "meta": 1646361163216,
+    "relativePath": "2_ropepack\\預置物\\紅色玩家中獎框.prefab"
+  },
+  "88731bc0-204b-406f-89e7-1188791833e5": {
+    "asset": 1638344180869,
+    "meta": 1646361167382,
+    "relativePath": "2_ropepack\\動圖\\win-S.json"
+  },
+  "aba4e41a-2f02-455d-ae75-739f315d6ad4": {
+    "asset": 1643014853676,
+    "meta": 1646361163222,
+    "relativePath": "2_ropepack\\預置物\\綠色玩家中獎框.prefab"
+  },
+  "a16ff815-3342-4cd1-91db-41e745cdbcb3": {
+    "asset": 1638344180871,
+    "meta": 1646361163224,
+    "relativePath": "2_ropepack\\動圖\\win-S.png"
+  },
+  "bae2720f-e205-4e06-8570-b16955153f55": {
+    "asset": 1651737142133,
+    "meta": 1651737390170,
+    "relativePath": "2_ropepack\\圖片"
+  },
+  "c55e1962-06d5-40ed-ae8e-7f9ee78706de": {
+    "asset": 1643006499906,
+    "meta": 1646361163226,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數"
+  },
+  "8eb8f867-e99c-46b9-b9ad-82377d99a4ee": {
+    "asset": 1647568449291,
+    "meta": 1647568449296,
+    "relativePath": "2_ropepack\\預置物\\獎品.prefab"
+  },
+  "4508ac4e-561f-4258-b695-264043e4859b": {
+    "asset": 1637888557467,
+    "meta": 1646361163239,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數\\0-9.png"
+  },
+  "73eca602-5bf2-4681-a456-86fa960f78df": {
+    "asset": 1637888557467,
+    "meta": 1646361163241,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數\\0.png"
+  },
+  "e8565e22-cfba-4f97-8a1d-ad769d7afeed": {
+    "asset": 1637888557467,
+    "meta": 1646361163252,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數\\1.png"
+  },
+  "42629409-f4c9-4561-bdd3-6f1ce1bbb01d": {
+    "asset": 1637888557467,
+    "meta": 1646361163254,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數\\2.png"
+  },
+  "59d84703-d7df-4aff-9af0-2197d814c3dd": {
+    "asset": 1637888557467,
+    "meta": 1646361163264,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數\\3.png"
+  },
+  "329d4bd9-9023-4e02-9531-b90a9a5f302b": {
+    "asset": 1637888557467,
+    "meta": 1646361163266,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數\\4.png"
+  },
+  "ead7a407-173e-4595-898a-2048d70bd4db": {
+    "asset": 1637888557467,
+    "meta": 1646361163277,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數\\5.png"
+  },
+  "ecc34524-c10d-47c1-97db-53be8692b4d2": {
+    "asset": 1637888557467,
+    "meta": 1646361163279,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數\\6.png"
+  },
+  "61d5cfc4-6754-4b09-9f24-cf49dac8b853": {
+    "asset": 1637888557469,
+    "meta": 1646361163289,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數\\7.png"
+  },
+  "9c6e8f52-5185-4b26-905d-68db33b2231f": {
+    "asset": 1637888557469,
+    "meta": 1646361163291,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數\\8.png"
+  },
+  "b865cd75-8f27-4eef-b4e6-26bb835a023e": {
+    "asset": 1637888557469,
+    "meta": 1646361163301,
+    "relativePath": "2_ropepack\\圖片\\數字\\人數\\9.png"
+  },
+  "f6338e4e-cb0a-4bb1-84ff-37b904c4459a": {
+    "asset": 1639465390439,
+    "meta": 1651723575930,
+    "relativePath": "2_ropepack\\圖片\\上方框.png"
+  },
+  "b4521030-0d7a-4888-844d-834fd1bcb2f3": {
+    "asset": 1639468804870,
+    "meta": 1646361163337,
+    "relativePath": "2_ropepack\\圖片\\加入遊戲.png"
+  },
+  "e8e6674c-1143-4d96-8d5f-9be7976dc3f3": {
+    "asset": 1637888495952,
+    "meta": 1646361163343,
+    "relativePath": "2_ropepack\\圖片\\中獎列表.png"
+  },
+  "5edaf871-276f-43b4-a4bb-ddd07540c460": {
+    "asset": 1637888499253,
+    "meta": 1646361163349,
+    "relativePath": "2_ropepack\\圖片\\再來一輪.png"
+  },
+  "63471153-748a-4b54-93b2-ec9d52756434": {
+    "asset": 1643006500641,
+    "meta": 1646361163360,
+    "relativePath": "2_ropepack\\圖片\\玩家背景"
+  },
+  "f24a6584-ed40-4878-b830-d9fff0b58db6": {
+    "asset": 1638152170619,
+    "meta": 1646361163379,
+    "relativePath": "2_ropepack\\圖片\\玩家背景\\紅包1.png"
+  },
+  "aa79a5bf-f0ec-4906-91ea-f76a046931b7": {
+    "asset": 1638152170618,
+    "meta": 1646361163396,
+    "relativePath": "2_ropepack\\圖片\\玩家背景\\紅包2.png"
+  },
+  "bd122d23-23b3-4cbb-ac41-4d63b3d2e7dd": {
+    "asset": 1638152170618,
+    "meta": 1646361163398,
+    "relativePath": "2_ropepack\\圖片\\玩家背景\\紅包3.png"
+  },
+  "266ecac4-81cf-4796-9663-dbe066222efc": {
+    "asset": 1638152170619,
+    "meta": 1646361163437,
+    "relativePath": "2_ropepack\\圖片\\玩家背景\\背景-直.png"
+  },
+  "9288bb4a-17e4-463f-b2d3-b88af16f45ee": {
+    "asset": 1637888516676,
+    "meta": 1646361163445,
+    "relativePath": "2_ropepack\\圖片\\紅包.png"
+  },
+  "902068f2-b555-4a29-b375-3c083e604f89": {
+    "asset": 1638174499998,
+    "meta": 1646361163450,
+    "relativePath": "2_ropepack\\圖片\\紅包3.png"
+  },
+  "ea466708-53d6-42b4-8a6f-a6f9f8b7d16c": {
+    "asset": 1638259513182,
+    "meta": 1646361163471,
+    "relativePath": "2_ropepack\\圖片\\紅包袋.png"
+  },
+  "f6db9e9e-fa46-4a25-9670-659dfb01c6fc": {
+    "asset": 1638150317575,
+    "meta": 1646361163490,
+    "relativePath": "2_ropepack\\圖片\\背景-直.png"
+  },
+  "903a1123-c7ff-4009-94f2-322e8fee144d": {
+    "asset": 1638155763556,
+    "meta": 1646361163508,
+    "relativePath": "2_ropepack\\圖片\\背景-直2.jpg"
+  },
+  "c5c11dfa-dd96-4050-b0a2-99bdd944ec19": {
+    "asset": 1637888521206,
+    "meta": 1646361163553,
+    "relativePath": "2_ropepack\\圖片\\背景.jpg"
+  },
+  "551ef0f0-9d11-48c4-8f27-683334b98c77": {
+    "asset": 1637888522706,
+    "meta": 1646361163558,
+    "relativePath": "2_ropepack\\圖片\\背景.png"
+  },
+  "ba165392-a5a2-4165-a386-551813a8c92a": {
+    "asset": 1637888524656,
+    "meta": 1646361163589,
+    "relativePath": "2_ropepack\\圖片\\背景2.png"
+  },
+  "db66ae1d-1d64-44bc-a4e0-9e1b541a4a7f": {
+    "asset": 1644480734419,
+    "meta": 1646361163591,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數"
+  },
+  "0e6de9d1-409f-4806-a83c-dcc40c6edd12": {
+    "asset": 1637888526472,
+    "meta": 1646361163593,
+    "relativePath": "2_ropepack\\圖片\\背景3.png"
+  },
+  "0834b077-7698-45c8-9246-800a7bed4ef0": {
+    "asset": 1637888561222,
+    "meta": 1646361163609,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數\\0.png"
+  },
+  "a2b3da51-0a45-4365-9e8d-cd290bf24b0c": {
+    "asset": 1644480734417,
+    "meta": 1646361163618,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數\\0-9.png"
+  },
+  "6ad6ad1c-c4f6-4487-9883-12b1c502c5be": {
+    "asset": 1637888561221,
+    "meta": 1646361163630,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數\\1.png"
+  },
+  "bf550acf-d135-4f92-bc85-0699b8b22175": {
+    "asset": 1637888561221,
+    "meta": 1646361163636,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數\\2.png"
+  },
+  "2d840f5f-34b2-42d0-82f3-dcdc93606e77": {
+    "asset": 1637888561221,
+    "meta": 1646361163652,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數\\3.png"
+  },
+  "3fc1a9d9-c3d5-42ec-96dc-d6b75dee1dd2": {
+    "asset": 1637888561221,
+    "meta": 1646361163656,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數\\4.png"
+  },
+  "09c98b8e-8340-4324-85a1-84f60aced848": {
+    "asset": 1637888561222,
+    "meta": 1646361163674,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數\\6.png"
+  },
+  "5a236c2f-046e-44c0-888f-c6d1d5f6e113": {
+    "asset": 1637888561222,
+    "meta": 1646361163676,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數\\5.png"
+  },
+  "1648f928-a9d8-4ce4-9eba-92235154b6a9": {
+    "asset": 1637888561223,
+    "meta": 1646361163695,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數\\7.png"
+  },
+  "6c0d2d78-c0cf-4145-b7c6-a503d3d34c9f": {
+    "asset": 1637888561223,
+    "meta": 1646361163697,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數\\8.png"
+  },
+  "2d42fc02-f44f-4843-8102-2992283c8916": {
+    "asset": 1639468768919,
+    "meta": 1646361163709,
+    "relativePath": "2_ropepack\\圖片\\套紅包.png"
+  },
+  "0cae46ba-1d5d-4896-aee3-d20753add5d6": {
+    "asset": 1637888561224,
+    "meta": 1646361163715,
+    "relativePath": "2_ropepack\\圖片\\數字\\倒數\\9.png"
+  },
+  "63842787-339f-4955-87c1-eba0318fad52": {
+    "asset": 1637888529899,
+    "meta": 1646361163721,
+    "relativePath": "2_ropepack\\圖片\\套紅包輪次.png"
+  },
+  "602e0b0d-0f19-4916-853f-cb4472e03116": {
+    "asset": 1637919049407,
+    "meta": 1646361163725,
+    "relativePath": "2_ropepack\\圖片\\框-紅2.png"
+  },
+  "af00ce39-833b-4857-bba2-cd7cb7e6749a": {
+    "asset": 1637919049403,
+    "meta": 1646361163734,
+    "relativePath": "2_ropepack\\圖片\\框-綠2.png"
+  },
+  "0430093e-8793-4243-bc92-ae90d96c29a1": {
+    "asset": 1637917703918,
+    "meta": 1646361163744,
+    "relativePath": "2_ropepack\\圖片\\剩餘獎品.png"
+  },
+  "04f50d54-c8ee-4d24-a2eb-95be7cfa89f6": {
+    "asset": 1639723602461,
+    "meta": 1646361163754,
+    "relativePath": "共用圖片\\場次底2.png"
+  },
+  "aa799f6a-5a91-409f-baff-48ecabc45275": {
+    "asset": 1638170637227,
+    "meta": 1646361163764,
+    "relativePath": "2_ropepack\\圖片\\得獎框.png"
+  },
+  "958f5e3d-b658-4dc3-bcf8-d014a0f2d56b": {
+    "asset": 1637915496202,
+    "meta": 1646361163768,
+    "relativePath": "2_ropepack\\圖片\\結束遊戲.png"
+  },
+  "1967b103-06ef-47de-b5e1-bc5830f6ecb3": {
+    "asset": 1637888535713,
+    "meta": 1646361163780,
+    "relativePath": "2_ropepack\\圖片\\開始活動.png"
+  },
+  "b31e7bae-ae16-4079-b677-db78c70531c9": {
+    "asset": 1637888537408,
+    "meta": 1646361163803,
+    "relativePath": "2_ropepack\\圖片\\當前參與.png"
+  },
+  "9cc789ec-6a56-481f-a86a-d9abc11f81b9": {
+    "asset": 1638150372821,
+    "meta": 1646361163815,
+    "relativePath": "2_ropepack\\圖片\\遊戲即將開始.png"
+  },
+  "fa638e90-c6f5-4d69-8459-80122f4feff7": {
+    "asset": 1643006501997,
+    "meta": 1646361163817,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數"
+  },
+  "e43ccc85-a243-473d-ab7a-e621fa4229bc": {
+    "asset": 1637888533777,
+    "meta": 1646361163829,
+    "relativePath": "2_ropepack\\圖片\\結算.png"
+  },
+  "f870c1bb-8928-4c28-b286-fe5a2ed28a7c": {
+    "asset": 1637894487982,
+    "meta": 1646361163838,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\0.png"
+  },
+  "d61ef82b-9caf-4e86-81ce-c50ac43d4015": {
+    "asset": 1637894487981,
+    "meta": 1646361163850,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\1.png"
+  },
+  "12adc59d-3d0d-48ef-b1d3-2f38d9369587": {
+    "asset": 1637894487981,
+    "meta": 1646361163857,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\2.png"
+  },
+  "84829ead-376a-4997-970b-addab71c6f25": {
+    "asset": 1637894487981,
+    "meta": 1646361163871,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\3.png"
+  },
+  "eebfb251-4583-471a-bbeb-47587b73580f": {
+    "asset": 1637894487981,
+    "meta": 1646361163881,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\4.png"
+  },
+  "f6ab80a3-47a1-4c19-aa35-6a6397e69832": {
+    "asset": 1637894487981,
+    "meta": 1646361163888,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\5.png"
+  },
+  "beaa93c9-b921-430c-aefc-5ebb4cc13192": {
+    "asset": 1637894487981,
+    "meta": 1646361163898,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\6.png"
+  },
+  "b7c929b4-b718-48a8-b453-7543c646d42f": {
+    "asset": 1637894487981,
+    "meta": 1646361163903,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\7.png"
+  },
+  "5cc3055d-4626-40de-9a82-87b75d1c1ce7": {
+    "asset": 1637894487981,
+    "meta": 1646361163917,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\8.png"
+  },
+  "e13ec3f4-24f2-4201-8cd2-c7ae02a8a77b": {
+    "asset": 1637894487981,
+    "meta": 1646361163920,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\9.png"
+  },
+  "e9b2ee0e-bf78-4b44-93ad-28854abde9a9": {
+    "asset": 1637894487981,
+    "meta": 1646361163933,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\G.png"
+  },
+  "93f71d56-3b6a-43a3-81e4-bdc5fe950c01": {
+    "asset": 1637894487983,
+    "meta": 1646361163939,
+    "relativePath": "2_ropepack\\圖片\\數字\\遊戲開始前倒數\\GO-大.png"
+  },
+  "052a81aa-5490-4e7c-a5de-e351b28956c8": {
+    "asset": 1643006501031,
+    "meta": 1646361163947,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅"
+  },
+  "35031e62-e37c-44fb-87e6-6c2cf29d3ff4": {
+    "asset": 1637888566353,
+    "meta": 1646361163960,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅\\0-9.png"
+  },
+  "440b3fcb-35ff-4651-b2e5-ec2c17476b40": {
+    "asset": 1637888566353,
+    "meta": 1646361163962,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅\\0.png"
+  },
+  "e24546fb-9325-419b-ab18-720babf39081": {
+    "asset": 1637888566353,
+    "meta": 1646361163972,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅\\1.png"
+  },
+  "f2499d31-1ca7-4021-b449-2682ba23d074": {
+    "asset": 1637888566353,
+    "meta": 1646361163974,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅\\2.png"
+  },
+  "4790ebd2-a942-4aac-80c4-45e9f31fbb6a": {
+    "asset": 1637888566353,
+    "meta": 1646361163984,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅\\3.png"
+  },
+  "e1bfd1d0-f540-4917-bc7f-d62142d290cc": {
+    "asset": 1637888566353,
+    "meta": 1646361163985,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅\\4.png"
+  },
+  "d3d6485d-4556-490c-8480-f96fec7bc6bb": {
+    "asset": 1637888566353,
+    "meta": 1646361163995,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅\\5.png"
+  },
+  "7e64470b-184f-4d42-98e1-5d8f83d1f56d": {
+    "asset": 1637888566353,
+    "meta": 1646361163997,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅\\6.png"
+  },
+  "9697f63a-c25f-4560-970a-a8e928a86118": {
+    "asset": 1637888566353,
+    "meta": 1646361164006,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅\\7.png"
+  },
+  "56b60749-67f1-4a43-b49e-1d22799c30d3": {
+    "asset": 1637888566354,
+    "meta": 1646361164008,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅\\8.png"
+  },
+  "0d8deae1-4077-4e58-a2e4-aae22e8ca8e3": {
+    "asset": 1643006501289,
+    "meta": 1646361164009,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠"
+  },
+  "1200d7a9-c8cf-4f72-892f-fbb82244a239": {
+    "asset": 1637888566355,
+    "meta": 1646361164019,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-紅\\9.png"
+  },
+  "96159e3c-cfc5-41d4-9519-6fcabb467a1e": {
+    "asset": 1637888572554,
+    "meta": 1646361164021,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠\\0-9.png"
+  },
+  "862290f9-3c0d-4a23-9f27-39ba40809dc9": {
+    "asset": 1637888572553,
+    "meta": 1646361164031,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠\\0.png"
+  },
+  "a06e0722-6924-4c5e-9fca-c56f4eba7ccd": {
+    "asset": 1637888572553,
+    "meta": 1646361164033,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠\\1.png"
+  },
+  "06070014-3ed9-4637-b429-7d9a019fc62f": {
+    "asset": 1637888572553,
+    "meta": 1646361164042,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠\\2.png"
+  },
+  "fc3c663e-928f-4304-a9ec-2623ca7de072": {
+    "asset": 1637888572553,
+    "meta": 1646361164044,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠\\3.png"
+  },
+  "710a2a29-3b9a-45f0-a254-0092fd86253f": {
+    "asset": 1637888572553,
+    "meta": 1646361164053,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠\\4.png"
+  },
+  "62f8e4f3-6f42-4e7f-bbc9-1d241f24f126": {
+    "asset": 1637888572554,
+    "meta": 1646361164054,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠\\5.png"
+  },
+  "e32ec405-606f-4b6a-b64a-1aa19e76bed0": {
+    "asset": 1637888572554,
+    "meta": 1646361164064,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠\\6.png"
+  },
+  "be236161-685e-4318-b149-e3b6ec0dca27": {
+    "asset": 1637888572556,
+    "meta": 1646361164066,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠\\7.png"
+  },
+  "6e031478-c9e1-4036-b17e-93fc9e0c7c8d": {
+    "asset": 1637888572556,
+    "meta": 1646361164076,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠\\9.png"
+  },
+  "7b167dc8-d85c-4056-961c-bd4fcd994fe7": {
+    "asset": 1637888572556,
+    "meta": 1646361164077,
+    "relativePath": "2_ropepack\\圖片\\數字\\輪次-綠\\8.png"
+  },
+  "6c492fe6-c18b-4a30-9825-e78583087fcb": {
+    "asset": 1637918630105,
+    "meta": 1646361164088,
+    "relativePath": "共用圖片\\頭相框.png"
+  },
+  "bdc1a99a-4fba-4dd5-b9e4-c8decdce1b20": {
+    "asset": 1637888540613,
+    "meta": 1646361164098,
+    "relativePath": "2_ropepack\\圖片\\繩子.png"
+  },
+  "7a5e5239-c1aa-4381-af6b-ee5c4596d97c": {
+    "asset": 1639469809422,
+    "meta": 1646361164109,
+    "relativePath": "2_ropepack\\圖片\\繩子2.png"
+  },
+  "2e7d5a68-e0dc-4d93-b626-4404e2dbd460": {
+    "asset": 1641452191494,
+    "meta": 1646361164124,
+    "relativePath": "共用圖片\\警告.png"
+  },
+  "9d229a89-8a3f-4737-9b01-5c0771d902c6": {
+    "asset": 1641452205037,
+    "meta": 1646361164125,
+    "relativePath": "共用圖片\\警告2.png"
+  },
+  "f2fcd1e8-9364-447e-abdd-c377526824c8": {
+    "asset": 1638176967685,
+    "meta": 1646361164137,
+    "relativePath": "2_ropepack\\圖片\\goback.png"
+  },
+  "add80063-b345-453f-b1fc-19a19d90731a": {
+    "asset": 1638175398692,
+    "meta": 1646361164171,
+    "relativePath": "2_ropepack\\圖片\\round.png"
+  },
+  "ed0e6f20-a213-4861-bad8-b3393a3b8edb": {
+    "asset": 1638176936331,
+    "meta": 1646361164185,
+    "relativePath": "2_ropepack\\圖片\\small_redpack2.png"
+  },
+  "01054e69-5524-45d6-92e7-bf2a47892e2a": {
+    "asset": 1638176936331,
+    "meta": 1646361164187,
+    "relativePath": "2_ropepack\\圖片\\small_redpack.png"
+  },
+  "e6c40e90-6caa-4392-b8b6-8ca4a5a1c8cc": {
+    "asset": 1651744199907,
+    "meta": 1651744199915,
+    "relativePath": "2_ropepack\\Guest1_JoinGame.fire"
+  },
+  "fe08c740-60c2-48bb-af92-e3a98092d5aa": {
+    "asset": 1651735413919,
+    "meta": 1651735413925,
+    "relativePath": "2_ropepack\\Guest2_Wait.fire"
+  },
+  "7e4ec6ed-6810-4724-aef5-f4919da5f981": {
+    "asset": 1651735420370,
+    "meta": 1651735420376,
+    "relativePath": "2_ropepack\\Guest3_CountDown.fire"
+  },
+  "c1e30b64-dc56-4a6b-b459-a288056d9f3b": {
+    "asset": 1651735428944,
+    "meta": 1651735428952,
+    "relativePath": "2_ropepack\\Guest4_Game.fire"
+  },
+  "a605aa6c-7e1d-404e-a986-432e1b02b790": {
+    "asset": 1649822887363,
+    "meta": 1649822887369,
+    "relativePath": "2_ropepack\\Host1_Start.fire"
+  },
+  "90168db9-bd8d-463f-8161-221b74fd34cd": {
+    "asset": 1644476481110,
+    "meta": 1646361164220,
+    "relativePath": "2_ropepack\\Host2_CountDown.fire"
+  },
+  "e44ba2f7-a88e-44bf-ad76-42d291630288": {
+    "asset": 1652947252559,
+    "meta": 1652947252567,
+    "relativePath": "2_ropepack\\Host3_Game.fire"
+  },
+  "9cb632d7-58d4-4dfd-bad0-439e3d95c7c3": {
+    "asset": 1652168622767,
+    "meta": 1652168622774,
+    "relativePath": "2_ropepack\\Host4_Last.fire"
+  },
+  "a9717324-0128-44cc-a4b8-f0fb1843d65c": {
+    "asset": 1651722148358,
+    "meta": 1651737390173,
+    "relativePath": "3_whack_a_mole"
+  },
+  "29e6cf08-731a-4cff-9144-8d22395c71a0": {
+    "asset": 1645412249423,
+    "meta": 1646361164228,
+    "relativePath": "3_whack_a_mole\\字型"
+  },
+  "760c31a7-16b8-44b1-83ed-02d737820865": {
+    "asset": 1644832238154,
+    "meta": 1646361164231,
+    "relativePath": "2_ropepack\\RoleConfirm_ropepack.fire"
+  },
+  "e2d98346-efac-4337-856d-8d7c5ffc9d5f": {
+    "asset": 1644398350126,
+    "meta": 1646361167437,
+    "relativePath": "3_whack_a_mole\\字型\\人數.labelatlas"
+  },
+  "ced5ed24-783d-4d3b-8da4-263179c52340": {
+    "asset": 1644892688947,
+    "meta": 1646361167439,
+    "relativePath": "3_whack_a_mole\\字型\\分數.labelatlas"
+  },
+  "d337c029-38f6-45ab-8c83-cfe31c5888f1": {
+    "asset": 1645411905696,
+    "meta": 1646361167440,
+    "relativePath": "3_whack_a_mole\\字型\\正分.labelatlas"
+  },
+  "4460a8e1-26a2-4719-ab5d-245669f0a2a2": {
+    "asset": 1645083965948,
+    "meta": 1646361167442,
+    "relativePath": "3_whack_a_mole\\字型\\玩家分數.labelatlas"
+  },
+  "260a8ca7-5573-4931-913f-c043b74797c2": {
+    "asset": 1645086716713,
+    "meta": 1646361167443,
+    "relativePath": "3_whack_a_mole\\字型\\玩家時間倒數.labelatlas"
+  },
+  "d31cdbdc-8cbb-431f-95fc-b58dc6a1739f": {
+    "asset": 1645412087214,
+    "meta": 1646361167445,
+    "relativePath": "3_whack_a_mole\\字型\\負分.labelatlas"
+  },
+  "30104c72-33fb-47fe-9230-da09453ead75": {
+    "asset": 1645412247254,
+    "meta": 1646361167447,
+    "relativePath": "3_whack_a_mole\\字型\\說明.labelatlas"
+  },
+  "b637c72f-d724-4f1f-a4a9-97bc984d494e": {
+    "asset": 1646204578987,
+    "meta": 1646361164243,
+    "relativePath": "3_whack_a_mole\\音效"
+  },
+  "8aae5fd8-af0f-4796-ba08-8bb8dff5f87e": {
+    "asset": 1644397974070,
+    "meta": 1646361167449,
+    "relativePath": "3_whack_a_mole\\字型\\輪次.labelatlas"
+  },
+  "61e96e69-9fdb-4dd8-9efe-36d42fb20339": {
+    "asset": 1646204127374,
+    "meta": 1646361164258,
+    "relativePath": "3_whack_a_mole\\音效\\結束BGM.mp3"
+  },
+  "17b8f21d-d265-483b-bb6e-cdda54e6110e": {
+    "asset": 1646204569342,
+    "meta": 1646361164262,
+    "relativePath": "3_whack_a_mole\\音效\\開始BGM.mp3"
+  },
+  "dedc2369-1f33-4574-a3df-32f356cf95f1": {
+    "asset": 1645409286274,
+    "meta": 1646361164263,
+    "relativePath": "3_whack_a_mole\\動圖"
+  },
+  "df37411d-fb56-4293-b708-aced5ee50d7a": {
+    "asset": 1645409277596,
+    "meta": 1646361164269,
+    "relativePath": "3_whack_a_mole\\動圖\\lose.atlas"
+  },
+  "90d458c0-b06a-4e22-b7f0-86c53fa4ace3": {
+    "asset": 1646204127372,
+    "meta": 1646361164275,
+    "relativePath": "3_whack_a_mole\\音效\\遊戲BGM.mp3"
+  },
+  "c77e1ff3-991d-4161-9e30-caaa69da046a": {
+    "asset": 1645409129410,
+    "meta": 1646361164279,
+    "relativePath": "3_whack_a_mole\\動圖\\mallet.atlas"
+  },
+  "b65880bb-5d17-471a-b763-14c87611bf03": {
+    "asset": 1645409277596,
+    "meta": 1646361167454,
+    "relativePath": "3_whack_a_mole\\動圖\\lose.json"
+  },
+  "2b795d72-7872-4ac2-8226-50183eb37542": {
+    "asset": 1645409129410,
+    "meta": 1646361164293,
+    "relativePath": "3_whack_a_mole\\動圖\\mallet.png"
+  },
+  "48f679aa-7d3f-49ce-a3a4-10df44350bc2": {
+    "asset": 1645409129410,
+    "meta": 1646361167455,
+    "relativePath": "3_whack_a_mole\\動圖\\mallet.json"
+  },
+  "c8888377-3723-43de-ab5a-5f3d274f3509": {
+    "asset": 1645409277597,
+    "meta": 1646361164300,
+    "relativePath": "3_whack_a_mole\\動圖\\lose.png"
+  },
+  "da3f5e5f-513c-41a8-acd2-f1e2d7b6f7d0": {
+    "asset": 1645409277597,
+    "meta": 1646361164302,
+    "relativePath": "3_whack_a_mole\\動圖\\win.atlas"
+  },
+  "d9c6adc3-6d53-4b0b-9c4f-e6673be95d62": {
+    "asset": 1645597277641,
+    "meta": 1646361164305,
+    "relativePath": "3_whack_a_mole\\遊戲模塊"
+  },
+  "e23b3117-98f3-4b9e-bc31-719fd92a8893": {
+    "asset": 1646117255074,
+    "meta": 1646361164481,
+    "relativePath": "3_whack_a_mole\\遊戲模塊\\Host_MouseManager.js"
+  },
+  "91bc391e-21bf-4146-a23f-37665b78fcf4": {
+    "asset": 1646118693823,
+    "meta": 1646361164504,
+    "relativePath": "3_whack_a_mole\\遊戲模塊\\Host_RandomSpawn.js"
+  },
+  "2dd024e5-8641-4302-a5fa-abb8430bec20": {
+    "asset": 1651737882824,
+    "meta": 1651801591680,
+    "relativePath": "3_whack_a_mole\\預置物"
+  },
+  "77b1e150-4bf8-4b12-ac97-ded11c7879a1": {
+    "asset": 1649233120197,
+    "meta": 1649233120202,
+    "relativePath": "3_whack_a_mole\\預置物\\咖啡色玩家中獎框.prefab"
+  },
+  "1497c2da-7d2d-4d5e-8b0d-f7d9f66574e4": {
+    "asset": 1649233394686,
+    "meta": 1649233394691,
+    "relativePath": "3_whack_a_mole\\預置物\\紅色玩家中獎框.prefab"
+  },
+  "30c9ff62-a86c-4f49-b6b2-9528d0ba6d68": {
+    "asset": 1645411577720,
+    "meta": 1646361164526,
+    "relativePath": "3_whack_a_mole\\圖片"
+  },
+  "90816bcf-6c0e-46bc-adb5-ec86e5050843": {
+    "asset": 1645687604248,
+    "meta": 1646361164527,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人"
+  },
+  "bb674f91-4106-4e4b-9854-ea4244a524e3": {
+    "asset": 1645409277599,
+    "meta": 1646361164550,
+    "relativePath": "3_whack_a_mole\\動圖\\win.png"
+  },
+  "ca6986b6-e1ad-41bf-9dd3-79b070e66bfe": {
+    "asset": 1644394731618,
+    "meta": 1646361164562,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\再來一輪.png"
+  },
+  "08ccff13-34c7-4a2e-b6db-a769d08a9a50": {
+    "asset": 1644394731626,
+    "meta": 1646361164582,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\中獎列表.png"
+  },
+  "0108897d-6d7f-496c-a098-81b1894b9c05": {
+    "asset": 1645409277597,
+    "meta": 1646361167464,
+    "relativePath": "3_whack_a_mole\\動圖\\win.json"
+  },
+  "427542f4-8697-4491-91e1-f4adcd9b8256": {
+    "asset": 1644394731618,
+    "meta": 1646361164584,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\地鼠洞.png"
+  },
+  "b6587dfe-6e3a-4bcd-9e04-dc0f67fd13ba": {
+    "asset": 1644394731619,
+    "meta": 1646361164597,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\地鼠洞2.png"
+  },
+  "02cab6d0-6b86-4081-83dc-301ca82a0d4c": {
+    "asset": 1644394731619,
+    "meta": 1646361164599,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\炸彈.png"
+  },
+  "e3851571-d24b-4dd0-adcd-fbb6a6b0e3d9": {
+    "asset": 1644394731619,
+    "meta": 1646361164610,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\框.png"
+  },
+  "b6052a80-e629-44a1-a8b6-f199d3ccde5d": {
+    "asset": 1644394731619,
+    "meta": 1646361164627,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\框2.png"
+  },
+  "c561bdd7-64f2-4924-8beb-09d172ceca74": {
+    "asset": 1644394731619,
+    "meta": 1646361164639,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\閃光.png"
+  },
+  "60b7963c-2991-4abb-b6cb-b715ed47fb84": {
+    "asset": 1644394731619,
+    "meta": 1646361164660,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\得分列表.png"
+  },
+  "8b89f03f-785b-4eb5-bffa-3cb5319a06bf": {
+    "asset": 1644394731625,
+    "meta": 1646361164672,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\背景.jpg"
+  },
+  "a2a64b5d-6fd9-4bc2-a5aa-e4a5a51909e2": {
+    "asset": 1645411562062,
+    "meta": 1646361164675,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\規則.png"
+  },
+  "1d4905f3-ea1f-4744-9900-908495b50a6f": {
+    "asset": 1645666909078,
+    "meta": 1646361164687,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\結束遊戲.png"
+  },
+  "522a4a34-e4e0-4a53-a150-0582ea84050b": {
+    "asset": 1645666909078,
+    "meta": 1646361164688,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\開始遊戲.png"
+  },
+  "f3510918-f4cf-4193-9805-1b02b14fbdef": {
+    "asset": 1644394731619,
+    "meta": 1646361164702,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\當前參與人數.png"
+  },
+  "52a7ec3b-f684-4509-a12f-70ebc54aae13": {
+    "asset": 1644394731619,
+    "meta": 1646361164704,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\鼠1.png"
+  },
+  "b70d46eb-76ef-4e14-b42f-a1b1a6233dbd": {
+    "asset": 1644394731621,
+    "meta": 1646361164718,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\鼠2.png"
+  },
+  "fde5a0eb-2366-4449-9623-860e4f59423f": {
+    "asset": 1644394731620,
+    "meta": 1646361164720,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\敲敲樂獎勵.png"
+  },
+  "3d4a40ce-3c2a-414d-8ac0-01357538f08a": {
+    "asset": 1644394731619,
+    "meta": 1646361164731,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\爆炸.png"
+  },
+  "fa1be4ff-dc75-4c11-bb7a-aac75389dce8": {
+    "asset": 1647568435080,
+    "meta": 1647571496440,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人"
+  },
+  "8f7ecf3a-9938-427a-9171-f23af0e54d0c": {
+    "asset": 1644394731619,
+    "meta": 1646361164734,
+    "relativePath": "3_whack_a_mole\\圖片\\主持人\\敲敲樂輪次.png"
+  },
+  "56e0aeb7-c194-422b-8209-df3487d7b55b": {
+    "asset": 1644394731619,
+    "meta": 1646361164744,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\加入活動.png"
+  },
+  "e7450684-c6bd-4dec-9c1b-e841abd16b86": {
+    "asset": 1644394731619,
+    "meta": 1651723580871,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\上方框.png"
+  },
+  "f47568a1-e841-4bcd-bd43-63ebfa2686fd": {
+    "asset": 1644394731619,
+    "meta": 1646361164756,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\名次.png"
+  },
+  "7022f4e6-d6c9-4796-a5eb-2c19bc7c3574": {
+    "asset": 1644394731625,
+    "meta": 1646361164781,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\我的獎品.png"
+  },
+  "b21bbf07-a2c2-445b-b26c-7d8e68db0018": {
+    "asset": 1644394731619,
+    "meta": 1646361164794,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\背景.jpg"
+  },
+  "3ffca2ee-17f9-49d5-b1e4-b3bd9a9eb4d1": {
+    "asset": 1644394731623,
+    "meta": 1646361164800,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\背景2.png"
+  },
+  "2ae3a315-99ff-4c0d-a1d2-3ec0a4ecbf67": {
+    "asset": 1644394731622,
+    "meta": 1646361164806,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\背景3.png"
+  },
+  "302e86d0-e3d9-41ad-b137-93ef64a19ced": {
+    "asset": 1644394731619,
+    "meta": 1646361164815,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\得分.png"
+  },
+  "ae28dad4-b522-47b8-a81e-553248dd3d8b": {
+    "asset": 1644394731619,
+    "meta": 1646361164825,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\框.png"
+  },
+  "db162829-0c93-4f93-b39c-8d83e89d0485": {
+    "asset": 1644394731619,
+    "meta": 1646361164828,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\得分2.png"
+  },
+  "cf61d9a3-28cb-438e-8583-2fa7bdf6b9f9": {
+    "asset": 1644394731619,
+    "meta": 1646361164839,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\得分框.png"
+  },
+  "eeba516f-9389-4482-9d80-12838e804c73": {
+    "asset": 1645411612950,
+    "meta": 1646361164841,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\規則.png"
+  },
+  "b6e2dc9b-bb5d-4c29-94e0-1c38f69a5d48": {
+    "asset": 1644394731619,
+    "meta": 1646361164850,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\剩餘時間.png"
+  },
+  "50b9189c-e0ae-4045-8eb6-af90da63a009": {
+    "asset": 1645069141515,
+    "meta": 1646361164852,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\無限時.png"
+  },
+  "6ed9354d-ff92-4086-83f9-09bc642830c1": {
+    "asset": 1644394731619,
+    "meta": 1646361164863,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\敲敲樂.png"
+  },
+  "6513c9da-737d-472c-9c68-eba30a394faa": {
+    "asset": 1644394731624,
+    "meta": 1646361164864,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\遊戲即將開始.png"
+  },
+  "459f312c-c92d-4915-a8a0-da58cf50636c": {
+    "asset": 1644394731619,
+    "meta": 1646361164876,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\槌子.png"
+  },
+  "de2d1d32-f7c1-4e3a-b8ab-c882e7284f7e": {
+    "asset": 1644394731619,
+    "meta": 1646361164886,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\獎品2.png"
+  },
+  "9ca7864c-ec1d-4b6d-a16a-2cb18eeee9d2": {
+    "asset": 1644394731619,
+    "meta": 1646361164888,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\獎品框.png"
+  },
+  "3206d591-3ca3-431b-9eba-d8d03f4374d2": {
+    "asset": 1645493590658,
+    "meta": 1646361164889,
+    "relativePath": "3_whack_a_mole\\圖片\\數字"
+  },
+  "66409d0b-e9cd-4a97-9fe1-58ead811eb7f": {
+    "asset": 1644394731619,
+    "meta": 1646361164898,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\未得獎0-9.png"
+  },
+  "ac7aa47d-391a-4770-82bc-7a3191eea984": {
+    "asset": 1644394731619,
+    "meta": 1646361164900,
+    "relativePath": "3_whack_a_mole\\圖片\\參加人\\獎品框2.png"
+  },
+  "7ac938e4-1abc-4fd3-93aa-5e00dd2e8b38": {
+    "asset": 1645493590655,
+    "meta": 1646361164912,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\正分正號.png"
+  },
+  "6bc8311c-7c9b-492b-bdc9-9fee4edc2416": {
+    "asset": 1644394731619,
+    "meta": 1646361164913,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\正分0-9.png"
+  },
+  "b5b863d3-97f6-426e-a622-ece0565b353b": {
+    "asset": 1645493590655,
+    "meta": 1646361164923,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\負分負號.png"
+  },
+  "60ec32c1-b7fd-41dc-83f5-cf451928e55b": {
+    "asset": 1644394731619,
+    "meta": 1646361164925,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\負分0-9.png"
+  },
+  "cb067514-97d9-4907-9559-4a1ea638f254": {
+    "asset": 1644394731619,
+    "meta": 1646361164934,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\得分列表0-9.png"
+  },
+  "9bd1d06d-a903-4e5b-8083-3338a6f2206d": {
+    "asset": 1644460596106,
+    "meta": 1646361164939,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\參加人數0-9.png"
+  },
+  "acdc7447-54b3-4a75-b216-0f2ab0387b09": {
+    "asset": 1645083939674,
+    "meta": 1646361164943,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\得分列表20-9.png"
+  },
+  "3080bbf6-bc9f-41d3-9d65-976929cfb506": {
+    "asset": 1644394731619,
+    "meta": 1646361164951,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\得獎0-9.png"
+  },
+  "d7fa9052-070f-4956-8846-15441a5c8f11": {
+    "asset": 1645086686714,
+    "meta": 1646361164955,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\剩餘時間0-9.png"
+  },
+  "bc93875c-0654-4364-b6d6-4b5e87fc1582": {
+    "asset": 1644394731619,
+    "meta": 1646361164962,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\說明0-9.png"
+  },
+  "d4b8fb79-07f9-4612-b98b-139f2ad246cf": {
+    "asset": 1644394731619,
+    "meta": 1646361164965,
+    "relativePath": "3_whack_a_mole\\圖片\\數字\\輪次0-9.png"
+  },
+  "7054da9d-d80b-45f5-955b-ed0bfaa945dd": {
+    "asset": 1652151907330,
+    "meta": 1652151907337,
+    "relativePath": "3_whack_a_mole\\Guest1_JoinGame.fire"
+  },
+  "bf50f032-b8d0-4b81-95fd-1c96db531ec2": {
+    "asset": 1652151953502,
+    "meta": 1652151953509,
+    "relativePath": "3_whack_a_mole\\Guest2_Wait.fire"
+  },
+  "beea249c-2f18-411e-a8a5-825af943ad54": {
+    "asset": 1651735830120,
+    "meta": 1651735830128,
+    "relativePath": "3_whack_a_mole\\Guest3_CountDown.fire"
+  },
+  "05165e70-5202-4d5e-a0d6-54dbf17ff603": {
+    "asset": 1652152721189,
+    "meta": 1652152721197,
+    "relativePath": "3_whack_a_mole\\Guest4_Game.fire"
+  },
+  "8ec644a6-4f50-4caf-8065-be478bddc5d4": {
+    "asset": 1649296424094,
+    "meta": 1649296424101,
+    "relativePath": "3_whack_a_mole\\Host1_Start.fire"
+  },
+  "1e0c3e10-e425-486f-b75e-af17344de42f": {
+    "asset": 1645598631585,
+    "meta": 1646361164993,
+    "relativePath": "3_whack_a_mole\\Host2_CountDown.fire"
+  },
+  "53e0874d-4181-49f9-9c75-798168d05830": {
+    "asset": 1652947261644,
+    "meta": 1652947261653,
+    "relativePath": "3_whack_a_mole\\Host3_Game.fire"
+  },
+  "d1850edf-1bd8-4a73-a611-ef8196528fcb": {
+    "asset": 1652235146876,
+    "meta": 1652235146882,
+    "relativePath": "3_whack_a_mole\\Host4_Last.fire"
+  },
+  "f6982b27-12a6-47d5-b35d-b563c1b2f6f4": {
+    "asset": 1651736096722,
+    "meta": 1651737390174,
+    "relativePath": "共用預置物"
+  },
+  "cefb44dc-2164-4337-b748-a0e3202ede43": {
+    "asset": 1644822591166,
+    "meta": 1646361165006,
+    "relativePath": "3_whack_a_mole\\RoleConfirm_whack_mole.fire"
+  },
+  "eb36aeb3-6143-4c35-aa92-e115a27dfccb": {
+    "asset": 1651802525167,
+    "meta": 1652057219326,
+    "relativePath": "共用圖片"
+  },
+  "0a488fda-c552-4f9b-9e63-124d5d69939a": {
+    "asset": 1644819794389,
+    "meta": 1646361165019,
+    "relativePath": "共用圖片\\進入遊戲中請稍後字\\,.png"
+  },
+  "02899522-1b28-4d95-88d3-344f9fcfefc8": {
+    "asset": 1644819794389,
+    "meta": 1646361165020,
+    "relativePath": "共用圖片\\進入遊戲中請稍後字\\。.png"
+  },
+  "ab8da438-b22e-4aca-be76-346f98208203": {
+    "asset": 1644819794389,
+    "meta": 1646361165030,
+    "relativePath": "共用圖片\\進入遊戲中請稍後字\\入.png"
+  },
+  "6e1aa9a1-7d8a-473b-9d28-ccc51a34e662": {
+    "asset": 1644907722259,
+    "meta": 1646361165031,
+    "relativePath": "共用圖片\\上拉.png"
+  },
+  "70430b34-2467-4ba3-b1c6-6763a62deeee": {
+    "asset": 1644907722259,
+    "meta": 1646361165041,
+    "relativePath": "共用圖片\\下收.png"
+  },
+  "265ef683-7890-40d8-a1f0-6b1636de9e75": {
+    "asset": 1644819794389,
+    "meta": 1646361165043,
+    "relativePath": "共用圖片\\進入遊戲中請稍後字\\中.png"
+  },
+  "7d02130e-5d91-43e6-9cb8-0d656cc10990": {
+    "asset": 1644908219761,
+    "meta": 1646361165054,
+    "relativePath": "共用圖片\\中獎紀錄2.png"
+  },
+  "a1317966-42fc-4037-883a-3269563acafb": {
+    "asset": 1644819794389,
+    "meta": 1646361165056,
+    "relativePath": "共用圖片\\進入遊戲中請稍後字\\後.png"
+  },
+  "b19f3ba9-b743-49a1-8099-0e887e86d912": {
+    "asset": 1644819794389,
+    "meta": 1646361165065,
+    "relativePath": "共用圖片\\進入遊戲中請稍後字\\稍.png"
+  },
+  "74c33aea-e866-432d-8ba9-495feffd3548": {
+    "asset": 1644819794390,
+    "meta": 1646361165067,
+    "relativePath": "共用圖片\\進入遊戲中請稍後字\\進.png"
+  },
+  "368202f2-d57f-460f-a327-701e4d3e7340": {
+    "asset": 1644819794390,
+    "meta": 1646361165076,
+    "relativePath": "共用圖片\\進入遊戲中請稍後字\\遊.png"
+  },
+  "e4f7cd8d-f94d-4826-806d-bef7507fb1f5": {
+    "asset": 1644819794389,
+    "meta": 1646361165078,
+    "relativePath": "共用圖片\\獎品3.png"
+  },
+  "91245b2c-efa4-4d64-a170-689895b833c6": {
+    "asset": 1644819794389,
+    "meta": 1646361165101,
+    "relativePath": "共用圖片\\進入遊戲中請稍後字\\戲.png"
+  },
+  "fb5a4b97-2619-41e5-af3f-e0f5fb03e892": {
+    "asset": 1652844807435,
+    "meta": 1652926373979,
+    "relativePath": "共用模塊"
+  },
+  "af7fe881-7f28-403e-bf28-9d62f63e2c35": {
+    "asset": 1643006348446,
+    "meta": 1646361165103,
+    "relativePath": "共用模塊\\備份"
+  },
+  "74f213de-dae7-4269-bde8-c8e449f3fc17": {
+    "asset": 1644819794390,
+    "meta": 1646361165104,
+    "relativePath": "共用圖片\\進入遊戲中請稍後字\\請.png"
+  },
+  "73b74427-4704-40e2-9850-e5a0376c8f64": {
+    "asset": 1626415874000,
+    "meta": 1646361166481,
+    "relativePath": "共用模塊\\備份\\goeasy-2.0.12.min.js"
+  },
+  "1eb9ee96-cc4a-4f2e-969a-7b737b65611a": {
+    "asset": 1626599912000,
+    "meta": 1646361166511,
+    "relativePath": "共用模塊\\備份\\HelloWorld.js"
+  },
+  "4796b8d1-5524-407f-991e-975e1898899a": {
+    "asset": 1637746554579,
+    "meta": 1646361166528,
+    "relativePath": "共用模塊\\備份\\Host1_QRC.js"
+  },
+  "070a6edb-4bbb-4940-88ba-4c15daa6722e": {
+    "asset": 1637565310226,
+    "meta": 1646361166647,
+    "relativePath": "共用模塊\\備份\\qrcode.js"
+  },
+  "70071ce7-89d7-4157-bc7f-c32109693b05": {
+    "asset": 1635835031364,
+    "meta": 1646361166664,
+    "relativePath": "共用模塊\\備份\\rwd.js"
+  },
+  "d8f4b4a6-73f1-417c-8680-c7a5787658fc": {
+    "asset": 1645090365350,
+    "meta": 1646361166683,
+    "relativePath": "共用模塊\\Ani_Opacity.js"
+  },
+  "8920999b-ec1e-44ee-8a50-9978f3434d0c": {
+    "asset": 1645425880667,
+    "meta": 1646361166696,
+    "relativePath": "共用模塊\\Ani_UPandDOWN.js"
+  },
+  "0f50c196-f6c2-4068-87b4-0474e4331cd9": {
+    "asset": 1645689037545,
+    "meta": 1646361166711,
+    "relativePath": "共用模塊\\BackGround_Theme.js"
+  },
+  "47ce2c71-0ec0-4f82-a575-d2c9cedecc4c": {
+    "asset": 1637565367446,
+    "meta": 1646361166742,
+    "relativePath": "共用模塊\\Guest_rwdPlayer.js"
+  },
+  "9bc09652-5f4d-4368-a02d-3b6ca63d3030": {
+    "asset": 1645781163533,
+    "meta": 1646361167024,
+    "relativePath": "共用模塊\\Host3_WinRecordItem.js"
+  },
+  "57281c2c-6dfe-4053-ad6a-c6f6139b14ad": {
+    "asset": 1645688396967,
+    "meta": 1646361167142,
+    "relativePath": "resources"
+  },
+  "dbb86017-ee10-4481-ba61-0ff55da8c9df": {
+    "asset": 1645688413482,
+    "meta": 1646361167143,
+    "relativePath": "resources\\winter"
+  },
+  "43f9b971-5142-4326-a166-eb8f5856d47c": {
+    "asset": 1652317458861,
+    "meta": 1652406746750,
+    "relativePath": "TEST"
+  },
+  "06e1e925-81ee-4bed-ac6a-5e100e921e75": {
+    "asset": 1645687424817,
+    "meta": 1646361167183,
+    "relativePath": "TEST\\test.atlas"
+  },
+  "16e930d1-f84c-4642-a86f-2ce88e09039e": {
+    "asset": 1645688413480,
+    "meta": 1646361167189,
+    "relativePath": "resources\\winter\\炸彈.png"
+  },
+  "e2371a1d-52d4-4d02-a8d7-d6166d522c8e": {
+    "asset": 1645687424818,
+    "meta": 1646361167202,
+    "relativePath": "TEST\\test.png"
+  },
+  "44a4943c-d9a2-41f5-b6d0-2de84db8b401": {
+    "asset": 1645687424817,
+    "meta": 1646361167513,
+    "relativePath": "TEST\\test.json"
+  },
+  "9836134e-b892-4283-b6b2-78b5acf3ed45": {
+    "asset": 1623806453312,
+    "meta": 1653361848938,
+    "relativePath": "effects"
+  },
+  "430eccbf-bf2c-4e6e-8c0c-884bbb487f32": {
+    "asset": 1623806453311,
+    "meta": 1653361848955,
+    "relativePath": "effects\\__builtin-editor-gizmo-line.effect"
+  },
+  "6c5cf6e1-b044-4eac-9431-835644d57381": {
+    "asset": 1623806453311,
+    "meta": 1653361848966,
+    "relativePath": "effects\\__builtin-editor-gizmo-unlit.effect"
+  },
+  "115286d1-2e10-49ee-aab4-341583f607e8": {
+    "asset": 1623806453312,
+    "meta": 1653361848994,
+    "relativePath": "effects\\__builtin-editor-gizmo.effect"
+  },
+  "abc2cb62-7852-4525-a90d-d474487b88f2": {
+    "asset": 1623806453308,
+    "meta": 1653361849067,
+    "relativePath": "effects\\builtin-phong.effect"
+  },
+  "e2f00085-c597-422d-9759-52c360279106": {
+    "asset": 1623806453310,
+    "meta": 1653361849107,
+    "relativePath": "effects\\builtin-toon.effect"
+  },
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1623806453329,
+    "meta": 1653361849108,
+    "relativePath": "image"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1623806453314,
+    "meta": 1653361849123,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1623806453315,
+    "meta": 1653361849121,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1623806453316,
+    "meta": 1653361849132,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1623806453317,
+    "meta": 1653361849134,
+    "relativePath": "image\\default_editbox_bg.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1623806453318,
+    "meta": 1653361849143,
+    "relativePath": "image\\default_panel.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1623806453319,
+    "meta": 1653361849144,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1623806453318,
+    "meta": 1653361849153,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1623806453320,
+    "meta": 1653361849155,
+    "relativePath": "image\\default_radio_button_off.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1623806453321,
+    "meta": 1653361849167,
+    "relativePath": "image\\default_radio_button_on.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1623806453322,
+    "meta": 1653361849165,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1623806453323,
+    "meta": 1653361849179,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1623806453324,
+    "meta": 1653361849177,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1623806453325,
+    "meta": 1653361849188,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1623806453322,
+    "meta": 1653361849189,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1623806453325,
+    "meta": 1653361849203,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1623806453326,
+    "meta": 1653361849201,
+    "relativePath": "image\\default_toggle_checkmark.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1623806453327,
+    "meta": 1653361849216,
+    "relativePath": "image\\default_toggle_disabled.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1623806453328,
+    "meta": 1653361849214,
+    "relativePath": "image\\default_toggle_normal.png"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1623806453329,
+    "meta": 1653361849226,
+    "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "5c3eedba-6c41-4c0c-9ba7-d91f813cbd1c": {
+    "asset": 1623806453330,
+    "meta": 1653361849227,
+    "relativePath": "materials"
+  },
+  "c4480a0a-6ac5-443f-8b40-361a14257fc8": {
+    "asset": 1623806453330,
+    "meta": 1653361849574,
+    "relativePath": "materials\\builtin-phong.mtl"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1623806453333,
+    "meta": 1653361849231,
+    "relativePath": "misc"
+  },
+  "600301aa-3357-4a10-b086-84f011fa32ba": {
+    "asset": 1623806453313,
+    "meta": 1653361849233,
+    "relativePath": "image\\default-particle.png"
+  },
+  "db019bf7-f71c-4111-98cf-918ea180cb48": {
+    "asset": 1623806453342,
+    "meta": 1653361849234,
+    "relativePath": "model"
+  },
+  "e39e96e6-6f6e-413f-bcf1-ac7679bb648a": {
+    "asset": 1623806453340,
+    "meta": 1653361849235,
+    "relativePath": "model\\prefab"
+  },
+  "a87cc147-01b2-43f8-8e42-a7ca90b0c757": {
+    "asset": 1623806453335,
+    "meta": 1653361849238,
+    "relativePath": "model\\prefab\\box.prefab"
+  },
+  "fe1417b6-fe6b-46a4-ae7c-9fd331f33a2a": {
+    "asset": 1623806453335,
+    "meta": 1653361849240,
+    "relativePath": "model\\prefab\\capsule.prefab"
+  },
+  "b5fc2cf2-7942-483d-be1f-bbeadc4714ad": {
+    "asset": 1623806453336,
+    "meta": 1653361849243,
+    "relativePath": "model\\prefab\\cone.prefab"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1623806453332,
+    "meta": 1653361849247,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "1c5e4038-953a-44c2-b620-0bbfc6170477": {
+    "asset": 1623806453337,
+    "meta": 1653361849245,
+    "relativePath": "model\\prefab\\cylinder.prefab"
+  },
+  "3f376125-a699-40ca-ad05-04d662eaa1f2": {
+    "asset": 1623806453338,
+    "meta": 1653361849249,
+    "relativePath": "model\\prefab\\plane.prefab"
+  },
+  "6c9ef10d-b479-420b-bfe6-39cdda6a8ae0": {
+    "asset": 1623806453338,
+    "meta": 1653361849251,
+    "relativePath": "model\\prefab\\quad.prefab"
+  },
+  "2d9a4b85-b0ab-4c46-84c5-18f393ab2058": {
+    "asset": 1623806453339,
+    "meta": 1653361849253,
+    "relativePath": "model\\prefab\\sphere.prefab"
+  },
+  "de510076-056b-484f-b94c-83bef217d0e1": {
+    "asset": 1623806453340,
+    "meta": 1653361849263,
+    "relativePath": "model\\prefab\\torus.prefab"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1623806453344,
+    "meta": 1653361849264,
+    "relativePath": "obsolete"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1623806453344,
+    "meta": 1653361849274,
+    "relativePath": "obsolete\\atom.png"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1623806453346,
+    "meta": 1653361849275,
+    "relativePath": "particle"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1623806453343,
+    "meta": 1653361849588,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1623806453346,
+    "meta": 1653361849285,
+    "relativePath": "particle\\atom.png"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1623806453371,
+    "meta": 1653361849286,
+    "relativePath": "prefab"
+  },
+  "897ef7a1-4860-4f64-968d-f5924b18668a": {
+    "asset": 1623806453348,
+    "meta": 1653361849288,
+    "relativePath": "prefab\\2d-camera.prefab"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1623806453345,
+    "meta": 1653361849592,
+    "relativePath": "particle\\atom.plist"
+  },
+  "70d7cdb0-04cd-41bb-9480-c06a4785f386": {
+    "asset": 1623806453349,
+    "meta": 1653361849290,
+    "relativePath": "prefab\\3d-camera.prefab"
+  },
+  "70bbeb73-6dc2-4ee4-8faf-76b3a0e34ec4": {
+    "asset": 1623806453350,
+    "meta": 1653361849293,
+    "relativePath": "prefab\\3d-particle.prefab"
+  },
+  "ed88f13d-fcad-4848-aa35-65a2cb973584": {
+    "asset": 1623806453351,
+    "meta": 1653361849295,
+    "relativePath": "prefab\\3d-stage.prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1623806453352,
+    "meta": 1653361849297,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1623806453352,
+    "meta": 1653361849300,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1623806453353,
+    "meta": 1653361849302,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1623806453354,
+    "meta": 1653361849304,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1623806453355,
+    "meta": 1653361849306,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "a3ee0214-b432-4865-9666-4a3211814282": {
+    "asset": 1623806453359,
+    "meta": 1653361849307,
+    "relativePath": "prefab\\light"
+  },
+  "61906da3-7003-4bda-9abc-5769c76faee4": {
+    "asset": 1623806453356,
+    "meta": 1653361849310,
+    "relativePath": "prefab\\light\\ambient.prefab"
+  },
+  "ddb99b39-7004-47cd-9705-751905c43c46": {
+    "asset": 1623806453357,
+    "meta": 1653361849312,
+    "relativePath": "prefab\\light\\directional.prefab"
+  },
+  "0cf30284-9073-46bc-9eba-e62b69dbbff3": {
+    "asset": 1623806453358,
+    "meta": 1653361849314,
+    "relativePath": "prefab\\light\\point.prefab"
+  },
+  "f5331fd2-bf42-4ee3-a3fd-3e1657600eff": {
+    "asset": 1623806453359,
+    "meta": 1653361849316,
+    "relativePath": "prefab\\light\\spot.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1623806453360,
+    "meta": 1653361849318,
+    "relativePath": "prefab\\pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1623806453361,
+    "meta": 1653361849321,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1623806453361,
+    "meta": 1653361849323,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1623806453362,
+    "meta": 1653361849325,
+    "relativePath": "prefab\\richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1623806453363,
+    "meta": 1653361849328,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1623806453364,
+    "meta": 1653361849330,
+    "relativePath": "prefab\\slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1623806453365,
+    "meta": 1653361849333,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1623806453364,
+    "meta": 1653361849335,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1623806453366,
+    "meta": 1653361849337,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1623806453367,
+    "meta": 1653361849339,
+    "relativePath": "prefab\\tiledtile.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1623806453367,
+    "meta": 1653361849342,
+    "relativePath": "prefab\\toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1623806453368,
+    "meta": 1653361849345,
+    "relativePath": "prefab\\toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1623806453369,
+    "meta": 1653361849347,
+    "relativePath": "prefab\\toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1623806453370,
+    "meta": 1653361849350,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1623806453371,
+    "meta": 1653361849352,
+    "relativePath": "prefab\\webview.prefab"
+  },
+  "d8afc78c-4eac-4a9f-83dd-67bc70344d33": {
+    "asset": 1623806453381,
+    "meta": 1653361849353,
+    "relativePath": "resources"
+  },
+  "294c1663-4adf-4a1e-a795-53808011a38a": {
+    "asset": 1623806453380,
+    "meta": 1653361849354,
+    "relativePath": "resources\\effects"
+  },
+  "30682f87-9f0d-4f17-8a44-72863791461b": {
+    "asset": 1623806453373,
+    "meta": 1653361849363,
+    "relativePath": "resources\\effects\\builtin-2d-graphics.effect"
+  },
+  "144c3297-af63-49e8-b8ef-1cfa29b3be28": {
+    "asset": 1623806453374,
+    "meta": 1653361849373,
+    "relativePath": "resources\\effects\\builtin-2d-gray-sprite.effect"
+  },
+  "f18742d7-56d2-4eb5-ae49-2d9d710b37c8": {
+    "asset": 1623806453375,
+    "meta": 1653361849384,
+    "relativePath": "resources\\effects\\builtin-2d-label.effect"
+  },
+  "0e93aeaa-0b53-4e40-b8e0-6268b4e07bd7": {
+    "asset": 1623806453376,
+    "meta": 1653361849395,
+    "relativePath": "resources\\effects\\builtin-2d-spine.effect"
+  },
+  "2874f8dd-416c-4440-81b7-555975426e93": {
+    "asset": 1623806453376,
+    "meta": 1653361849404,
+    "relativePath": "resources\\effects\\builtin-2d-sprite.effect"
+  },
+  "829a282c-b049-4019-bd38-5ace8d8a6417": {
+    "asset": 1623806453377,
+    "meta": 1653361849464,
+    "relativePath": "resources\\effects\\builtin-3d-particle.effect"
+  },
+  "2a7c0036-e0b3-4fe1-8998-89a54b8a2bec": {
+    "asset": 1623806453378,
+    "meta": 1653361849482,
+    "relativePath": "resources\\effects\\builtin-3d-trail.effect"
+  },
+  "c0040c95-c57f-49cd-9cbc-12316b73d0d4": {
+    "asset": 1623806453379,
+    "meta": 1653361849489,
+    "relativePath": "resources\\effects\\builtin-clear-stencil.effect"
+  },
+  "6d91e591-4ce0-465c-809f-610ec95019c6": {
+    "asset": 1623806453380,
+    "meta": 1653361849503,
+    "relativePath": "resources\\effects\\builtin-unlit.effect"
+  },
+  "bbee2217-c261-49bd-a8ce-708d6bcc3500": {
+    "asset": 1623806453390,
+    "meta": 1653361849507,
+    "relativePath": "resources\\materials"
+  },
+  "6f801092-0c37-4f30-89ef-c8d960825b36": {
+    "asset": 1623806453381,
+    "meta": 1653361849609,
+    "relativePath": "resources\\materials\\builtin-2d-base.mtl"
+  },
+  "a153945d-2511-4c14-be7b-05d242f47d57": {
+    "asset": 1623806453382,
+    "meta": 1653361849610,
+    "relativePath": "resources\\materials\\builtin-2d-graphics.mtl"
+  },
+  "3a7bb79f-32fd-422e-ada2-96f518fed422": {
+    "asset": 1623806453383,
+    "meta": 1653361849611,
+    "relativePath": "resources\\materials\\builtin-2d-gray-sprite.mtl"
+  },
+  "e02d87d4-e599-4d16-8001-e14891ac6506": {
+    "asset": 1623806453384,
+    "meta": 1653361849612,
+    "relativePath": "resources\\materials\\builtin-2d-label.mtl"
+  },
+  "7afd064b-113f-480e-b793-8817d19f63c3": {
+    "asset": 1623806453385,
+    "meta": 1653361849613,
+    "relativePath": "resources\\materials\\builtin-2d-spine.mtl"
+  },
+  "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432": {
+    "asset": 1623806453387,
+    "meta": 1653361849613,
+    "relativePath": "resources\\materials\\builtin-2d-sprite.mtl"
+  },
+  "432fa09c-cf03-4cff-a186-982604408a07": {
+    "asset": 1623806453387,
+    "meta": 1653361849614,
+    "relativePath": "resources\\materials\\builtin-3d-particle.mtl"
+  },
+  "466d4f9b-e5f4-4ea8-85d5-3c6e9a65658a": {
+    "asset": 1623806453388,
+    "meta": 1653361849615,
+    "relativePath": "resources\\materials\\builtin-3d-trail.mtl"
+  },
+  "cf7e0bb8-a81c-44a9-ad79-d28d43991032": {
+    "asset": 1623806453389,
+    "meta": 1653361849616,
+    "relativePath": "resources\\materials\\builtin-clear-stencil.mtl"
+  },
+  "2a296057-247c-4a1c-bbeb-0548b6c98650": {
+    "asset": 1623806453390,
+    "meta": 1653361849629,
+    "relativePath": "resources\\materials\\builtin-unlit.mtl"
+  },
+  "954fec8b-cd16-4bb9-a3b7-7719660e7558": {
+    "asset": 1623806453341,
+    "meta": 1653361851409,
+    "relativePath": "model\\primitives.fbx"
+  },
+  "d771c414-f53d-4787-b849-ff45b4200c4e": {
+    "asset": 1646637186947,
+    "meta": 1646637186968,
+    "relativePath": "TEST\\美式輪盤.png"
+  },
+  "7c7c6b3c-a3fc-46a6-90be-166e9fb5dd21": {
+    "asset": 1646637287077,
+    "meta": 1646637287105,
+    "relativePath": "TEST\\arrow-26496_960_720.png"
+  },
+  "53d24c0d-e792-4a6e-bc61-6975bb21a14c": {
+    "asset": 1646642070653,
+    "meta": 1646642070671,
+    "relativePath": "TEST\\9405.png_300.png"
+  },
+  "28100248-7ca4-4a81-a431-fd02efc8ac1f": {
+    "asset": 1646817947869,
+    "meta": 1646817947936,
+    "relativePath": "TEST\\01.png"
+  },
+  "c978e066-fb60-4bb7-a82b-ce90941b0870": {
+    "asset": 1646817956140,
+    "meta": 1646817956160,
+    "relativePath": "TEST\\03.png"
+  },
+  "af7db152-6096-424f-bc99-ce8c032a97ca": {
+    "asset": 1646817956140,
+    "meta": 1646817956186,
+    "relativePath": "TEST\\02.png"
+  },
+  "da8fbad5-7b2c-4007-b141-f7f728c937f2": {
+    "asset": 1647485948411,
+    "meta": 1647486492214,
+    "relativePath": "1_redpack\\遊戲模塊\\Guest4_ShakeRedpacket.js"
+  },
+  "0e162fe6-d420-4d64-bbc9-83c915f3610a": {
+    "asset": 1647486221851,
+    "meta": 1647486492598,
+    "relativePath": "共用模塊\\Host4_WinnerRedpaket.js"
+  },
+  "f9ec091c-f467-4bf4-862a-1b253637ba80": {
+    "asset": 1652940608286,
+    "meta": 1653012353803,
+    "relativePath": "4._Q&A"
+  },
+  "95a6f0d5-0f82-4468-b5bf-99b8eb20a72c": {
+    "asset": 1649749679012,
+    "meta": 1649749679020,
+    "relativePath": "4._Q&A\\RoleConfirm_QandA.fire"
+  },
+  "e1de4688-afc7-489e-803c-b63271412255": {
+    "asset": 1652949106839,
+    "meta": 1652949106844,
+    "relativePath": "4._Q&A\\Host1_Question.fire"
+  },
+  "31c5e916-789a-42e6-bfe0-f48a6866cbff": {
+    "asset": 1652952233288,
+    "meta": 1653012353806,
+    "relativePath": "4._Q&A\\圖片"
+  },
+  "cd8040be-5e03-441d-8b10-512df7ed2919": {
+    "asset": 1647587533700,
+    "meta": 1647587758613,
+    "relativePath": "共用模塊\\Skin.js"
+  },
+  "251e3981-327a-4201-ba27-b1c607ac4978": {
+    "asset": 1647587904594,
+    "meta": 1647588004461,
+    "relativePath": "4._Q&A\\skin"
+  },
+  "6675d547-94b1-46c1-8c2d-6c042bf59c92": {
+    "asset": 1647587904582,
+    "meta": 1647587904993,
+    "relativePath": "4._Q&A\\skin\\skeleton.json"
+  },
+  "22233116-90b8-4d45-956c-7fe41b0c8397": {
+    "asset": 1647587904581,
+    "meta": 1647587904600,
+    "relativePath": "4._Q&A\\skin\\skeleton.atlas"
+  },
+  "700fb592-1314-4274-a6e5-d23bbb7f6d02": {
+    "asset": 1647587904585,
+    "meta": 1647587904729,
+    "relativePath": "4._Q&A\\skin\\skeleton2.png"
+  },
+  "354f3035-af0e-4e0e-a87e-311450003ad0": {
+    "asset": 1647587904590,
+    "meta": 1647587904952,
+    "relativePath": "4._Q&A\\skin\\skeleton.png"
+  },
+  "1160eb44-bd4d-4167-9953-debc821d9004": {
+    "asset": 1649812853820,
+    "meta": 1649817917263,
+    "relativePath": "4._Q&A\\程式碼"
+  },
+  "04db1ab3-4b1e-42d0-a583-3e31a0179c5c": {
+    "asset": 1652952106365,
+    "meta": 1652952106372,
+    "relativePath": "4._Q&A\\Host2_Game.fire"
+  },
+  "83d5d0e2-6a16-4a38-bccf-4e82c94f2430": {
+    "asset": 1647591224870,
+    "meta": 1647591227518,
+    "relativePath": "共用模塊\\Ani_Rotation.js"
+  },
+  "e82b6acc-346c-4282-8f7d-718c39536403": {
+    "asset": 1649661388918,
+    "meta": 1649723463762,
+    "relativePath": "4._Q&A\\字型"
+  },
+  "9587253d-37bb-43ae-a606-89d662f5c85f": {
+    "asset": 1647594354764,
+    "meta": 1647594371512,
+    "relativePath": "4._Q&A\\字型\\固定數字.labelatlas"
+  },
+  "1cfe9029-5dc1-4dd4-be25-032ce7a6be97": {
+    "asset": 1649735665489,
+    "meta": 1649812388661,
+    "relativePath": "4._Q&A\\預置物"
+  },
+  "00f660bd-1704-4ad8-99bc-ed23ce3926f3": {
+    "asset": 1647822947357,
+    "meta": 1647823255238,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\獎1.png"
+  },
+  "a2f097f6-90fd-4869-938f-d5e4f088a17f": {
+    "asset": 1647822956401,
+    "meta": 1647823688907,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\獎2.png"
+  },
+  "dc87dffb-d7f4-4d01-adc4-ec86988fd350": {
+    "asset": 1647822966613,
+    "meta": 1647823761401,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\獎3.png"
+  },
+  "1a47e501-0f3e-47c3-9103-51eff52f6edc": {
+    "asset": 1647827550386,
+    "meta": 1649648083958,
+    "relativePath": "4._Q&A\\字型\\秒數.labelatlas"
+  },
+  "db78ce1a-6cf0-42aa-8517-a4334d19ca95": {
+    "asset": 1652945779112,
+    "meta": 1652945779118,
+    "relativePath": "4._Q&A\\Host3_Last.fire"
+  },
+  "b584c273-59ab-4281-8055-d739c3676251": {
+    "asset": 1649746407771,
+    "meta": 1649746407777,
+    "relativePath": "4._Q&A\\預置物\\結算中獎框 .prefab"
+  },
+  "950f2601-2fe5-44d2-9078-212a21f6d762": {
+    "asset": 1649238315222,
+    "meta": 1649292265171,
+    "relativePath": "共用模塊\\Host4_ShowWinner.js"
+  },
+  "6a61a96c-1953-4993-b239-70648825edc1": {
+    "asset": 1647845829643,
+    "meta": 1647845848387,
+    "relativePath": "4._Q&A\\字型\\A人數.labelatlas"
+  },
+  "8efc07d0-d821-49d6-b376-7aaf49a15826": {
+    "asset": 1647845911619,
+    "meta": 1647845958343,
+    "relativePath": "4._Q&A\\字型\\B人數.labelatlas"
+  },
+  "f2eccb1a-0739-434f-a685-1027db379b80": {
+    "asset": 1647845923098,
+    "meta": 1647845971296,
+    "relativePath": "4._Q&A\\字型\\C人數.labelatlas"
+  },
+  "7ab4dbd8-df76-4007-8be5-686ad1911e8d": {
+    "asset": 1647845936707,
+    "meta": 1649661425999,
+    "relativePath": "4._Q&A\\字型\\名次數字.labelatlas"
+  },
+  "2da4669c-b0ea-4bfa-b9dd-0c011a92a460": {
+    "asset": 1652952262444,
+    "meta": 1652952262449,
+    "relativePath": "4._Q&A\\Guest1_WaitingQuestion.fire"
+  },
+  "4f55abf1-1a46-4f5e-ad92-6bb01963e75f": {
+    "asset": 1648174111016,
+    "meta": 1648174111032,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\提問中.png"
+  },
+  "d5c0c8a1-1e44-45e6-a34e-a8ef36ca3bc3": {
+    "asset": 1652945004039,
+    "meta": 1652945004046,
+    "relativePath": "4._Q&A\\Guest2_Answer.fire"
+  },
+  "7c2a30e6-f434-480b-9afa-1aaf8fdc5fe0": {
+    "asset": 1652423880408,
+    "meta": 1652661498871,
+    "relativePath": "5_lottery"
+  },
+  "aa48ef29-1ce0-4b48-8c4f-67e57a6a85c4": {
+    "asset": 1652326056542,
+    "meta": 1652406746749,
+    "relativePath": "5_lottery\\程式"
+  },
+  "4f21fd96-c83f-4825-8012-72caa79d82df": {
+    "asset": 1651194601707,
+    "meta": 1651114230975,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片"
+  },
+  "52274d5b-fb58-4d36-8d52-5c3c36f10522": {
+    "asset": 1648524459492,
+    "meta": 1648610993666,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\數字"
+  },
+  "cafe164b-b46a-4516-b9b1-3df669e5d476": {
+    "asset": 1652349146211,
+    "meta": 1652349146220,
+    "relativePath": "5_lottery\\Host1_Weel.fire"
+  },
+  "dfc00bf2-aa2b-4e51-b36a-64f4a7d5332c": {
+    "asset": 1650855784493,
+    "meta": 1650876943750,
+    "relativePath": "5_lottery\\預置物"
+  },
+  "53ac6647-34fe-4800-8ce0-f5ed05c3f91e": {
+    "asset": 1648521057225,
+    "meta": 1648521057252,
+    "relativePath": "TEST\\b3a4babd59ebb46530a7f7cca856d848.png"
+  },
+  "3d8c3625-b0c7-4027-bc49-8e414565e9e0": {
+    "asset": 1651047792738,
+    "meta": 1651047792743,
+    "relativePath": "5_lottery\\預置物\\清單框.prefab"
+  },
+  "ca3bb344-b7a6-4e36-8c4f-b025f065b57c": {
+    "asset": 1652338169650,
+    "meta": 1652338169658,
+    "relativePath": "5_lottery\\Guest1_Weel.fire"
+  },
+  "ae0ac94e-932f-42d0-a6d2-fa85873458f8": {
+    "asset": 1649841105151,
+    "meta": 1649904709272,
+    "relativePath": "5_lottery\\字型"
+  },
+  "0314d322-0238-40b2-9f6f-d4a4e6172e04": {
+    "asset": 1648523801364,
+    "meta": 1649815655618,
+    "relativePath": "5_lottery\\字型\\金色字.labelatlas"
+  },
+  "0bb51ddc-3c86-44f4-8652-39470d8bb657": {
+    "asset": 1648524459495,
+    "meta": 1648524459524,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\數字\\金色數字01.png"
+  },
+  "2d8ca7e9-7df2-47de-8cbd-77d74250b306": {
+    "asset": 1648534062948,
+    "meta": 1648534062969,
+    "relativePath": "TEST\\B4BE802262.jpeg"
+  },
+  "e7c76a74-8eb9-4315-b0bd-d45a9f0f97d7": {
+    "asset": 1649233050837,
+    "meta": 1649233060606,
+    "relativePath": "共用模塊\\Host3_WinRecordItem_Score.js"
+  },
+  "06155f41-8396-46ba-bc57-edd74c1cef4d": {
+    "asset": 1649234055903,
+    "meta": 1649234203352,
+    "relativePath": "共用模塊\\Host3_ShowNewWinner.js"
+  },
+  "83d95124-6e9b-469f-9241-05db449a3f0f": {
+    "asset": 1649299836825,
+    "meta": 1649299877500,
+    "relativePath": "3_whack_a_mole\\遊戲模塊\\Guest4_Whack_a_mole.js"
+  },
+  "253159fa-86cf-48d9-9a39-417d64887077": {
+    "asset": 1649314902964,
+    "meta": 1649314905072,
+    "relativePath": "3_whack_a_mole\\遊戲模塊\\Guest_MouseManager.js"
+  },
+  "229e6f71-ce19-4f9c-8914-0b20d838628e": {
+    "asset": 1649321885227,
+    "meta": 1649321954376,
+    "relativePath": "共用模塊\\BeforeGameCountDown.js"
+  },
+  "6dc0546a-5d6c-4c6b-8bee-021442e9db2e": {
+    "asset": 1649383251155,
+    "meta": 1649383352349,
+    "relativePath": "共用模塊\\Guest2_WaitForStart.js"
+  },
+  "01c0cbc6-eebb-4d10-a7de-2aab4f6bc1e7": {
+    "asset": 1649388792759,
+    "meta": 1649388953730,
+    "relativePath": "共用模塊\\Host3_ShowNewWinner_NewestWinner.js"
+  },
+  "0d934f31-1391-42ec-9080-d92f957eca5c": {
+    "asset": 1652948188322,
+    "meta": 1653012353807,
+    "relativePath": "4._Q&A\\圖片\\輸出"
+  },
+  "3533fb09-4c35-4e7b-b72c-ef5e0b870bee": {
+    "asset": 1652948188322,
+    "meta": 1653012353808,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人"
+  },
+  "d3da6af7-336d-4f84-bd92-ca211b4ee9a2": {
+    "asset": 1649642363390,
+    "meta": 1649642363489,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\上箭頭.png"
+  },
+  "7559a5ec-b29f-4f61-a772-b421afc13b68": {
+    "asset": 1649642363390,
+    "meta": 1649642363491,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\人數PC.png"
+  },
+  "9ee1520b-16e7-43bc-8dff-afffaf7497a7": {
+    "asset": 1649642363390,
+    "meta": 1649642363501,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\王冠.png"
+  },
+  "cbb3b8a7-d136-4a38-9073-ae61cd2235b9": {
+    "asset": 1649642363390,
+    "meta": 1649642363503,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\下箭頭.png"
+  },
+  "df780452-8fda-4a00-ab93-100361587dc6": {
+    "asset": 1649642363390,
+    "meta": 1649642363513,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\名次框.png"
+  },
+  "a8b6b886-74ec-449e-92e0-30c41ce429ba": {
+    "asset": 1649642363390,
+    "meta": 1649642363515,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\名次背景.png"
+  },
+  "ee28a74a-e4e9-468b-af12-c15286eadb98": {
+    "asset": 1649642363390,
+    "meta": 1649642363528,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\紅光條PC.png"
+  },
+  "633c498f-3ff5-4078-8bb8-79911d64706a": {
+    "asset": 1649642363390,
+    "meta": 1649642363541,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\紅條.png"
+  },
+  "f8629b38-35e2-4313-9264-05d07116ee80": {
+    "asset": 1649642363413,
+    "meta": 1649642363658,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\背景格子.jpg"
+  },
+  "62923925-d056-41a0-baa1-3833cbb15e1e": {
+    "asset": 1649642363416,
+    "meta": 1649642363686,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\背景.jpg"
+  },
+  "94260a1d-79c6-4039-88a5-85ba74e894fd": {
+    "asset": 1649642363390,
+    "meta": 1649642363739,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\背景格子結算.png"
+  },
+  "fe8aa5ab-5c6c-4423-9184-d882a9062f7e": {
+    "asset": 1649642363397,
+    "meta": 1649642363793,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\背景結算.jpg"
+  },
+  "87bc27bd-ac51-4552-9168-89aad0a4ac8a": {
+    "asset": 1649642363396,
+    "meta": 1649642363803,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\問題公布框.png"
+  },
+  "3884b559-df00-4e67-a6d2-603858e15195": {
+    "asset": 1649642363392,
+    "meta": 1649642363829,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\結算框四名後.png"
+  },
+  "1a77d45a-21c9-41cc-86af-7638e3e876cc": {
+    "asset": 1649642363396,
+    "meta": 1649642363843,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\結算光暈.png"
+  },
+  "64103fad-be67-4300-964d-08ec853dc31f": {
+    "asset": 1649642363394,
+    "meta": 1649642363848,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\結算框第一名.png"
+  },
+  "261d72b8-42c7-4c8e-af2e-42a066106b74": {
+    "asset": 1649642363390,
+    "meta": 1649642363859,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\黑條底PC.png"
+  },
+  "bdbe33af-269a-4598-9cae-89ab1d99447d": {
+    "asset": 1649642363390,
+    "meta": 1649642363861,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\滑桿底.png"
+  },
+  "d962516d-d7c8-4145-a0d4-1bc06a436156": {
+    "asset": 1649642363390,
+    "meta": 1649642363870,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\滑桿頭.png"
+  },
+  "7335de3b-5262-4232-b67c-744450754e7c": {
+    "asset": 1649642363390,
+    "meta": 1649642363872,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\選相框.png"
+  },
+  "95b87bc4-8af4-4f41-98d1-586ea23ba302": {
+    "asset": 1649642363390,
+    "meta": 1649642363884,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\藍光條PC.png"
+  },
+  "a5c85c36-91e4-4415-a56b-c904aaea1a12": {
+    "asset": 1649642363390,
+    "meta": 1649642363887,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\選項底PC.png"
+  },
+  "188eada3-b4fe-4b11-828a-054c4029a686": {
+    "asset": 1649642363390,
+    "meta": 1649642363902,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\藍條.png"
+  },
+  "e659615d-898d-412b-9615-1b2b88a56efe": {
+    "asset": 1649642363391,
+    "meta": 1649642363904,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC得分結算_03.png"
+  },
+  "5d0393a6-1c6e-4ab7-8393-561faa75dc3e": {
+    "asset": 1649642363391,
+    "meta": 1649642363920,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC得分結算_10.png"
+  },
+  "01ea3654-4322-409b-b5f4-8e6cdc00e129": {
+    "asset": 1649642363391,
+    "meta": 1649642363922,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC得分結算_13.png"
+  },
+  "05f2ac2b-09d6-4d4e-b6c8-fdf7858b639f": {
+    "asset": 1649642363390,
+    "meta": 1649642363933,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC得分結算_19.png"
+  },
+  "ffad1d89-a6f3-4cc7-8527-3ce27d36f109": {
+    "asset": 1652952233288,
+    "meta": 1653012353809,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者"
+  },
+  "7540d698-1c67-4abb-b1f6-1a40cfcafe6b": {
+    "asset": 1649642363390,
+    "meta": 1649642363936,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC得分結算_30.png"
+  },
+  "f1c0c35c-0a30-4e61-a018-ffe8be121c01": {
+    "asset": 1649642363389,
+    "meta": 1649642363947,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\叉叉.png"
+  },
+  "c4a0dd91-2610-4ee8-91e3-33ebef57b714": {
+    "asset": 1649642363389,
+    "meta": 1649642363948,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\六角框手機.png"
+  },
+  "b78830f5-00ed-41a9-85c4-9eea3615e8dd": {
+    "asset": 1649642363389,
+    "meta": 1649642363958,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\六角框Red手機.png"
+  },
+  "976793c0-af4b-418a-a8c3-c6c5a7047b25": {
+    "asset": 1649642363389,
+    "meta": 1649642363960,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\紅光暈.png"
+  },
+  "d3674e16-68e0-43e5-bfaf-83550bf12c46": {
+    "asset": 1649642363389,
+    "meta": 1649642363970,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\紅色條.png"
+  },
+  "f5aa8e50-8720-495f-8261-e5276e7dd733": {
+    "asset": 1649642363389,
+    "meta": 1649642363979,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\圈圈.png"
+  },
+  "392a4f4f-2ae6-48ac-938c-04a73ede535e": {
+    "asset": 1649642363397,
+    "meta": 1649642364009,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\背景手機.jpg"
+  },
+  "1f3a7774-4281-4584-9885-7f4608bf8ba1": {
+    "asset": 1649642363390,
+    "meta": 1649642364013,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\選項藍色條.png"
+  },
+  "c4f77c6f-5352-4549-98c6-2184c73965d7": {
+    "asset": 1649642363389,
+    "meta": 1649642364024,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\藍光暈.png"
+  },
+  "7e101949-297f-46c9-b8f7-3216c6519744": {
+    "asset": 1649642363461,
+    "meta": 1649642364026,
+    "relativePath": "4._Q&A\\圖片\\輸出\\通用"
+  },
+  "90d6ab84-e132-4101-8d4d-8e8f80398dfd": {
+    "asset": 1649642363389,
+    "meta": 1649642364028,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\藍色條.png"
+  },
+  "7fd130eb-6231-4883-8074-c638b4e079c0": {
+    "asset": 1649642363390,
+    "meta": 1649642364044,
+    "relativePath": "4._Q&A\\圖片\\輸出\\通用\\第一名.png"
+  },
+  "74811f6f-552a-4c2d-970a-be9cdcfc9e80": {
+    "asset": 1649642363390,
+    "meta": 1649642364046,
+    "relativePath": "4._Q&A\\圖片\\輸出\\通用\\第二名.png"
+  },
+  "f247b926-3684-418f-b88f-55807d2fef50": {
+    "asset": 1649642363390,
+    "meta": 1649642364057,
+    "relativePath": "4._Q&A\\圖片\\輸出\\通用\\第三名.png"
+  },
+  "5c5a2887-7a91-42bf-8660-5da899c2e82a": {
+    "asset": 1649642363465,
+    "meta": 1649642364058,
+    "relativePath": "4._Q&A\\圖片\\輸出\\數字"
+  },
+  "31c8e633-283b-42bd-8910-5c603772e8f7": {
+    "asset": 1649642363393,
+    "meta": 1649642364062,
+    "relativePath": "4._Q&A\\圖片\\輸出\\通用\\Logo.png"
+  },
+  "c2ced7aa-7abb-439b-9eb5-8716a4c503a1": {
+    "asset": 1649642363394,
+    "meta": 1649642364071,
+    "relativePath": "4._Q&A\\圖片\\輸出\\數字\\名次數字.png"
+  },
+  "43778264-223b-4329-b703-bdc73b2992b1": {
+    "asset": 1649642363392,
+    "meta": 1649642364076,
+    "relativePath": "4._Q&A\\圖片\\輸出\\數字\\倒數數字.png"
+  },
+  "563efa61-f4dc-48cf-95ce-a2c50a83f9ce": {
+    "asset": 1649642363395,
+    "meta": 1649642364085,
+    "relativePath": "4._Q&A\\圖片\\輸出\\數字\\倒數數字Red.png"
+  },
+  "c01a63bc-ba17-495e-90f1-c20014c384b7": {
+    "asset": 1649648814725,
+    "meta": 1649648814727,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC"
+  },
+  "bbf85eaa-ee69-476e-8890-fa0106ecd942": {
+    "asset": 1649648814720,
+    "meta": 1649648814744,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC\\A.png"
+  },
+  "a26c31ee-40ee-415b-9f65-ce5d56bf043f": {
+    "asset": 1649648814720,
+    "meta": 1649648814747,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC\\B.png"
+  },
+  "cb6bc822-9092-4f6d-91d4-35c170413dc5": {
+    "asset": 1649648814720,
+    "meta": 1649648814759,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC\\D.png"
+  },
+  "bdf5406f-f73b-4883-bfc7-4af06d3998ec": {
+    "asset": 1649648814720,
+    "meta": 1649648814761,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC\\C.png"
+  },
+  "091dc1f8-1ed9-41ea-9d77-790f58525530": {
+    "asset": 1649748071665,
+    "meta": 1649812388668,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\手機"
+  },
+  "a910994b-4740-4051-b833-6e08f9ee3563": {
+    "asset": 1649648828483,
+    "meta": 1649748071687,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\手機\\CRed.png"
+  },
+  "e7fe9622-f83b-4ef5-80a8-4e42030fe493": {
+    "asset": 1649648828480,
+    "meta": 1649648828507,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\手機\\A.png"
+  },
+  "3d2ae4c1-138e-4eca-b276-e7250d41b2d6": {
+    "asset": 1649648828480,
+    "meta": 1649648828519,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\手機\\ARed.png"
+  },
+  "77733fa6-038d-47e4-9431-958b1c190a4e": {
+    "asset": 1649648828480,
+    "meta": 1649648828521,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\手機\\B.png"
+  },
+  "55bea026-affa-4c70-8b3f-ad94d87e88b4": {
+    "asset": 1649648828480,
+    "meta": 1649648828533,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\手機\\C.png"
+  },
+  "7c86340e-aaa4-4f72-92ca-841e362ea8b5": {
+    "asset": 1649648828480,
+    "meta": 1649648828535,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\手機\\BRed.png"
+  },
+  "6eb86423-d88b-4fd6-9b46-6c1800ddbf99": {
+    "asset": 1649648828480,
+    "meta": 1649648828549,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\手機\\D.png"
+  },
+  "217e0a75-24cf-41fe-bc12-453aa2a428c6": {
+    "asset": 1649648828480,
+    "meta": 1649648828551,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\手機\\DRed.png"
+  },
+  "87e709af-9959-4462-a2d0-665c68b27d11": {
+    "asset": 1649665074839,
+    "meta": 1649665074855,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\按鈕.png"
+  },
+  "ad2c1fc3-0831-4f45-8900-abc697a5c7ff": {
+    "asset": 1649666828551,
+    "meta": 1649666899316,
+    "relativePath": "共用模塊\\ColorString.js"
+  },
+  "7b4a11ec-87cf-4d78-819f-e794822f5110": {
+    "asset": 1649746068403,
+    "meta": 1649746071214,
+    "relativePath": "4._Q&A\\程式碼\\Host3_ShowWinner.js"
+  },
+  "c2bd3c14-a999-43b0-8c0c-eaff87d056b9": {
+    "asset": 1649749557228,
+    "meta": 1649749569372,
+    "relativePath": "4._Q&A\\程式碼\\Guest1_WaitingForQuestion.js"
+  },
+  "e2eaea3b-2c92-4a29-a4ee-adcc919e2a43": {
+    "asset": 1649749615176,
+    "meta": 1649749615200,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\上方.png"
+  },
+  "79d6d461-05be-43c3-b287-a1a12341f3f5": {
+    "asset": 1649749615176,
+    "meta": 1649749615202,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\Loding小圖.png"
+  },
+  "d675b698-18f0-463a-a98d-8e8ceea717e8": {
+    "asset": 1649745989851,
+    "meta": 1649812853866,
+    "relativePath": "4._Q&A\\程式碼\\Host3_RankRecordItem.js"
+  },
+  "18d75002-02c1-44ec-ab49-32640cd2a0a3": {
+    "asset": 1652424015312,
+    "meta": 1652661498873,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\共用"
+  },
+  "45535acc-4125-4194-9d77-0fd74e9b58bd": {
+    "asset": 1649814448416,
+    "meta": 1649814448514,
+    "relativePath": "5_lottery\\共同圖片\\得獎_叉叉.png"
+  },
+  "08252d64-9ea6-41c3-a30f-19efdc0e2185": {
+    "asset": 1649814448416,
+    "meta": 1649814448532,
+    "relativePath": "5_lottery\\共同圖片\\得獎懸浮窗_06.png"
+  },
+  "4ceae31e-e68e-4908-935b-95ab5dad90cf": {
+    "asset": 1649814448419,
+    "meta": 1649814448541,
+    "relativePath": "5_lottery\\共同圖片\\得獎_中央圖標.png"
+  },
+  "c482864d-0a37-4a50-846b-81732cf65425": {
+    "asset": 1649814448416,
+    "meta": 1649814448555,
+    "relativePath": "5_lottery\\共同圖片\\得獎懸浮窗.png"
+  },
+  "4e5694fd-3fcd-4dc1-acea-58300343df01": {
+    "asset": 1649814448420,
+    "meta": 1649814448603,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\共用\\輪盤_內.png"
+  },
+  "c4bbbc28-d280-4de5-91d6-44b944188bf1": {
+    "asset": 1649814448423,
+    "meta": 1649814448615,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\共用\\輪盤_外.png"
+  },
+  "a78641fe-091b-4b9c-8f01-d8d99b80c44d": {
+    "asset": 1649815627067,
+    "meta": 1649817917266,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人"
+  },
+  "11313a2f-4942-429b-aac1-2da215cd3d0b": {
+    "asset": 1649814448415,
+    "meta": 1649814448657,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\下拉選單_三角形.png"
+  },
+  "56a92ad7-8b9a-437b-bc46-e4384182fc6d": {
+    "asset": 1649814448415,
+    "meta": 1649814448673,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\下拉選單_拉開後.png"
+  },
+  "5910a5d6-fd9a-42d7-abf1-d9f575105e3d": {
+    "asset": 1649814448415,
+    "meta": 1649814448675,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\下拉選單_拉開選中.png"
+  },
+  "822461c5-d058-42d5-a52b-20e73c096e5c": {
+    "asset": 1649814448415,
+    "meta": 1649814448686,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\下拉選單_縮放前.png"
+  },
+  "60bf5a44-9c57-4eb6-858b-98fe169b1933": {
+    "asset": 1649814448415,
+    "meta": 1649814448706,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\名單區.png"
+  },
+  "af95e8bc-f8b3-45c8-ad39-e6339f268c57": {
+    "asset": 1649814448417,
+    "meta": 1649814448725,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\版面_02.png"
+  },
+  "203009f8-eb23-4e03-950e-9cd5f0815bd4": {
+    "asset": 1649814448415,
+    "meta": 1649814448736,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\版面_07.png"
+  },
+  "db7941e1-6ab9-4ba3-acc2-adad67fff490": {
+    "asset": 1649814448415,
+    "meta": 1649814448761,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\半透明黑窗.png"
+  },
+  "bd63c94d-35d8-499f-85db-fff9cca5f349": {
+    "asset": 1649814448415,
+    "meta": 1649814448776,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\清單框.png"
+  },
+  "ed257a59-55b6-4666-8255-3739f1a1ebf4": {
+    "asset": 1649814448415,
+    "meta": 1649814448802,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\規則區.png"
+  },
+  "ebe23a69-2967-4440-8be4-8fbe706aa5c6": {
+    "asset": 1649814448424,
+    "meta": 1649814448834,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\星空.jpg"
+  },
+  "5c5eb318-b2ee-45c3-94ab-1d1fbb105d90": {
+    "asset": 1649814448418,
+    "meta": 1649814448864,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\輪盤_內.png"
+  },
+  "3e045b1b-8261-4437-815d-9774e919d3e6": {
+    "asset": 1652424374970,
+    "meta": 1652661498874,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\參加者"
+  },
+  "0f4037bd-3909-4fdf-aa79-8816eff459d3": {
+    "asset": 1649814448416,
+    "meta": 1649815675897,
+    "relativePath": "5_lottery\\共同圖片\\手機下裝飾.png"
+  },
+  "a6f58ae0-a22b-4aee-bf3a-eadf62290cf2": {
+    "asset": 1649814448422,
+    "meta": 1649814448900,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\輪盤_外.png"
+  },
+  "b376cc2b-0caa-487c-9597-6c9a22d8fa8d": {
+    "asset": 1649814448416,
+    "meta": 1649814448918,
+    "relativePath": "5_lottery\\共同圖片\\手機黑文字框.png"
+  },
+  "9f102650-9662-4447-86fc-c40723b3bcb2": {
+    "asset": 1649814448427,
+    "meta": 1649814448945,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\參加者\\手機板面.jpg"
+  },
+  "cc45666b-6a1e-4d74-93de-97bc4a5148cf": {
+    "asset": 1649814448415,
+    "meta": 1649814448966,
+    "relativePath": "5_lottery\\共同圖片\\半透明黑框.png"
+  },
+  "8d1c156d-71a6-4e3a-8307-e932a9880dc7": {
+    "asset": 1649814448422,
+    "meta": 1649814448970,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\參加者\\標題框.png"
+  },
+  "0834bd42-a0f9-453a-9822-92c78b5401ee": {
+    "asset": 1649814448416,
+    "meta": 1649814448987,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\參加者\\箭頭.png"
+  },
+  "9c29aa75-2909-44ef-b650-ad645d17c1f1": {
+    "asset": 1649814448422,
+    "meta": 1649814449032,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\參加者\\輪盤內圈.png"
+  },
+  "94fcda6b-9c6a-45d7-b98c-a656d7809f5d": {
+    "asset": 1649814448425,
+    "meta": 1649814449046,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\參加者\\輪盤外圈.png"
+  },
+  "7abd493a-bc99-4825-aa91-e470a81ddadc": {
+    "asset": 1649814448416,
+    "meta": 1649814449049,
+    "relativePath": "5_lottery\\共同圖片\\機會記錄版.png"
+  },
+  "fa3d4512-feaf-4046-a56e-2105f42f91a5": {
+    "asset": 1649814448415,
+    "meta": 1649814449062,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\參加者\\go小圖標 (2).png"
+  },
+  "178bfde2-a532-4bd8-9dea-8c678a03b76a": {
+    "asset": 1649814448415,
+    "meta": 1649814449064,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\參加者\\go按鈕.png"
+  },
+  "e01b6839-81d1-4c8d-b79a-bf1adb178956": {
+    "asset": 1649814690402,
+    "meta": 1649814690423,
+    "relativePath": "5_lottery\\共同圖片\\禮物外框.png"
+  },
+  "0b80cf62-90b5-4ec2-b269-9ea4878455b5": {
+    "asset": 1649815188850,
+    "meta": 1649815188866,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\主持人\\標題.png"
+  },
+  "6cbeef6e-df25-493d-985e-77de319d5439": {
+    "asset": 1650945479696,
+    "meta": 1651021278044,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖"
+  },
+  "504d3af1-6f76-4586-b925-5311c12eb470": {
+    "asset": 1649817942130,
+    "meta": 1649817942169,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\共用\\扇形.png"
+  },
+  "b5931b02-778e-4e7c-8118-246f6250bdd6": {
+    "asset": 1649814448432,
+    "meta": 1649822558426,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\數字"
+  },
+  "f433dcb9-177f-4f85-9064-86fe29fd77a2": {
+    "asset": 1649814448419,
+    "meta": 1649822558469,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\數字\\金色數字01.png"
+  },
+  "17b471e4-4ce2-4b91-a1bf-fb33594af8d9": {
+    "asset": 1649838058264,
+    "meta": 1649838070962,
+    "relativePath": "共用模塊\\Host1_Begin.js"
+  },
+  "e7841175-8b24-4ff3-94fa-f76bfe40e116": {
+    "asset": 1649904797415,
+    "meta": 1649904797437,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出_外框"
+  },
+  "1a869360-96a8-4431-9884-584b1886637e": {
+    "asset": 1649904797402,
+    "meta": 1649904797557,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出_外框\\Light.json"
+  },
+  "a09313fc-228a-4236-8b63-86dbf9e9f2e0": {
+    "asset": 1649904797402,
+    "meta": 1649904797444,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出_外框\\Light.atlas"
+  },
+  "e70e5da0-9c9b-43f0-a6cb-b71863cce642": {
+    "asset": 1649904797404,
+    "meta": 1649904797471,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出_外框\\Light.png"
+  },
+  "8ae9fddf-82bf-4211-b15c-b3cdf50edceb": {
+    "asset": 1650955657411,
+    "meta": 1651021278045,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出"
+  },
+  "a3aa64f6-e9cc-46de-b7de-7beab39b3ba2": {
+    "asset": 1652424408668,
+    "meta": 1652424408674,
+    "relativePath": "5_lottery\\RoleConfirm_lottery.fire"
+  },
+  "07a9c53d-50a4-4731-af9d-9b4afccf1e29": {
+    "asset": 1651048545447,
+    "meta": 1651048545453,
+    "relativePath": "5_lottery\\預置物\\獎品記錄清單框 .prefab"
+  },
+  "613f4420-867b-4a62-89fc-931c01f6f047": {
+    "asset": 1650857514211,
+    "meta": 1650857516640,
+    "relativePath": "5_lottery\\程式\\Host1_Congratulations.js"
+  },
+  "758979e1-7502-4215-9532-455326897404": {
+    "asset": 1650945938505,
+    "meta": 1650945938816,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Title.atlas"
+  },
+  "294dbb49-213b-4f68-bbe1-8007469b1df2": {
+    "asset": 1650945938505,
+    "meta": 1650945938822,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Arrow.atlas"
+  },
+  "e249047a-dd0e-4292-b5b7-03ce4da6c3f6": {
+    "asset": 1650945938505,
+    "meta": 1650945938938,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Title.json"
+  },
+  "b3f177ac-1c04-493a-a21a-929ebc2c5ce5": {
+    "asset": 1650945938505,
+    "meta": 1650945938828,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Light(EX).atlas"
+  },
+  "2348cc5b-f646-4e11-b8da-09e18c25ecec": {
+    "asset": 1650945938505,
+    "meta": 1650945938834,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Arrow.png"
+  },
+  "d9c3436a-6a9f-4785-93bf-d1bce6c6815a": {
+    "asset": 1650945938505,
+    "meta": 1650945938837,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Light.atlas"
+  },
+  "79cea919-48ef-4f72-aba2-9bfa3d83904f": {
+    "asset": 1650945938505,
+    "meta": 1650945938944,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Arrow.json"
+  },
+  "f249243d-aa79-4cd2-94d1-d30e4240a132": {
+    "asset": 1650945938505,
+    "meta": 1650945938841,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Light(EX).png"
+  },
+  "0a83570e-6999-48aa-8e79-9d2c6fb01fcb": {
+    "asset": 1650945938505,
+    "meta": 1650945938851,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Light.png"
+  },
+  "d3345bd6-c2cc-49ae-a24c-bc4f7a8b68a6": {
+    "asset": 1650945938505,
+    "meta": 1650945938947,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Light.json"
+  },
+  "2fa09543-b903-4b07-beaf-de59301ccdc5": {
+    "asset": 1650945938505,
+    "meta": 1650945938853,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Title.png"
+  },
+  "967b7eb7-cba0-4814-a88a-522054b28d85": {
+    "asset": 1650945938505,
+    "meta": 1650945938858,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\LightIO.atlas"
+  },
+  "3d35188f-9190-4058-99e0-2f0f935e519a": {
+    "asset": 1650945938505,
+    "meta": 1650945938953,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\LightIO.json"
+  },
+  "20c0c82c-619f-4060-8469-2a3ea3009b91": {
+    "asset": 1650945938505,
+    "meta": 1650945938861,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Plate_In.atlas"
+  },
+  "5ef5f131-d6be-4312-bd1f-549b65258a3d": {
+    "asset": 1650945938505,
+    "meta": 1650945938955,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Plate_In.json"
+  },
+  "6c309094-c8a7-4201-9b1c-c68d3706e7ac": {
+    "asset": 1650945938505,
+    "meta": 1650945938961,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Light(EX).json"
+  },
+  "ccd75651-ddc3-4fbc-afae-7b217bac1767": {
+    "asset": 1650945938505,
+    "meta": 1650945938868,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Plate_Out.atlas"
+  },
+  "0180be7d-e71c-480c-8d5b-2be924b936d6": {
+    "asset": 1650945938505,
+    "meta": 1650945938964,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Plate_Out.json"
+  },
+  "b251198a-c559-4f33-a0e2-49afac3625f1": {
+    "asset": 1650945938507,
+    "meta": 1650945938882,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Plate_In.png"
+  },
+  "880d6d14-d3c8-43ed-8d0b-d60988350582": {
+    "asset": 1650945938507,
+    "meta": 1650945938886,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Plate_Out.png"
+  },
+  "a68e2802-b274-4cd6-b4c6-c0409e7f36e8": {
+    "asset": 1650945938510,
+    "meta": 1650945938929,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\LightIO.png"
+  },
+  "14386095-414c-4e71-a65c-6b0148bedbff": {
+    "asset": 1650955657414,
+    "meta": 1650955657479,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Steam.atlas"
+  },
+  "570e5d4e-a7d9-4813-bfc4-b31abf11636c": {
+    "asset": 1650955657414,
+    "meta": 1650955657495,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Steam.png"
+  },
+  "8426c4d7-e6fc-488b-924d-bbb81bd2e430": {
+    "asset": 1650955657416,
+    "meta": 1650955657499,
+    "relativePath": "5_lottery\\1_幸運輪盤\\動圖\\匯出\\Steam.json"
+  },
+  "4b00858c-3f9f-45bc-85f4-1db000c1d5e5": {
+    "asset": 1650958475003,
+    "meta": 1650958524346,
+    "relativePath": "共用模塊\\RoleConfirm.js"
+  },
+  "c0026eb2-3f81-4e4b-aff2-4c5482712ca2": {
+    "asset": 1651026749242,
+    "meta": 1651026765431,
+    "relativePath": "5_lottery\\音效\\背景音樂.mp3"
+  },
+  "41eb46aa-3da7-44ee-8d5f-3ecfbd8ce0a8": {
+    "asset": 1651546010459,
+    "meta": 1651643213676,
+    "relativePath": "5_lottery\\音效"
+  },
+  "f1250e52-1988-4ecd-b71c-b163e13c06e6": {
+    "asset": 1651030115449,
+    "meta": 1651030115815,
+    "relativePath": "5_lottery\\音效\\持續轉.wav"
+  },
+  "712e3df3-c109-40b0-a4d3-31814cc41b0d": {
+    "asset": 1651030115450,
+    "meta": 1651030115821,
+    "relativePath": "5_lottery\\音效\\開始轉.wav"
+  },
+  "7a0043ca-ab02-475a-9a6f-a707bfd110d9": {
+    "asset": 1651030115451,
+    "meta": 1651030115827,
+    "relativePath": "5_lottery\\音效\\結束轉.wav"
+  },
+  "cdbbc328-12a2-4f0f-8bc4-306d515160e9": {
+    "asset": 1651038890529,
+    "meta": 1651038896642,
+    "relativePath": "5_lottery\\音效\\輪盤壞掉.mp3"
+  },
+  "ef5a369e-affc-4d9a-991b-c08fbc01da90": {
+    "asset": 1651040069100,
+    "meta": 1651040089125,
+    "relativePath": "5_lottery\\音效\\頭獎音效.mp3"
+  },
+  "d63e0c60-1079-4959-8128-ff832392d5dc": {
+    "asset": 1651042623874,
+    "meta": 1651042624381,
+    "relativePath": "5_lottery\\音效\\獎品跳出.mp3"
+  },
+  "8de33c8a-96c6-4bbc-bc94-ae5135ed9b97": {
+    "asset": 1651042623874,
+    "meta": 1651042624383,
+    "relativePath": "5_lottery\\音效\\一般中獎.mp3"
+  },
+  "844cfb92-6477-400d-8730-65f1224c3bcb": {
+    "asset": 1651042623874,
+    "meta": 1651042624389,
+    "relativePath": "5_lottery\\音效\\二獎.mp3"
+  },
+  "cf736ff0-4530-4cd2-bbfe-9e1706cb375c": {
+    "asset": 1651042623874,
+    "meta": 1651042624391,
+    "relativePath": "5_lottery\\音效\\三獎.mp3"
+  },
+  "3093de10-5b1e-4d10-9fd7-17f6855b8785": {
+    "asset": 1651042623874,
+    "meta": 1651042624396,
+    "relativePath": "5_lottery\\音效\\失敗.mp3"
+  },
+  "ae980c9c-0f48-4ede-91c4-7c12b333babd": {
+    "asset": 1651043407578,
+    "meta": 1651043407598,
+    "relativePath": "5_lottery\\共同圖片\\哭臉.png"
+  },
+  "0327615b-c3cf-423d-88d5-8e40c82d2c26": {
+    "asset": 1651131608964,
+    "meta": 1651134365691,
+    "relativePath": "共用模塊\\Host3_ShowNewWinner_Score.js"
+  },
+  "fe1ca64c-ec98-490c-8dde-e871373f6963": {
+    "asset": 1651194597749,
+    "meta": 1651194597763,
+    "relativePath": "5_lottery\\1_幸運輪盤\\圖片\\參加者\\上方小標.png"
+  },
+  "7772b243-ceb0-43bd-84f6-5fdb1b0fc2fa": {
+    "asset": 1652423958371,
+    "meta": 1652661498872,
+    "relativePath": "5_lottery\\1_幸運輪盤"
+  },
+  "03e2f402-a140-4829-893d-f55647a32bc4": {
+    "asset": 1652665212885,
+    "meta": 1652665212893,
+    "relativePath": "5_lottery\\Host1_Jiugongge.fire"
+  },
+  "7d1bd7eb-cba9-46e1-bfe8-7a33badbfaf5": {
+    "asset": 1652324588974,
+    "meta": 1652406746746,
+    "relativePath": "5_lottery\\2_九宮格"
+  },
+  "75380d74-f26b-4c14-8410-a61bc1b8d21e": {
+    "asset": 1651203936217,
+    "meta": 1651540632925,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\共用"
+  },
+  "d7b31e28-829a-4e9d-98b5-f2ec503237ff": {
+    "asset": 1651194997247,
+    "meta": 1651194997289,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\共用\\九宮格亮.png"
+  },
+  "37cef015-e4c9-493b-b189-fed36c26c334": {
+    "asset": 1651194997250,
+    "meta": 1651194997327,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\共用\\木框.png"
+  },
+  "35103ecd-bd63-4817-b76f-cba8adb145f9": {
+    "asset": 1651194997249,
+    "meta": 1651194997335,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\共用\\外框.png"
+  },
+  "12d1b430-1a58-4325-823e-8164d6b3ca4f": {
+    "asset": 1651194997247,
+    "meta": 1651194997352,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\共用\\參加者_04.png"
+  },
+  "5e2f7075-46fe-437b-97a3-651ff97229a6": {
+    "asset": 1651194997250,
+    "meta": 1651194997376,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\共用\\獎品光環.png"
+  },
+  "8c0ba20a-729c-41b1-8efd-34b23bf285ed": {
+    "asset": 1651194997247,
+    "meta": 1651194997387,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\共用\\Go按鈕背景.png"
+  },
+  "16e1bf4e-df81-4e01-89b4-41648275df01": {
+    "asset": 1651194997268,
+    "meta": 1651194997388,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\參加者"
+  },
+  "ece3a270-52d8-4ec5-a9ef-961a283b8695": {
+    "asset": 1651194997248,
+    "meta": 1651194997402,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\參加者\\上方小標.png"
+  },
+  "ed4b8258-6568-4be1-bc8a-e69d564d3d40": {
+    "asset": 1651194997247,
+    "meta": 1651194997411,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\參加者\\Go按鈕.png"
+  },
+  "2ce07171-19b5-4164-87f3-b2beacb22ff6": {
+    "asset": 1652420460757,
+    "meta": 1651196378629,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\主持人"
+  },
+  "e290520a-8654-4646-885d-f3d041b2b806": {
+    "asset": 1651194997252,
+    "meta": 1651194997441,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\參加者\\參加者.jpg"
+  },
+  "1e138b1d-99f4-44aa-a6a1-7f6593601a32": {
+    "asset": 1651194997252,
+    "meta": 1651194997500,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\主持人\\主持人.jpg"
+  },
+  "b9069ea3-484f-4dfb-b4df-c825b7a8bbd7": {
+    "asset": 1651195263409,
+    "meta": 1651196378628,
+    "relativePath": "5_lottery\\2_九宮格\\圖片"
+  },
+  "2eac442e-e813-4a74-bd92-3c22ed9f68fa": {
+    "asset": 1651195667739,
+    "meta": 1651195667775,
+    "relativePath": "5_lottery\\2_九宮格\\圖片\\主持人\\寶石框.png"
+  },
+  "7d592dff-5ae6-4e6e-a9a0-61fe95ae7970": {
+    "asset": 1652662666489,
+    "meta": 1652662666500,
+    "relativePath": "5_lottery\\Guest1_Jiugongge.fire"
+  },
+  "e9180d44-1608-4d59-b1e9-9c7b64bcc8a0": {
+    "asset": 1651546002372,
+    "meta": 1651546010896,
+    "relativePath": "5_lottery\\音效\\跑格子.mp3"
+  },
+  "84e89fd8-c749-4ff1-95dc-b56394688785": {
+    "asset": 1652947229291,
+    "meta": 1653012353804,
+    "relativePath": "4._Q&A\\音效"
+  },
+  "b68e747a-7024-44b9-8659-830bc7e83fb7": {
+    "asset": 1652152761111,
+    "meta": 1652152761117,
+    "relativePath": "Guest_Prize.fire"
+  },
+  "9ed2f667-d5a7-4dea-b451-79d8ba3cfd4d": {
+    "asset": 1651732373245,
+    "meta": 1651737390176,
+    "relativePath": "共用圖片\\查看獎品"
+  },
+  "8f06590a-3b76-4c8d-9fb4-5ef65b0b1c68": {
+    "asset": 1651718138203,
+    "meta": 1651718224869,
+    "relativePath": "共用模塊\\Guest1_ConfirmDeviceMotionEvent.js"
+  },
+  "bb6f1aa7-3fa8-4965-b357-2f871836592b": {
+    "asset": 1651718416424,
+    "meta": 1651718433009,
+    "relativePath": "共用模塊\\Guest1_JoinGame.js"
+  },
+  "056dea85-3871-48b7-a80d-7dc81bb628c9": {
+    "asset": 1651718667561,
+    "meta": 1651718667678,
+    "relativePath": "共用圖片\\查看獎品\\兌換說明.png"
+  },
+  "1bc9c39d-2e52-468d-8245-16e5933306e0": {
+    "asset": 1651718667561,
+    "meta": 1651718667680,
+    "relativePath": "共用圖片\\查看獎品\\小標題.png"
+  },
+  "60e42fdf-06c0-4a56-8831-20b4e1351f0c": {
+    "asset": 1651718667561,
+    "meta": 1651718667704,
+    "relativePath": "共用圖片\\查看獎品\\新兌獎_03.png"
+  },
+  "5acc1ef3-851e-4e0e-80c5-12329244d20e": {
+    "asset": 1651718667562,
+    "meta": 1651718667727,
+    "relativePath": "共用圖片\\查看獎品\\下背景.png"
+  },
+  "8be889bc-c4d5-496c-876f-3dc25709cc75": {
+    "asset": 1651718667562,
+    "meta": 1651718667730,
+    "relativePath": "共用圖片\\查看獎品\\標題.png"
+  },
+  "49d34572-af32-4785-a4b4-c3c3e01c3ac4": {
+    "asset": 1651718667560,
+    "meta": 1651718667770,
+    "relativePath": "共用圖片\\查看獎品\\您已中獎.png"
+  },
+  "556291c6-7c39-43fa-8750-7527e6d0f166": {
+    "asset": 1651718667561,
+    "meta": 1651718667772,
+    "relativePath": "共用圖片\\查看獎品\\等主持人.png"
+  },
+  "f0c9e68f-6698-44fb-a09a-e19a11878fc3": {
+    "asset": 1651719031509,
+    "meta": 1651719031540,
+    "relativePath": "共用圖片\\查看獎品\\選項底.png"
+  },
+  "23d90b0d-4704-4dd0-be7c-b597fba4e873": {
+    "asset": 1651732974465,
+    "meta": 1651732974470,
+    "relativePath": "共用預置物\\玩家獎項.prefab"
+  },
+  "e7bd71bb-aee5-4ed4-be95-33a73e9dda9b": {
+    "asset": 1651722357164,
+    "meta": 1651722636513,
+    "relativePath": "共用模塊\\Model.js"
+  },
+  "17cea416-84d6-443b-9189-2a8bc8fccde7": {
+    "asset": 1651732373249,
+    "meta": 1651732373299,
+    "relativePath": "共用圖片\\查看獎品\\背景.png"
+  },
+  "82af1cd0-7beb-44c1-82f1-183688c13a3e": {
+    "asset": 1651737807645,
+    "meta": 1651801591679,
+    "relativePath": "1_redpack\\圖片\\主持人"
+  },
+  "6eeca58b-fa77-4807-83f2-41a238623432": {
+    "asset": 1651736311940,
+    "meta": 1651737390172,
+    "relativePath": "2_ropepack\\圖片\\數字"
+  },
+  "c2545e91-a86b-4456-9706-6a0a1bf82e5e": {
+    "asset": 1652235243498,
+    "meta": 1652235243504,
+    "relativePath": "1_redpack\\Host4_Last.fire"
+  },
+  "bc7fdeaf-a6a9-4376-8945-625ac4425aa3": {
+    "asset": 1651737598996,
+    "meta": 1651737599003,
+    "relativePath": "1_redpack\\預置物\\紅包.prefab"
+  },
+  "4b207eef-370d-439b-8dfd-b7a6996d9d0c": {
+    "asset": 1651737998363,
+    "meta": 1651801591683,
+    "relativePath": "共用圖片\\進入遊戲中請稍後字"
+  },
+  "d6a7b91d-0493-473f-b5e6-c4b5f20c0c52": {
+    "asset": 1651824140749,
+    "meta": 1652057219327,
+    "relativePath": "共用圖片\\得獎畫面"
+  },
+  "f0ce754f-bb35-49b5-a41b-86a435b3e2ee": {
+    "asset": 1651802525165,
+    "meta": 1651802525215,
+    "relativePath": "共用圖片\\透明黑背景.png"
+  },
+  "daee29ea-2fe2-4ebc-823e-d982d932aeca": {
+    "asset": 1651823394697,
+    "meta": 1651823394727,
+    "relativePath": "共用圖片\\得獎畫面\\小窗底.png"
+  },
+  "d8deafd0-1df7-45dd-aea8-f921f7e3e7d5": {
+    "asset": 1651824129463,
+    "meta": 1651824129481,
+    "relativePath": "共用圖片\\得獎畫面\\叉叉.png"
+  },
+  "42c34e59-ef57-4a7a-adbf-c0706ed12e90": {
+    "asset": 1652060456672,
+    "meta": 1652146085566,
+    "relativePath": "共用圖片\\得獎畫面\\動畫"
+  },
+  "db6e7f2b-0641-4c0d-8616-f55726ef5768": {
+    "asset": 1652060456676,
+    "meta": 1652060456724,
+    "relativePath": "共用圖片\\得獎畫面\\動畫\\skeleton.atlas"
+  },
+  "f5c90de6-27c4-47c9-8698-004a95b37850": {
+    "asset": 1652060456677,
+    "meta": 1652060456749,
+    "relativePath": "共用圖片\\得獎畫面\\動畫\\skeleton.png"
+  },
+  "89f0af19-0b0f-4232-9158-edcc71da2fc3": {
+    "asset": 1652060456676,
+    "meta": 1652060456756,
+    "relativePath": "共用圖片\\得獎畫面\\動畫\\skeleton.json"
+  },
+  "b83cee6f-6443-4672-9fc1-c77193918f77": {
+    "asset": 1652085539121,
+    "meta": 1652085567676,
+    "relativePath": "共用模塊\\Guest1_PrizeInformation.js"
+  },
+  "36c4ae3d-ad2b-4b7b-adff-a0f404a0762f": {
+    "asset": 1652085552911,
+    "meta": 1652085567704,
+    "relativePath": "共用模塊\\Guest5_Prize.js"
+  },
+  "bcb12697-88db-4d26-a0b9-221ae538c440": {
+    "asset": 1652174940015,
+    "meta": 1652175023155,
+    "relativePath": "2_ropepack\\遊戲模塊\\Guest4_CatchRedpacket.js"
+  },
+  "191030b5-0bc4-4e13-a204-aab4f0048f41": {
+    "asset": 1652175017392,
+    "meta": 1652175023179,
+    "relativePath": "共用模塊\\Guest4_GameCountDown_ShowTime.js"
+  },
+  "037ba4e2-f034-4ac2-8911-2c740417f506": {
+    "asset": 1652175011940,
+    "meta": 1652175023194,
+    "relativePath": "共用模塊\\Guest4_GameCountDown.js"
+  },
+  "34a39906-7722-4ba5-8fac-8660de6dfd9c": {
+    "asset": 1652234781922,
+    "meta": 1652235050512,
+    "relativePath": "共用模塊\\Guest5_PrizeRecordItem.js"
+  },
+  "7e8437ec-ba80-4058-b81d-dd2941f81a8c": {
+    "asset": 1652262582428,
+    "meta": 1652262582434,
+    "relativePath": "TEST\\test.fire"
+  },
+  "a2b9c6b4-0922-49cc-8343-c33cb379ef56": {
+    "asset": 1652238129013,
+    "meta": 1652238129479,
+    "relativePath": "4._Q&A\\音效\\問答遊戲公布答案音效.mp3"
+  },
+  "d2ebb676-8ebd-485d-bd8d-117df1263290": {
+    "asset": 1652238129016,
+    "meta": 1652238129484,
+    "relativePath": "4._Q&A\\音效\\問答遊戲題目場景.mp3"
+  },
+  "a0d90328-15d9-4af5-b766-5698718d356f": {
+    "asset": 1652238129020,
+    "meta": 1652238129613,
+    "relativePath": "4._Q&A\\音效\\問答遊戲結算場景.mp3"
+  },
+  "da4f5b1c-e27d-40f6-9cc3-c88218e96f64": {
+    "asset": 1652238129020,
+    "meta": 1652238129617,
+    "relativePath": "4._Q&A\\音效\\問答遊戲遊戲場景.mp3"
+  },
+  "9064db79-27ce-428b-976f-ebff6ddfe0c2": {
+    "asset": 1652238129052,
+    "meta": 1652947212438,
+    "relativePath": "共用音效\\遊戲秒數剩10秒.wav"
+  },
+  "58d98f96-b628-47b8-ac21-baff3f19369a": {
+    "asset": 1652253427110,
+    "meta": 1652253430596,
+    "relativePath": "TEST\\ani.js"
+  },
+  "e5d06d6f-054b-4bd1-b3a8-b7d4e148c161": {
+    "asset": 1652255345498,
+    "meta": 1652255345504,
+    "relativePath": "TEST\\B4BE802262.prefab"
+  },
+  "e012912a-59d0-4faf-a2fc-8bfa4c5b04c2": {
+    "asset": 1652317458865,
+    "meta": 1652317458921,
+    "relativePath": "TEST\\skeleton.atlas"
+  },
+  "ba7c18a1-a3c7-45a9-bb6f-60fab88b117b": {
+    "asset": 1652317458863,
+    "meta": 1652317458971,
+    "relativePath": "TEST\\skeleton.png"
+  },
+  "3e209ed6-0586-466f-97dd-dc58e4e8c153": {
+    "asset": 1652317458865,
+    "meta": 1652317458980,
+    "relativePath": "TEST\\skeleton.json"
+  },
+  "46fd7a2d-86bf-44d3-9d5f-c17fe710b9ba": {
+    "asset": 1652413672501,
+    "meta": 1652406746747,
+    "relativePath": "5_lottery\\2_九宮格\\動畫"
+  },
+  "409dca69-5055-4097-a6de-a63f74a38eb5": {
+    "asset": 1650620066849,
+    "meta": 1652326056694,
+    "relativePath": "5_lottery\\程式\\prizeInformation.js"
+  },
+  "a68f4b02-68c2-4d52-9af5-8feb29257a99": {
+    "asset": 1652343329163,
+    "meta": 1652343329205,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\lightning.atlas"
+  },
+  "ecf60b93-18f1-462d-b258-e9ce468f3ffc": {
+    "asset": 1652343329164,
+    "meta": 1652343329214,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\lightning.png"
+  },
+  "63cdbaaa-2a6c-4b23-8fc1-c517a2fe3fb4": {
+    "asset": 1652343329165,
+    "meta": 1652343329217,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\lightning.json"
+  },
+  "bc8cee6a-a483-4447-84f7-0d60771c08f0": {
+    "asset": 1652345853345,
+    "meta": 1652345853431,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\Title.atlas"
+  },
+  "c1613177-2168-47f0-a518-ef0e5389b8f2": {
+    "asset": 1652345853345,
+    "meta": 1652345853443,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\Main.atlas"
+  },
+  "18b1418f-adb3-42fa-ae07-515bdc30d950": {
+    "asset": 1652345853345,
+    "meta": 1652345853447,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\Title.png"
+  },
+  "e2ddb350-f664-4f38-b76c-4bb520227422": {
+    "asset": 1652345853345,
+    "meta": 1652345853498,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\Title.json"
+  },
+  "46929e0b-a6f5-4dd2-a0b1-a7808318b649": {
+    "asset": 1652345853349,
+    "meta": 1652345853490,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\Main.png"
+  },
+  "d6f285ac-fa19-4afc-a568-e9d02cf28ffb": {
+    "asset": 1652345853348,
+    "meta": 1652345853506,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\Main.json"
+  },
+  "eeb69f07-12b4-4824-a3a1-057ac781d3aa": {
+    "asset": 1652348807714,
+    "meta": 1652348906682,
+    "relativePath": "5_lottery\\程式\\Host1_WeelShowWinner.js"
+  },
+  "c10fe399-7ca9-48bb-8abb-54a086fc7b65": {
+    "asset": 1652349267426,
+    "meta": 1652349275328,
+    "relativePath": "5_lottery\\程式\\Host1_ComboBox.js"
+  },
+  "231fbe99-5563-4df7-8e2f-ed5d1d943c19": {
+    "asset": 1652410465886,
+    "meta": 1652410589938,
+    "relativePath": "5_lottery\\程式\\weel.js"
+  },
+  "6475e3f8-0821-4477-b392-f5e4638e19d2": {
+    "asset": 1652413672502,
+    "meta": 1652413672548,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\Go.atlas"
+  },
+  "597b1242-3ed1-4d94-8c81-91530182a3f0": {
+    "asset": 1652413672504,
+    "meta": 1652413672557,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\Go.png"
+  },
+  "99469e62-cb66-4e9f-b0a7-8c9adfc57825": {
+    "asset": 1652413672504,
+    "meta": 1652413672560,
+    "relativePath": "5_lottery\\2_九宮格\\動畫\\Go.json"
+  },
+  "0376d2e8-84ba-4345-a5ac-d6b2d9ec17d5": {
+    "asset": 1652424084147,
+    "meta": 1652661498875,
+    "relativePath": "5_lottery\\共同圖片"
+  },
+  "74974744-bb36-4bd6-8194-c4de886d6335": {
+    "asset": 1652423950697,
+    "meta": 1652423950715,
+    "relativePath": "5_lottery\\共同圖片\\讀取圖像.png"
+  },
+  "6d0ef467-b028-4ce8-9775-7809a7caf0d4": {
+    "asset": 1652690890640,
+    "meta": 1652690933698,
+    "relativePath": "TEST\\NewScript.js"
+  },
+  "1f984739-52ae-4a24-842c-9953c54acd9c": {
+    "asset": 1652774517830,
+    "meta": 1652774536650,
+    "relativePath": "5_lottery\\程式\\Jiugongge.js"
+  },
+  "3a369121-704b-4f18-954c-6692c27771ac": {
+    "asset": 1652942829407,
+    "meta": 1653012353805,
+    "relativePath": "4._Q&A\\動圖"
+  },
+  "0cfd2cd0-9b7c-46f3-a483-92ed2a994c4c": {
+    "asset": 1652843568651,
+    "meta": 1652843568678,
+    "relativePath": "4._Q&A\\動圖\\BackSmall.atlas"
+  },
+  "fbdacc56-eb9d-4a3d-adcc-5c9a9b08b192": {
+    "asset": 1652843568651,
+    "meta": 1652843568680,
+    "relativePath": "4._Q&A\\動圖\\Final_Light.atlas"
+  },
+  "9e0519ba-346a-4cda-9ee0-691d72b22fa3": {
+    "asset": 1652843568651,
+    "meta": 1652843568752,
+    "relativePath": "4._Q&A\\動圖\\BackSmall.json"
+  },
+  "e52f220d-a40f-4167-a804-2424b2900ee1": {
+    "asset": 1652843568651,
+    "meta": 1652843568750,
+    "relativePath": "4._Q&A\\動圖\\Final_Light.json"
+  },
+  "3269cddc-ee13-4482-b16c-20b3d3a0c06f": {
+    "asset": 1652843568651,
+    "meta": 1652843568695,
+    "relativePath": "4._Q&A\\動圖\\PCRank.atlas"
+  },
+  "fdfa6147-1098-4b65-ac70-81b74d104c77": {
+    "asset": 1652843568651,
+    "meta": 1652843568758,
+    "relativePath": "4._Q&A\\動圖\\PCRank.json"
+  },
+  "8b895bd8-b5c5-499f-81c7-f7fc5d58de90": {
+    "asset": 1652843568652,
+    "meta": 1652843568717,
+    "relativePath": "4._Q&A\\動圖\\Final_Light.png"
+  },
+  "01c4ff5c-4b83-47db-a6fb-a1b69c4a0268": {
+    "asset": 1652843568651,
+    "meta": 1652843568720,
+    "relativePath": "4._Q&A\\動圖\\BackSmall.png"
+  },
+  "e365d4e4-87b1-4e04-8abe-2c3b840836c6": {
+    "asset": 1652843568652,
+    "meta": 1652843568732,
+    "relativePath": "4._Q&A\\動圖\\PCRank.png"
+  },
+  "9d631c1a-f845-4696-8b1d-7367c8bc549e": {
+    "asset": 1652857133388,
+    "meta": 1652857133438,
+    "relativePath": "4._Q&A\\動圖\\PhoneQuestion.atlas"
+  },
+  "d5cee395-5a98-46ff-831c-06935b535e77": {
+    "asset": 1652857133391,
+    "meta": 1652857133446,
+    "relativePath": "4._Q&A\\動圖\\PhoneQuestion.png"
+  },
+  "3677f89f-d764-4e14-9a57-692705f01a72": {
+    "asset": 1652857133388,
+    "meta": 1652857133449,
+    "relativePath": "4._Q&A\\動圖\\PhoneQuestion.json"
+  },
+  "9d016b23-e3cb-409b-a930-8ae3517d69a4": {
+    "asset": 1652859943093,
+    "meta": 1652859943137,
+    "relativePath": "4._Q&A\\動圖\\PCQuestion.atlas"
+  },
+  "2c94a3dd-9f87-4bd7-9a70-c7866bf1f7b2": {
+    "asset": 1652859943095,
+    "meta": 1652859943145,
+    "relativePath": "4._Q&A\\動圖\\PCQuestion.png"
+  },
+  "01634841-a00b-418f-b8db-c14778df4dc3": {
+    "asset": 1652859943095,
+    "meta": 1652859943148,
+    "relativePath": "4._Q&A\\動圖\\PCQuestion.json"
+  },
+  "1a6c50f1-4bf7-45c8-b9e8-18c4c9cc6af6": {
+    "asset": 1652861214728,
+    "meta": 1652861214772,
+    "relativePath": "4._Q&A\\動圖\\Logo.atlas"
+  },
+  "c167e534-5313-4f85-9903-a00bf8e0fd75": {
+    "asset": 1652861214728,
+    "meta": 1652861214786,
+    "relativePath": "4._Q&A\\動圖\\Logo.png"
+  },
+  "e9dccd30-e16d-4fb7-abac-ac346d3cc0f2": {
+    "asset": 1652861214728,
+    "meta": 1652861214789,
+    "relativePath": "4._Q&A\\動圖\\Logo.json"
+  },
+  "cf56db11-aca6-484c-bfbe-c96e9657f8e7": {
+    "asset": 1652862395200,
+    "meta": 1652862396498,
+    "relativePath": "共用模塊\\Ani_Opacity_Bright.js"
+  },
+  "4c80cfd6-aba5-418f-91ec-de5a21b7d3d5": {
+    "asset": 1652942829411,
+    "meta": 1652942829456,
+    "relativePath": "4._Q&A\\動圖\\PhoneQuestionLight.atlas"
+  },
+  "63d84673-2ffa-4a1b-b340-795a74565480": {
+    "asset": 1652942829411,
+    "meta": 1652942829475,
+    "relativePath": "4._Q&A\\動圖\\PhoneQuestionLight.png"
+  },
+  "2c9ae917-f28f-4874-a1d1-022c5d5aa666": {
+    "asset": 1652942829411,
+    "meta": 1652942829479,
+    "relativePath": "4._Q&A\\動圖\\PhoneQuestionLight.json"
+  },
+  "dad249f0-192a-4b5e-8379-55d24ba76237": {
+    "asset": 1652944719049,
+    "meta": 1652944722648,
+    "relativePath": "4._Q&A\\程式碼\\Guest2_Game.js"
+  },
+  "699ff86c-2280-42fc-9e60-682f834785fe": {
+    "asset": 1652947229291,
+    "meta": 1653012353810,
+    "relativePath": "共用音效"
+  },
+  "a50acc2b-a034-49a9-aeda-e035c16c365c": {
+    "asset": 1652948174180,
+    "meta": 1652948174199,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC問題公布.png"
+  },
+  "91fa2f94-5a4d-41d5-9a24-390174943f96": {
+    "asset": 1652948174180,
+    "meta": 1652948174201,
+    "relativePath": "4._Q&A\\圖片\\輸出\\主持人\\PC問題公布hover.png"
+  },
+  "cc070b59-69b0-4f71-9837-7eed3a240811": {
+    "asset": 1652951695160,
+    "meta": 1652951705908,
+    "relativePath": "共用模塊\\Host3_GameTimeCountDown_competition.js"
+  },
+  "974088c6-446c-4439-bab3-9731cc914b04": {
+    "asset": 1652952224394,
+    "meta": 1652952224414,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\在.png"
+  },
+  "64364027-7924-4e81-9997-788c02ac7d52": {
+    "asset": 1652952224394,
+    "meta": 1652952224416,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\問.png"
+  },
+  "4775c8d1-0c29-4d75-a91d-1736e2356a37": {
+    "asset": 1652952224394,
+    "meta": 1652952224427,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\提.png"
+  },
+  "11ba92d6-8dfd-41ae-8dac-4e34c2fda441": {
+    "asset": 1652952224394,
+    "meta": 1652952224429,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\正.png"
+  },
+  "5ae134f2-feb3-4e63-8961-34f9b4a3fbf8": {
+    "asset": 1652952224396,
+    "meta": 1652952224439,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\。.png"
+  },
+  "10b9dc32-7a57-4740-ad18-205608695344": {
+    "asset": 1652952224396,
+    "meta": 1652952224440,
+    "relativePath": "4._Q&A\\圖片\\輸出\\參加者\\中.png"
+  },
+  "db8fe39c-ebdb-4709-bcd2-47940f97d9a6": {
+    "asset": 1653027854378,
+    "meta": 1653027856719,
+    "relativePath": "4._Q&A\\程式碼\\Host1_ShowQuestion.js"
+  },
+  "e75dbc72-3dd6-468b-9661-6b202dd39095": {
+    "asset": 1653277490156,
+    "meta": 1653277492645,
+    "relativePath": "4._Q&A\\程式碼\\Host2_Game.js"
+  },
+  "edcd5902-b1da-4aad-91fc-04996d436264": {
+    "asset": 1653277287528,
+    "meta": 1653277492671,
+    "relativePath": "共用模塊\\Host3_GameTimeCountDown.js"
+  }
+}

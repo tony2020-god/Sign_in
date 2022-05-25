@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "提問中",
+    "texture": "4f55abf1-1a46-4f5e-ad92-6bb01963e75f",
+    "atlas": "",
+    "rect": [
+      16,
+      11,
+      640,
+      145
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      672,
+      169
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

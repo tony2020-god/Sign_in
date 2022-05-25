@@ -1,0 +1,141 @@
+{
+  "__type__": "cc.LabelAtlas",
+  "_name": "玩家分數",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "8b26a556-92d9-482d-a9d6-403b617d43fb"
+  },
+  "fontSize": 92.4,
+  "_fntConfig": {
+    "commonHeight": 105,
+    "fontSize": 92,
+    "atlasName": "得分列表20-9",
+    "fontDefDictionary": {
+      "48": {
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 64,
+          "height": 105
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 64
+      },
+      "49": {
+        "rect": {
+          "x": 64,
+          "y": 0,
+          "width": 64,
+          "height": 105
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 64
+      },
+      "50": {
+        "rect": {
+          "x": 128,
+          "y": 0,
+          "width": 64,
+          "height": 105
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 64
+      },
+      "51": {
+        "rect": {
+          "x": 192,
+          "y": 0,
+          "width": 64,
+          "height": 105
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 64
+      },
+      "52": {
+        "rect": {
+          "x": 256,
+          "y": 0,
+          "width": 64,
+          "height": 105
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 64
+      },
+      "53": {
+        "rect": {
+          "x": 320,
+          "y": 0,
+          "width": 64,
+          "height": 105
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 64
+      },
+      "54": {
+        "rect": {
+          "x": 384,
+          "y": 0,
+          "width": 64,
+          "height": 105
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 64
+      },
+      "55": {
+        "rect": {
+          "x": 448,
+          "y": 0,
+          "width": 64,
+          "height": 105
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 64
+      },
+      "56": {
+        "rect": {
+          "x": 512,
+          "y": 0,
+          "width": 64,
+          "height": 105
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 64
+      },
+      "57": {
+        "rect": {
+          "x": 576,
+          "y": 0,
+          "width": 64,
+          "height": 105
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 64
+      },
+      "58": {
+        "rect": {
+          "x": 640,
+          "y": 0,
+          "width": 64,
+          "height": 105
+        },
+        "xOffset": 0,
+        "yOffset": 0,
+        "xAdvance": 64
+      }
+    },
+    "kerningDict": {}
+  },
+  "_fontDefDictionary": null
+}

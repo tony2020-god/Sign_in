@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2c94a3dd-9f87-4bd7-9a70-c7866bf1f7b2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1120,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "PCQuestion": {
+      "ver": "1.0.4",
+      "uuid": "4844b2d6-00c1-4541-908f-e61565e3b722",
+      "rawTextureUuid": "2c94a3dd-9f87-4bd7-9a70-c7866bf1f7b2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1116,
+      "height": 89,
+      "rawWidth": 1120,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

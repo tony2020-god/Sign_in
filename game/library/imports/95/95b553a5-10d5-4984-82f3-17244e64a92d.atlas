@@ -1,0 +1,13 @@
+
+hostBD-W.png
+size: 1888,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+red bd
+  rotate: false
+  xy: 2, 2
+  size: 1884, 540
+  orig: 1884, 834
+  offset: 0, 0
+  index: -1

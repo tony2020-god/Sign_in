@@ -1,0 +1,96 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Light",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "D9YWEbA2pIfrde9dbCgGRf/14zg",
+      "spine": "3.8.99",
+      "x": -524.5,
+      "y": -524.5,
+      "width": 1049,
+      "height": 1049
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "Dots",
+        "parent": "root"
+      },
+      {
+        "name": "LightO",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "Dots",
+        "bone": "Dots",
+        "attachment": "Dots"
+      },
+      {
+        "name": "LightO",
+        "bone": "LightO",
+        "attachment": "LightO"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "Dots": {
+            "Dots": {
+              "width": 1049,
+              "height": 1049
+            }
+          },
+          "LightO": {
+            "LightO": {
+              "width": 1049,
+              "height": 1049
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "animation": {
+        "bones": {
+          "LightO": {
+            "rotate": [
+              {},
+              {
+                "time": 0.2667,
+                "angle": 90
+              },
+              {
+                "time": 0.5,
+                "angle": 180
+              },
+              {
+                "time": 0.7667,
+                "angle": -90
+              },
+              {
+                "time": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nLight.png\nsize: 984,496\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nDots\n  rotate: false\n  xy: 2, 2\n  size: 488, 489\n  orig: 525, 525\n  offset: 19, 19\n  index: -1\nLightO\n  rotate: false\n  xy: 492, 2\n  size: 481, 422\n  orig: 525, 525\n  offset: 18, 50\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "e70e5da0-9c9b-43f0-a6cb-b71863cce642"
+    }
+  ],
+  "textureNames": [
+    "Light.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,853 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "Steam",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "+UDCmx5cebEKNcO62qZsb6MBTOg",
+      "spine": "3.8.99",
+      "x": -1938.76,
+      "y": -1005.09,
+      "width": 3977.49,
+      "height": 2128.92
+    },
+    "bones": [
+      {
+        "name": "main"
+      },
+      {
+        "name": "Steam3",
+        "parent": "main"
+      },
+      {
+        "name": "Steam4",
+        "parent": "main"
+      },
+      {
+        "name": "Steam2",
+        "parent": "main"
+      },
+      {
+        "name": "Steam02",
+        "parent": "main"
+      },
+      {
+        "name": "Steam1",
+        "parent": "main"
+      },
+      {
+        "name": "Steam01",
+        "parent": "main"
+      }
+    ],
+    "slots": [
+      {
+        "name": "Mask_PC",
+        "bone": "main",
+        "color": "0900ffff",
+        "attachment": "Mask_PC"
+      },
+      {
+        "name": "Mask_Mobile4",
+        "bone": "main",
+        "color": "00ff07ff",
+        "attachment": "Mask_Mobile"
+      },
+      {
+        "name": "Steam01",
+        "bone": "Steam01",
+        "attachment": "Steam01"
+      },
+      {
+        "name": "Steam1",
+        "bone": "Steam1",
+        "attachment": "Steam01"
+      },
+      {
+        "name": "Steam02",
+        "bone": "Steam02",
+        "attachment": "Steam02"
+      },
+      {
+        "name": "Steam3",
+        "bone": "Steam3",
+        "attachment": "Steam02"
+      },
+      {
+        "name": "Steam2",
+        "bone": "Steam2",
+        "attachment": "Steam02"
+      },
+      {
+        "name": "Steam4",
+        "bone": "Steam4",
+        "attachment": "Steam02"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "Mask_Mobile4": {
+            "Mask_Mobile": {
+              "type": "clipping",
+              "end": "Mask_Mobile4",
+              "vertexCount": 4,
+              "vertices": [
+                -1055.52,
+                1639.4,
+                -1055.52,
+                -2102.99,
+                1046.61,
+                -2102.99,
+                1043.21,
+                1642.8
+              ]
+            }
+          },
+          "Mask_PC": {
+            "Mask_PC": {
+              "type": "clipping",
+              "end": "Mask_PC",
+              "vertexCount": 4,
+              "vertices": [
+                -2062.54,
+                1123.92,
+                -2056.26,
+                -1183.05,
+                2035.93,
+                -1186.19,
+                2039.07,
+                1120.77
+              ]
+            }
+          },
+          "Steam01": {
+            "Steam01": {
+              "x": 947.72,
+              "y": 699.33,
+              "width": 654,
+              "height": 512
+            }
+          },
+          "Steam1": {
+            "Steam01": {
+              "x": -1093.1,
+              "y": 452.68,
+              "scaleX": 0.8463,
+              "scaleY": 0.8463,
+              "rotation": 148.7,
+              "width": 654,
+              "height": 512
+            }
+          },
+          "Steam02": {
+            "Steam02": {
+              "x": 1138.13,
+              "y": 971.82,
+              "width": 1113,
+              "height": 838
+            }
+          },
+          "Steam2": {
+            "Steam02": {
+              "x": 1479.61,
+              "y": -586.09,
+              "width": 1113,
+              "height": 838
+            }
+          },
+          "Steam3": {
+            "Steam02": {
+              "x": 1586.86,
+              "y": 455.53,
+              "width": 1113,
+              "height": 838
+            }
+          },
+          "Steam4": {
+            "Steam02": {
+              "x": -1382.26,
+              "y": 795.49,
+              "width": 1113,
+              "height": 838
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "Broken_M": {
+        "slots": {
+          "Mask_PC": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "Steam01": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam02": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam4": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "Steam1": {
+            "translate": [
+              {
+                "x": 275.1,
+                "y": -210.91
+              },
+              {
+                "time": 0.7333,
+                "x": 1130.34,
+                "y": -766.65
+              },
+              {
+                "time": 1.5,
+                "x": -610.54,
+                "y": 419.75
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.7333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "Steam4": {
+            "translate": [
+              {
+                "time": 0.7333
+              },
+              {
+                "time": 1.5,
+                "x": -376.24,
+                "y": 258.43
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.7333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "Steam01": {
+            "translate": [
+              {
+                "x": 275.1,
+                "y": -210.91
+              },
+              {
+                "time": 0.7333,
+                "x": -352.63,
+                "y": -344.95
+              },
+              {
+                "time": 1.5,
+                "x": 230.64,
+                "y": 254.59
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.7333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "Steam02": {
+            "translate": [
+              {
+                "x": 275.1,
+                "y": -210.91
+              },
+              {
+                "time": 0.6,
+                "x": -352.63,
+                "y": -344.95
+              },
+              {
+                "time": 0.7333,
+                "x": -580.13,
+                "y": -644.07
+              },
+              {
+                "time": 1.3667,
+                "x": 230.64,
+                "y": 254.59,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "x": 230.64,
+                "y": 254.59
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.7333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "Steam2": {
+            "translate": [
+              {
+                "x": 275.1,
+                "y": -210.91
+              },
+              {
+                "time": 0.8333,
+                "x": -626.46,
+                "y": 460.45
+              },
+              {
+                "time": 1.2667,
+                "x": -139.84,
+                "y": 129.75
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.8333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "Steam3": {
+            "translate": [
+              {
+                "x": 275.1,
+                "y": -210.91
+              },
+              {
+                "time": 0.7333,
+                "x": -352.63,
+                "y": -344.95
+              },
+              {
+                "time": 1.5,
+                "x": 230.64,
+                "y": 254.59
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.8333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "main": {
+            "rotate": [
+              {
+                "time": 0.8667,
+                "angle": 0.1
+              }
+            ]
+          }
+        }
+      },
+      "Broken_PC": {
+        "slots": {
+          "Steam01": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam02": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam3": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.9333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.5,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam4": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.1667,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "Steam1": {
+            "translate": [
+              {
+                "x": 275.1,
+                "y": -210.91
+              },
+              {
+                "time": 0.7333,
+                "x": 275.1,
+                "y": -206.32
+              },
+              {
+                "time": 1.5,
+                "x": -610.54,
+                "y": 419.75
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.7333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "Steam4": {
+            "translate": [
+              {
+                "time": 0.7333
+              },
+              {
+                "time": 1.5,
+                "x": -376.24,
+                "y": 258.43
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.7333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "Steam01": {
+            "translate": [
+              {
+                "x": 275.1,
+                "y": -210.91
+              },
+              {
+                "time": 0.7333,
+                "x": -352.63,
+                "y": -344.95
+              },
+              {
+                "time": 1.5,
+                "x": 230.64,
+                "y": 254.59
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.7333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "Steam02": {
+            "translate": [
+              {
+                "x": 275.1,
+                "y": -210.91
+              },
+              {
+                "time": 0.6,
+                "x": -352.63,
+                "y": -344.95,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.7333,
+                "x": -352.63,
+                "y": -344.95
+              },
+              {
+                "time": 1.3667,
+                "x": 230.64,
+                "y": 254.59,
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5,
+                "x": 230.64,
+                "y": 254.59
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.7333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "Steam2": {
+            "translate": [
+              {
+                "x": 275.1,
+                "y": -210.91
+              },
+              {
+                "time": 0.8333,
+                "x": -626.46,
+                "y": 460.45
+              },
+              {
+                "time": 1.2667,
+                "x": -139.84,
+                "y": 129.75
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.8333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "Steam3": {
+            "translate": [
+              {
+                "x": 275.1,
+                "y": -210.91
+              },
+              {
+                "time": 0.7333,
+                "x": -352.63,
+                "y": -344.95
+              },
+              {
+                "time": 1.5,
+                "x": 230.64,
+                "y": 254.59
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.8333
+              },
+              {
+                "time": 1.5,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          }
+        }
+      },
+      "Usual": {
+        "slots": {
+          "Steam01": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam1": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam02": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam2": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam3": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "Steam4": {
+            "color": [
+              {
+                "color": "ffffff00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nSteam.png\nsize: 988,380\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nSteam01\n  rotate: false\n  xy: 2, 2\n  size: 258, 193\n  orig: 327, 256\n  offset: 29, 33\n  index: -1\nSteam02\n  rotate: false\n  xy: 494, 2\n  size: 490, 374\n  orig: 557, 419\n  offset: 27, 14\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "570e5d4e-a7d9-4813-bfc4-b31abf11636c"
+    }
+  ],
+  "textureNames": [
+    "Steam.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "剩餘獎品",
+    "texture": "0430093e-8793-4243-bc92-ae90d96c29a1",
+    "atlas": "",
+    "rect": [
+      4,
+      5,
+      1179,
+      149
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      1188,
+      160
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

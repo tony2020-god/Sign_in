@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "得分2",
+    "texture": "db162829-0c93-4f93-b39c-8d83e89d0485",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      381,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      385,
+      138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

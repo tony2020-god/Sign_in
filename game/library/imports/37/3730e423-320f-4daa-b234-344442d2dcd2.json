@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "結束遊戲",
+    "texture": "1d4905f3-ea1f-4744-9900-908495b50a6f",
+    "atlas": "",
+    "rect": [
+      8,
+      7,
+      642,
+      228
+    ],
+    "offset": [
+      -0.5,
+      -2.5
+    ],
+    "originalSize": [
+      659,
+      237
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "哭臉",
+    "texture": "ae980c9c-0f48-4ede-91c4-7c12b333babd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      336,
+      336
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      336,
+      336
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

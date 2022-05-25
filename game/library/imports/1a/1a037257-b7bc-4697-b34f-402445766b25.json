@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "地鼠洞",
+    "texture": "427542f4-8697-4491-91e1-f4adcd9b8256",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      500,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      500,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

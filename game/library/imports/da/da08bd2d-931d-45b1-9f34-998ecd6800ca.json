@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GO-大",
+    "texture": "93f71d56-3b6a-43a3-81e4-bdc5fe950c01",
+    "atlas": "",
+    "rect": [
+      0,
+      8,
+      1270,
+      867
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      1270,
+      880
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

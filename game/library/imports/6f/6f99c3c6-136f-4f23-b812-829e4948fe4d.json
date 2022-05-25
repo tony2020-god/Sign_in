@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "倒數數字Red",
+    "texture": "563efa61-f4dc-48cf-95ce-a2c50a83f9ce",
+    "atlas": "",
+    "rect": [
+      14,
+      30,
+      1776,
+      183
+    ],
+    "offset": [
+      -3,
+      0.5
+    ],
+    "originalSize": [
+      1810,
+      244
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "PhoneQuestion",
+    "texture": "d5cee395-5a98-46ff-831c-06935b535e77",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      2285,
+      89
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      2292,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

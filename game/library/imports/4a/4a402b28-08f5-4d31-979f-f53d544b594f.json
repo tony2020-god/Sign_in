@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "選項底PC",
+    "texture": "a5c85c36-91e4-4415-a56b-c904aaea1a12",
+    "atlas": "",
+    "rect": [
+      17,
+      14,
+      2030,
+      178
+    ],
+    "offset": [
+      8.5,
+      0
+    ],
+    "originalSize": [
+      2047,
+      206
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

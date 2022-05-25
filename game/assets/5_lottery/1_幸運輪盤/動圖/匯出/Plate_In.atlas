@@ -1,0 +1,13 @@
+
+Plate_In.png
+size: 760,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Plate_In
+  rotate: false
+  xy: 2, 2
+  size: 754, 754
+  orig: 1212, 1212
+  offset: 229, 229
+  index: -1

@@ -1,0 +1,41 @@
+
+cloud-S.png
+size: 1680,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c-gift
+  rotate: false
+  xy: 844, 2
+  size: 362, 256
+  orig: 364, 258
+  offset: 1, 1
+  index: -1
+c-redbag
+  rotate: true
+  xy: 1208, 4
+  size: 254, 283
+  orig: 256, 285
+  offset: 1, 1
+  index: -1
+cloud
+  rotate: false
+  xy: 844, 260
+  size: 833, 214
+  orig: 843, 221
+  offset: 9, 1
+  index: -1
+cloud2
+  rotate: false
+  xy: 2, 476
+  size: 1441, 203
+  orig: 1442, 210
+  offset: 1, 1
+  index: -1
+cloud3
+  rotate: false
+  xy: 2, 94
+  size: 840, 380
+  orig: 847, 386
+  offset: 1, 1
+  index: -1
